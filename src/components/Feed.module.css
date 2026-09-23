@@ -1,0 +1,112 @@
+.feed {
+  position: relative;
+  width: 100%;
+  max-width: 450px;
+  height: 100dvh;
+  margin: 0 auto;
+  overflow: hidden;
+  background: var(--bg);
+}
+
+.scroller {
+  position: absolute;
+  inset: 0;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scroll-snap-type: y mandatory;
+  scrollbar-width: none;
+}
+
+.scroller::-webkit-scrollbar {
+  display: none;
+}
+
+.shell {
+  height: 100%;
+  scroll-snap-align: start;
+  scroll-snap-stop: always;
+}
+
+.sentinel {
+  height: 1px;
+}
+
+/* スライド内の動画枠と同じ位置（縦中央）に重ねる */
+.player {
+  position: absolute;
+  top: 50%;
+  translate: 0 -50%;
+  left: 0;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s;
+}
+
+.player[data-visible="true"] {
+  opacity: 1;
+}
+
+.playerFrame,
+.playerFrame iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+  pointer-events: none;
+}
+
+.pausedIcon {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  color: rgb(255 255 255 / 85%);
+  font-size: 48px;
+  text-shadow: 0 2px 8px rgb(0 0 0 / 60%);
+}
+
+.startScreen {
+  position: absolute;
+  inset: 0;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  padding: 0 24px;
+  background: var(--bg);
+  text-align: center;
+}
+
+.logo {
+  margin: 0;
+  color: var(--accent);
+  font-size: 32px;
+  letter-spacing: 0.02em;
+}
+
+.lead {
+  margin: 0;
+  color: var(--text-muted);
+  font-size: 14px;
+}
+
+.startButton {
+  margin-top: 16px;
+  padding: 14px 32px;
+  border: none;
+  border-radius: 999px;
+  background: var(--accent);
+  color: #000;
+  font: inherit;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.startButton:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
