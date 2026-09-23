@@ -97,4 +97,5 @@
   position: relative;
   pointer-events: none;
   padding-top: 24px;
+  min-width: 0;
 }
