@@ -1,5 +1,5 @@
 import type { FeedItem } from "../types";
-import { CLIPS } from "./clips";
+import { CLIP_COUNT, loadClip } from "./clips";
 
 export type Page = {
   items: FeedItem[];
@@ -7,15 +7,14 @@ export type Page = {
 };
 
 const PAGE_SIZE = 5;
-const LATENCY_MS = 300;
 
-/** API の代わりの疑似ページング。定数のクリップをループさせて無限に返す。 */
-export function fetchPage(cursor: number): Promise<Page> {
-  const items = Array.from({ length: PAGE_SIZE }, (_, i) => {
-    const index = cursor + i;
-    return { key: String(index), clip: CLIPS[index % CLIPS.length] };
-  });
-  return new Promise((resolve) => {
-    setTimeout(() => resolve({ items, nextCursor: cursor + PAGE_SIZE }), LATENCY_MS);
-  });
+/** API の代わりの疑似ページング。クリップをループさせて無限に返す。 */
+export async function fetchPage(cursor: number): Promise<Page> {
+  const items = await Promise.all(
+    Array.from({ length: PAGE_SIZE }, async (_, i) => {
+      const index = cursor + i;
+      return { key: String(index), clip: await loadClip(index % CLIP_COUNT) };
+    }),
+  );
+  return { items, nextCursor: cursor + PAGE_SIZE };
 }

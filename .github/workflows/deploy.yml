@@ -27,6 +27,7 @@ jobs:
       - run: pnpm install --frozen-lockfile
       - run: pnpm lint
       - run: pnpm fmt:check
+      - run: pnpm check:data
       - run: pnpm build
       - uses: actions/upload-pages-artifact@v3
         with:

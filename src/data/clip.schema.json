@@ -1,0 +1,104 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "additionalProperties": false,
+  "definitions": {
+    "Line": {
+      "additionalProperties": false,
+      "properties": {
+        "en": {
+          "minLength": 1,
+          "type": "string"
+        },
+        "end": {
+          "minimum": 0,
+          "type": "number"
+        },
+        "ja": {
+          "minLength": 1,
+          "type": "string"
+        },
+        "notes": {
+          "items": {
+            "$ref": "#/definitions/Note"
+          },
+          "type": "array"
+        },
+        "start": {
+          "description": "元動画の先頭からの秒数",
+          "minimum": 0,
+          "type": "number"
+        }
+      },
+      "required": ["start", "end", "en", "ja"],
+      "type": "object"
+    },
+    "Note": {
+      "additionalProperties": false,
+      "properties": {
+        "match": {
+          "description": "トランスクリプト中でリンクにする文字列（省略時は term）",
+          "minLength": 1,
+          "type": "string"
+        },
+        "meaning": {
+          "minLength": 1,
+          "type": "string"
+        },
+        "term": {
+          "description": "解説の見出し",
+          "minLength": 1,
+          "type": "string"
+        }
+      },
+      "required": ["term", "meaning"],
+      "type": "object"
+    }
+  },
+  "description": "src/data/clips/*.json の中身",
+  "properties": {
+    "$schema": {
+      "description": "エディタでスキーマ検証を有効にするための参照",
+      "type": "string"
+    },
+    "end": {
+      "minimum": 0,
+      "type": "number"
+    },
+    "id": {
+      "description": "クリップの ID。ファイル名（拡張子なし）と一致させる",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "type": "string"
+    },
+    "lines": {
+      "items": {
+        "$ref": "#/definitions/Line"
+      },
+      "minItems": 1,
+      "type": "array"
+    },
+    "memo": {
+      "description": "編集用のメモ（画面には表示しない）",
+      "type": "string"
+    },
+    "start": {
+      "description": "元動画の先頭からの秒数",
+      "minimum": 0,
+      "type": "number"
+    },
+    "talent": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "title": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "videoId": {
+      "description": "YouTube の動画 ID",
+      "pattern": "^[A-Za-z0-9_-]{11}$",
+      "type": "string"
+    }
+  },
+  "required": ["end", "id", "lines", "start", "talent", "title", "videoId"],
+  "type": "object"
+}

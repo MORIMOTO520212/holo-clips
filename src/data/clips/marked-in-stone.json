@@ -1,0 +1,214 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "marked-in-stone",
+  "videoId": "ZM6erDsYGgY",
+  "start": 0,
+  "end": 104,
+  "title": "Marked In Stone",
+  "talent": "Koseki Bijou",
+  "lines": [
+    {
+      "start": 0.58,
+      "end": 3.89,
+      "en": "\"Use a marker.\" I never bought any markers.",
+      "ja": "マーカー？買ったことないよ"
+    },
+    {
+      "start": 3.89,
+      "end": 5.59,
+      "en": "See, I have a problem.",
+      "ja": "だって…",
+      "notes": [
+        {
+          "term": "I have a problem",
+          "meaning": "「困った癖があってさ」。依存ぎみな癖を自虐的に言う定番表現"
+        }
+      ]
+    },
+    {
+      "start": 5.59,
+      "end": 9.59,
+      "en": "If I buy too many markers, I end up sniffing all of them.",
+      "ja": "マーカーをいっぱい買うと全部クンクンしちゃうからね",
+      "notes": [
+        {
+          "term": "end up ~ing",
+          "match": "end up sniffing",
+          "meaning": "結局〜してしまう"
+        }
+      ]
+    },
+    {
+      "start": 9.59,
+      "end": 12.8,
+      "en": "Because I want to like smell all the fruits.",
+      "ja": "フルーツの香りがすると嗅いじゃうでしょ"
+    },
+    {
+      "start": 12.8,
+      "end": 16.4,
+      "en": "So, like strawberry flavor and, and, uh",
+      "ja": "いちごフレーバーのやつとか…"
+    },
+    {
+      "start": 18.5,
+      "end": 21.57,
+      "en": "green apple, blue raspberry,",
+      "ja": "青りんごとかラズベリーとかね"
+    },
+    {
+      "start": 21.57,
+      "end": 28.01,
+      "en": "But I sniff it so much that it dries up way too quickly...",
+      "ja": "でもクンカクンカしすぎて マーカーがカラカラになっちゃうの",
+      "notes": [
+        {
+          "term": "dry up",
+          "match": "dries up",
+          "meaning": "乾ききる・干からびる"
+        }
+      ]
+    },
+    {
+      "start": 28.01,
+      "end": 30.41,
+      "en": "And the markers don't even get used. Because I'm...",
+      "ja": "まだ使ってすらいないマーカーが…"
+    },
+    {
+      "start": 30.41,
+      "end": 35.15,
+      "en": "All... all I'm doing is smelling them. That's the issue.",
+      "ja": "匂いを嗅ぎまくったせいでダメになっちゃう"
+    },
+    {
+      "start": 35.85,
+      "end": 37.02,
+      "en": "Hello?",
+      "ja": "なんてね～！"
+    },
+    {
+      "start": 37.29,
+      "end": 38.76,
+      "en": "Tis joke...",
+      "ja": "冗談！",
+      "notes": [
+        {
+          "term": "'Tis",
+          "match": "Tis",
+          "meaning": "It is の古風な言い方。ふざけて芝居がかった口調に"
+        }
+      ]
+    },
+    {
+      "start": 39.26,
+      "end": 41.26,
+      "en": "Disclaimer, it's a joke...",
+      "ja": "今の話は冗談です",
+      "notes": [
+        {
+          "term": "Disclaimer",
+          "meaning": "免責事項。転じて「一応言っておくと」"
+        }
+      ]
+    },
+    {
+      "start": 41.26,
+      "end": 46.66,
+      "en": "But there are things such as fruit scented markers. They exist.",
+      "ja": "でもフルーツの香りつきマーカーが 存在するのは本当だよ"
+    },
+    {
+      "start": 46.66,
+      "end": 51.23,
+      "en": "Have you not experienced the joy of fruit scented markers?",
+      "ja": "フルーツフレーバーのマーカーの香り 味わったことない？"
+    },
+    {
+      "start": 51.23,
+      "end": 52.9,
+      "en": "They smell very nice.",
+      "ja": "めっちゃいい香りだよ"
+    },
+    {
+      "start": 53.34,
+      "end": 54.67,
+      "en": "\"Don't eat them.\"",
+      "ja": "「食べちゃダメだよ」？"
+    },
+    {
+      "start": 54.67,
+      "end": 57.31,
+      "en": "I never said anything about eating them.",
+      "ja": "食べるなんて一言も言ってないじゃん"
+    },
+    {
+      "start": 57.31,
+      "end": 61.05,
+      "en": "But that's why I've never allowed myself to buy slime yet...",
+      "ja": "同じ理由でスライムも買わないようにしてる",
+      "notes": [
+        {
+          "term": "allow myself to ~",
+          "match": "allowed myself to buy",
+          "meaning": "自分に〜するのを許す。never allowed myself to buy で「買わないよう我慢してきた」"
+        }
+      ]
+    },
+    {
+      "start": 61.05,
+      "end": 64.52,
+      "en": "Because once, I buy one slime, That's it.",
+      "ja": "だって買っちゃったら…もう終わりだよ"
+    },
+    {
+      "start": 64.52,
+      "end": 67.35,
+      "en": "I'm gonna... I'm gonna start a whole...",
+      "ja": "買ってしまったが最後…"
+    },
+    {
+      "start": 67.35,
+      "end": 70.02,
+      "en": "All my money is going into slime budget.",
+      "ja": "スライムに全財産突っ込んじゃう"
+    },
+    {
+      "start": 70.65,
+      "end": 72.22,
+      "en": "Once I've played with it once it's over.",
+      "ja": "一度知ってしまったら終わり…"
+    },
+    {
+      "start": 72.22,
+      "end": 73.36,
+      "en": "And number two...",
+      "ja": "それに…"
+    },
+    {
+      "start": 74.22,
+      "end": 77.89,
+      "en": "Apparently they make slime smells really really good, so...",
+      "ja": "スライムってめっちゃいい匂いがするらしいから"
+    },
+    {
+      "start": 79.6,
+      "end": 82.9,
+      "en": "That plus the combination of the jelly like texture, I might...",
+      "ja": "ぷるぷるした感触も相まって…"
+    },
+    {
+      "start": 82.9,
+      "end": 85,
+      "en": "I might be inclined to do a little...",
+      "ja": "そんなの手にしたらもう──",
+      "notes": [
+        {
+          "term": "be inclined to ~",
+          "match": "be inclined to",
+          "meaning": "〜したい気になる・〜しがち"
+        }
+      ]
+    }
+  ]
+}

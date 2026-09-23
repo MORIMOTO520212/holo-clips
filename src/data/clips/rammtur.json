@@ -1,0 +1,235 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "rammtur",
+  "videoId": "_xJnbLl6wqU",
+  "start": 0,
+  "end": 113,
+  "title": "Rammtür",
+  "talent": "Cecilia Immergreen",
+  "lines": [
+    {
+      "start": 1.89,
+      "end": 3.95,
+      "en": "Why are there so many doors, but they're locked?",
+      "ja": "どの扉も鍵がかかってる…"
+    },
+    {
+      "start": 3.95,
+      "end": 6.32,
+      "en": "Oh my god, this is a metaphor for life.",
+      "ja": "まるで人生のよう…",
+      "notes": [
+        {
+          "term": "metaphor",
+          "meaning": "比喩・たとえ"
+        }
+      ]
+    },
+    {
+      "start": 6.32,
+      "end": 9.66,
+      "en": "If one door closes, another one opens.",
+      "ja": "扉が一つ閉まると、また別の扉が開く"
+    },
+    {
+      "start": 9.66,
+      "end": 12.83,
+      "en": "Unless you locked yourself in.",
+      "ja": "閉じ込められた場合を除いてね！",
+      "notes": [
+        {
+          "term": "unless",
+          "match": "Unless",
+          "meaning": "〜でない限り・〜の場合を除いて"
+        }
+      ]
+    },
+    {
+      "start": 12.83,
+      "end": 14.56,
+      "en": "You know what happened the other day?",
+      "ja": "この前あった話だけどさぁ"
+    },
+    {
+      "start": 14.56,
+      "end": 16.33,
+      "en": "No, have I talked about this? I don't think so.",
+      "ja": "コレまだ話してないよね？"
+    },
+    {
+      "start": 16.33,
+      "end": 21.57,
+      "en": "So, I ordered a mini dishwasher, like a countertop dishwasher, like a tiny dishwasher.",
+      "ja": "ミニ食洗機を注文したんだよ 卓上型で小さめのやつ",
+      "notes": [
+        {
+          "term": "countertop",
+          "meaning": "キッチンの調理台（の上に置くタイプ）＝卓上型"
+        }
+      ]
+    },
+    {
+      "start": 21.7,
+      "end": 26.78,
+      "en": "And it's, you know, it's tiny, but it's still heavy, you know?",
+      "ja": "小さめといっても 食洗機だから大きいし重いでしょ"
+    },
+    {
+      "start": 26.78,
+      "end": 33.25,
+      "en": "So, I bought quite a bit of stuff. Like knick-knacks and just things to make it more comfortable.",
+      "ja": "とにかく私は生活に便利なグッズを いろいろ注文してたんだ"
+    },
+    {
+      "start": 33.25,
+      "end": 36.32,
+      "en": "And usually they ring the doorbell and then, you know,",
+      "ja": "宅配ってさ、配達の人が呼び鈴を鳴らして",
+      "notes": [
+        {
+          "term": "ring the doorbell",
+          "meaning": "呼び鈴を鳴らす"
+        }
+      ]
+    },
+    {
+      "start": 36.32,
+      "end": 40.56,
+      "en": "then you have to let them in and then they come up, or, you know, give the package,",
+      "ja": "家主は中に招き入れて商品を受け取る"
+    },
+    {
+      "start": 40.56,
+      "end": 44.03,
+      "en": "or you have to go out and pick it up. Sometimes you have to sign.",
+      "ja": "もしくは外に出てサインしたりして受け取る"
+    },
+    {
+      "start": 44.03,
+      "end": 46.56,
+      "en": "That's just how it is in the world that we live in.",
+      "ja": "それがこの世の普通ってもんでしょ"
+    },
+    {
+      "start": 46.56,
+      "end": 50.63,
+      "en": "But then the other day, I really had to go. I had to go out",
+      "ja": "でもこの前、用事があって…"
+    },
+    {
+      "start": 50.63,
+      "end": 53.3,
+      "en": "because, you know, I had work to do.",
+      "ja": "外に出ようとした時"
+    },
+    {
+      "start": 53.3,
+      "end": 56.44,
+      "en": "And I opened the door and the door is blocked.",
+      "ja": "扉を開けようとしても開かない"
+    },
+    {
+      "start": 56.44,
+      "end": 60.64,
+      "en": "My exit, my door, the door of my apartment, the door.",
+      "ja": "私が住んでる部屋の玄関の扉がだよ"
+    },
+    {
+      "start": 60.64,
+      "end": 61.74,
+      "en": "I'm like, \"What the—\"",
+      "ja": "「あれー？」",
+      "notes": [
+        {
+          "term": "What the—",
+          "meaning": "What the heck などを言いかけて止めた驚きの表現"
+        }
+      ]
+    },
+    {
+      "start": 61.74,
+      "end": 64.08,
+      "en": "So, I just keep pushing it.",
+      "ja": "ガチャガチャしても開かない"
+    },
+    {
+      "start": 64.15,
+      "end": 66.08,
+      "en": "And the post person",
+      "ja": "なんと宅配の人が…"
+    },
+    {
+      "start": 66.08,
+      "end": 71.69,
+      "en": "put the giant dishwasher on the floor right in front of the door,",
+      "ja": "でっかい食洗機を 玄関扉の真ん前に置き配してて"
+    },
+    {
+      "start": 71.69,
+      "end": 74.02,
+      "en": "so I couldn't get out anymore.",
+      "ja": "出られなくなったんだよ！"
+    },
+    {
+      "start": 74.02,
+      "end": 75.09,
+      "en": "I couldn't get out.",
+      "ja": "閉じ込められた！"
+    },
+    {
+      "start": 75.09,
+      "end": 76.93,
+      "en": "I messaged the others.",
+      "ja": "みんなにDMしたよ"
+    },
+    {
+      "start": 76.93,
+      "end": 79.93,
+      "en": "I'm like, \"Help! Help! Someone help me! I'm stuck! Help! Help!\"",
+      "ja": "「誰か助けて！部屋に閉じ込められた！」"
+    },
+    {
+      "start": 79.93,
+      "end": 81.63,
+      "en": "And then Liz is like,",
+      "ja": "そしたらリズが…"
+    },
+    {
+      "start": 81.63,
+      "end": 84.27,
+      "en": "\"I'm on my way. Don't worry.\"",
+      "ja": "「今向かってる！心配無用！」",
+      "notes": [
+        {
+          "term": "on my way",
+          "meaning": "今そっちに向かっている"
+        }
+      ]
+    },
+    {
+      "start": 84.27,
+      "end": 88.31,
+      "en": "A couple minutes later,",
+      "ja": "それで…数分待ってたら…ｗ"
+    },
+    {
+      "start": 88.31,
+      "end": 93.11,
+      "en": "she gets to pick up the—",
+      "ja": "リズが食洗機をどかしてくれて…ｗ"
+    },
+    {
+      "start": 93.51,
+      "end": 96.95,
+      "en": "the dishwasher so I can get out of my apartment.",
+      "ja": "やっと部屋から出られました"
+    },
+    {
+      "start": 96.95,
+      "end": 98.02,
+      "en": "Thanks, Liz.",
+      "ja": "女王様様！"
+    }
+  ],
+  "memo": "英語は自動字幕から整形・要確認"
+}
