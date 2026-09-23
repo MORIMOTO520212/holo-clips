@@ -2,8 +2,9 @@
   position: relative;
   overflow: hidden;
   isolation: isolate;
-  display: flex;
-  flex-direction: column;
+  /* 上下の行を padding に関係なく同じ高さにして、動画を正確に縦中央へ置く（プレイヤーの位置と一致させる） */
+  display: grid;
+  grid-template-rows: minmax(0, 1fr) auto minmax(0, 1fr);
   height: 100%;
 }
 
@@ -19,8 +20,6 @@
 }
 
 .header {
-  flex: 1;
-  min-height: 0;
   padding: calc(16px + env(safe-area-inset-top)) 20px 0;
 }
 
@@ -97,7 +96,5 @@
 .bottom {
   position: relative;
   pointer-events: none;
-  flex: 1;
-  min-height: 0;
   padding-top: 24px;
 }

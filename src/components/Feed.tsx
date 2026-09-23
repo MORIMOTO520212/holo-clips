@@ -77,24 +77,46 @@ export function Feed() {
     const scroller = scrollerRef.current;
     if (!scroller) return;
     let timer: number | undefined;
+    let fingerLifted = false;
+    let lastTop = scroller.scrollTop;
     const indexAt = () => Math.round(scroller.scrollTop / scroller.clientHeight);
     const settle = () => {
       window.clearTimeout(timer);
+      fingerLifted = false;
       setScrolling(false);
       setActiveIndex(indexAt());
     };
     const onScroll = () => {
+      const top = scroller.scrollTop;
+      const delta = top - lastTop;
+      lastTop = top;
       setScrolling(true);
       setViewIndex(indexAt());
+      // 指を離した後はスナップ先へ一方向に進むので、進行方向から行き先を確定し、
+      // スナップのアニメーション中に動画の読み込みを始めておく（scroll-snap-stop: always で 1 枚ずつ進む）
+      if (fingerLifted && delta !== 0) {
+        const position = top / scroller.clientHeight;
+        setActiveIndex(delta > 0 ? Math.ceil(position) : Math.floor(position));
+      }
       window.clearTimeout(timer);
       timer = window.setTimeout(settle, SETTLE_DELAY_MS);
     };
+    const onTouchStart = () => {
+      fingerLifted = false;
+    };
+    const onTouchEnd = () => {
+      fingerLifted = true;
+    };
     scroller.addEventListener("scroll", onScroll, { passive: true });
     scroller.addEventListener("scrollend", settle);
+    scroller.addEventListener("touchstart", onTouchStart, { passive: true });
+    scroller.addEventListener("touchend", onTouchEnd, { passive: true });
     return () => {
       window.clearTimeout(timer);
       scroller.removeEventListener("scroll", onScroll);
       scroller.removeEventListener("scrollend", settle);
+      scroller.removeEventListener("touchstart", onTouchStart);
+      scroller.removeEventListener("touchend", onTouchEnd);
     };
   }, []);
 
