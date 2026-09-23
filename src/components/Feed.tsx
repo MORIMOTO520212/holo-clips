@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useRef, useState } from "react";
-import { fetchPage } from "../data/fetchPage";
+import { fetchPage, shuffledOrder } from "../data/fetchPage";
 import { findLineIndex } from "../lib/lines";
 import { createPlayer, PlayerState, type YTPlayer } from "../lib/youtube";
 import type { FeedItem, Line, Note } from "../types";
@@ -12,11 +12,15 @@ const RENDER_RANGE = 2;
 /** スクロールが止まったとみなすまでの時間（scrollend 非対応ブラウザ向け） */
 const SETTLE_DELAY_MS = 150;
 const SYNC_INTERVAL_MS = 200;
+/** PAUSED が継続したら広告とみなして次の動画へ送る秒数 */
+const AD_DETECT_SECONDS = 5;
 
 export function Feed() {
   const [items, setItems] = useState<FeedItem[]>([]);
   const nextCursorRef = useRef(0);
   const loadingRef = useRef(false);
+  // 起動時に 1 度だけ決まるシャッフル順。全ページで同じ順を消費する
+  const orderRef = useRef<number[]>(shuffledOrder());
 
   const scrollerRef = useRef<HTMLDivElement>(null);
   const sentinelRef = useRef<HTMLDivElement>(null);
@@ -38,6 +42,10 @@ export function Feed() {
   const [openNote, setOpenNote] = useState<{ note: Note; line: Line } | null>(null);
   /** モーダルを開く前に再生中だったか（閉じたときに再開するため） */
   const resumeOnCloseRef = useRef(false);
+  /** ユーザーが togglePlay で意図的に一時停止したか（広告検知では使わない） */
+  const manualPausedRef = useRef(false);
+  /** PAUSED に遷移した時刻（広告検知用）。PLAYING でリセット */
+  const pausedSinceRef = useRef<number | null>(null);
 
   const activeItem = items[activeIndex] as FeedItem | undefined;
   const activeItemRef = useRef(activeItem);
@@ -48,7 +56,7 @@ export function Feed() {
   const loadMore = useCallback(async () => {
     if (loadingRef.current) return;
     loadingRef.current = true;
-    const page = await fetchPage(nextCursorRef.current);
+    const page = await fetchPage(nextCursorRef.current, orderRef.current);
     nextCursorRef.current = page.nextCursor;
     setItems((prev) => [...prev, ...page.items]);
     loadingRef.current = false;
@@ -149,8 +157,10 @@ export function Feed() {
           if (data === PlayerState.PLAYING) {
             setPlayingKey(loadedKeyRef.current);
             setPaused(false);
+            pausedSinceRef.current = null;
           } else if (data === PlayerState.PAUSED) {
             setPaused(true);
+            if (pausedSinceRef.current === null) pausedSinceRef.current = Date.now();
           } else if (data === PlayerState.ENDED && item) {
             // クリップを繰り返す
             playerRef.current?.seekTo(item.clip.start, true);
@@ -226,11 +236,34 @@ export function Feed() {
     return () => window.clearInterval(timer);
   }, [activeItem, playingKey]);
 
+  // 広告検知: PAUSED が AD_DETECT_SECONDS 続いたら次の動画へ自動送り
+  useEffect(() => {
+    if (!paused || manualPausedRef.current || pausedSinceRef.current === null) return;
+    const since = pausedSinceRef.current;
+    const timer = window.setTimeout(() => {
+      if (manualPausedRef.current) return;
+      if (pausedSinceRef.current !== since) return;
+      pausedSinceRef.current = null;
+      const scroller = scrollerRef.current;
+      if (!scroller) return;
+      if (activeIndex + 1 >= items.length) return;
+      scroller.scrollTo({ top: scroller.clientHeight * (activeIndex + 1), behavior: "smooth" });
+    }, AD_DETECT_SECONDS * 1000);
+    return () => window.clearTimeout(timer);
+  }, [paused, activeIndex, items.length]);
+
   const togglePlay = () => {
     const player = playerRef.current;
     if (!player) return;
-    if (player.getPlayerState() === PlayerState.PLAYING) player.pauseVideo();
-    else player.playVideo();
+    if (player.getPlayerState() === PlayerState.PLAYING) {
+      // ユーザー操作によるポーズは広告ではない
+      manualPausedRef.current = true;
+      pausedSinceRef.current = null;
+      player.pauseVideo();
+    } else {
+      manualPausedRef.current = false;
+      player.playVideo();
+    }
   };
 
   const seekLine = (line: Line) => {
@@ -244,12 +277,15 @@ export function Feed() {
   const openNoteModal = (note: Note, line: Line) => {
     const player = playerRef.current;
     resumeOnCloseRef.current = player?.getPlayerState() === PlayerState.PLAYING;
+    pausedSinceRef.current = null;
+    manualPausedRef.current = true;
     player?.pauseVideo();
     setOpenNote({ note, line });
   };
 
   const closeNoteModal = useCallback(() => {
     if (resumeOnCloseRef.current) playerRef.current?.playVideo();
+    manualPausedRef.current = false;
     setOpenNote(null);
   }, []);
 

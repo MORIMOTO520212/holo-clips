@@ -3,12 +3,17 @@
   flex-direction: column;
   gap: 8px;
   padding: 0 16px;
+  /* flex 子要素が min-content で親幅を突き抜けないように */
+  min-width: 0;
 }
 
 .sub,
 .current {
   display: block;
-  width: 100%;
+  /* flex/grid 子は既定で min-width: auto (= min-content) になり 1 単語に切り詰められないので
+     ここでは確実に min-width: 0 にして親幅でクランプする */
+  min-width: 0;
+  max-width: 100%;
   padding: 0;
   border: none;
   background: none;
@@ -19,7 +24,6 @@
 }
 
 .sub {
-  min-height: 1.4em;
   overflow: hidden;
   color: var(--text-dim);
   font-size: 12px;

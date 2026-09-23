@@ -31,11 +31,12 @@
   height: 1px;
 }
 
-/* スライド内の動画枠と同じ位置（縦中央）に重ねる */
+/* スライド内の動画枠より上に重ねる。映像（16:9）は要素内で中央配置されるため、
+   top に iframe 高さの半分を足した値が映像中心になる。
+*/
 .player {
   position: absolute;
-  top: 50%;
-  translate: 0 -50%;
+  top: 24%;
   left: 0;
   width: 100%;
   aspect-ratio: 16 / 9;
