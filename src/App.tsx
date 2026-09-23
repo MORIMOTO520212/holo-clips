@@ -1,5 +1,10 @@
+import { AuthGate } from "./components/AuthGate";
 import { Feed } from "./components/Feed";
 
 export default function App() {
-  return <Feed />;
+  return (
+    <AuthGate>
+      <Feed />
+    </AuthGate>
+  );
 }

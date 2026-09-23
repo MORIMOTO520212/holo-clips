@@ -29,6 +29,8 @@ jobs:
       - run: pnpm fmt:check
       - run: pnpm check:data
       - run: pnpm build
+        env:
+          VITE_AUTH_PASSWORD: ${{ secrets.VITE_AUTH_PASSWORD }}
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
