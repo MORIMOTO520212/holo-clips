@@ -1,0 +1,36 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "cheer-reaper",
+  "videoId": "cGxpHdLX9p0",
+  "start": 0,
+  "end": 19,
+  "title": "Cheer Reaper",
+  "talent": "Hakos Baelz",
+  "lines": [
+    {
+      "start": 2,
+      "end": 8,
+      "en": "Aggressive! B! B! Aggressive!",
+      "ja": "アグレッシブ！ビー！ビー！アグレッシブ！",
+      "notes": [
+        {
+          "term": "Be Aggressive",
+          "match": "Aggressive",
+          "meaning": "チアリーディングの定番チャント「Be Aggressive, B-E Aggressive」を叫ぶネタ動画。自動生成字幕のため文言はやや不明瞭"
+        }
+      ]
+    },
+    {
+      "start": 8,
+      "end": 14,
+      "en": "B! Aggressive! B! B! Aggressive!",
+      "ja": "ビー！アグレッシブ！ビー！ビー！アグレッシブ！"
+    },
+    {
+      "start": 14,
+      "end": 17,
+      "en": "Calliope Mori!",
+      "ja": "森カリオペ！"
+    }
+  ]
+}

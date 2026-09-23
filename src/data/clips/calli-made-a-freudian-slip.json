@@ -1,0 +1,131 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "calli-made-a-freudian-slip",
+  "videoId": "0PvV13pJIYw",
+  "start": 0,
+  "end": 53,
+  "title": "Calli made a freudian slip",
+  "talent": "Mori Calliope, Takanashi Kiara",
+  "lines": [
+    {
+      "start": 0,
+      "end": 1,
+      "en": "What are we doing?",
+      "ja": "私たち何してるの？"
+    },
+    {
+      "start": 1,
+      "end": 2,
+      "en": "Great question.",
+      "ja": "いい質問だね"
+    },
+    {
+      "start": 2,
+      "end": 3,
+      "en": "Wanna kiss?",
+      "ja": "キスしたい？"
+    },
+    {
+      "start": 3,
+      "end": 6,
+      "en": "Haha, just kidding! Oh, yes!",
+      "ja": "ハハ、冗談だよ！あ、うん！"
+    },
+    {
+      "start": 6,
+      "end": 7.5,
+      "en": "I was talking about the characters.",
+      "ja": "キャラクターの話をしてたんだよ"
+    },
+    {
+      "start": 7.5,
+      "end": 9.5,
+      "en": "No, no, no, I was talking about the characters.",
+      "ja": "違う違う違う、キャラクターの話をしてたの"
+    },
+    {
+      "start": 9.5,
+      "end": 11.2,
+      "en": "I was making a funny joke about the cha—",
+      "ja": "キャラについて面白い冗談を言おうとして…"
+    },
+    {
+      "start": 11.2,
+      "end": 12,
+      "en": "It's okay, it's okay.",
+      "ja": "大丈夫、大丈夫だから"
+    },
+    {
+      "start": 12,
+      "end": 17.1,
+      "en": "We're just in-character. We're role-playing, Calli.",
+      "ja": "ただキャラクターになりきってるだけだよ。ロールプレイしてるの、カリ"
+    },
+    {
+      "start": 17.1,
+      "end": 18.2,
+      "en": "Mwah, mwah♥",
+      "ja": "ちゅっ、ちゅっ♥"
+    },
+    {
+      "start": 18.2,
+      "end": 20,
+      "en": "Where is the exit!?",
+      "ja": "出口はどこ！？"
+    },
+    {
+      "start": 20,
+      "end": 22,
+      "en": "It's okay, Calli. It's okay.",
+      "ja": "大丈夫だよ、カリ。大丈夫"
+    },
+    {
+      "start": 22,
+      "end": 24,
+      "en": "Get me out of here now.",
+      "ja": "今すぐここから出して"
+    },
+    {
+      "start": 24,
+      "end": 28,
+      "en": "It's just these two characters we're role-playing, you know.",
+      "ja": "これはただの、私たちが演じてる二人のキャラクターだから"
+    },
+    {
+      "start": 28,
+      "end": 30,
+      "en": "Well, guess what. There's a fence between us.",
+      "ja": "まあ、聞いて。私たちの間にはフェンスがあるの"
+    },
+    {
+      "start": 30,
+      "end": 33,
+      "en": "HA! So good luck. This is dramatic...",
+      "ja": "はっ！じゃあ頑張ってね。これって大げさだね…"
+    },
+    {
+      "start": 33,
+      "end": 36,
+      "en": "I'm outta here. Calli... Calli, take my hand.",
+      "ja": "もう行くね。カリ…カリ、手を取って",
+      "notes": [
+        {
+          "term": "outta here",
+          "meaning": "out of here の口語的な短縮形"
+        }
+      ]
+    },
+    {
+      "start": 36,
+      "end": 39,
+      "en": "No, I'd rather have this pipe going through my head.",
+      "ja": "いや、それよりこのパイプが頭を貫通する方がマシ",
+      "notes": [
+        {
+          "term": "I'd rather",
+          "meaning": "「〜する方がましだ・〜したい」（I would rather の短縮）"
+        }
+      ]
+    }
+  ]
+}

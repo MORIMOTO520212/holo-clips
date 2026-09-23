@@ -1,0 +1,264 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "kronii-refuse-to-accept-her-defeat",
+  "videoId": "7FCIqfCiL-c",
+  "start": 0,
+  "end": 96,
+  "title": "Kronii refuse to accept her defeat",
+  "talent": "Ouro Kronii",
+  "lines": [
+    {
+      "start": 0,
+      "end": 1,
+      "en": "Pain!",
+      "ja": "痛っ！"
+    },
+    {
+      "start": 1,
+      "end": 3,
+      "en": "Pain! Pain! Pain! Pain! Pain! Pain! Ora!",
+      "ja": "痛っ！痛っ！痛っ！痛っ！痛っ！痛っ！……オラ！",
+      "notes": [
+        {
+          "term": "Ora",
+          "meaning": "殴る・攻撃する時などに使う日本語の掛け声"
+        }
+      ]
+    },
+    {
+      "start": 3,
+      "end": 4,
+      "en": "\"Ora!\" \"Woooh!\"",
+      "ja": "「オラ！」「うおおお！」"
+    },
+    {
+      "start": 4,
+      "end": 11,
+      "en": "Hahaha! OK, Polka is the chanbara champion.",
+      "ja": "ハハハ！オーケー、ポルカがチャンバラチャンピオンだ",
+      "notes": [
+        {
+          "term": "chanbara",
+          "meaning": "日本語の「ちゃんばら」＝刀などを使った殺陣・剣術ごっこ"
+        }
+      ]
+    },
+    {
+      "start": 11,
+      "end": 19,
+      "en": "Chanbara champion Polka~ Say it with more gusto~",
+      "ja": "チャンバラチャンピオン、ポルカ〜　もっと気合入れて言って〜",
+      "notes": [
+        {
+          "term": "gusto",
+          "meaning": "熱意・気合"
+        }
+      ]
+    },
+    {
+      "start": 19,
+      "end": 27,
+      "en": "Chanbara champion, congratulations~ Thank you~!",
+      "ja": "チャンバラチャンピオン、おめでとう〜　ありがとう〜！"
+    },
+    {
+      "start": 27,
+      "end": 29,
+      "en": "What?",
+      "ja": "え？"
+    },
+    {
+      "start": 29,
+      "end": 30,
+      "en": "What is it?",
+      "ja": "何？"
+    },
+    {
+      "start": 30,
+      "end": 32,
+      "en": "WHY？",
+      "ja": "なんで！？"
+    },
+    {
+      "start": 32,
+      "end": 38,
+      "en": "I was going easy. You went easy on me?",
+      "ja": "私、手加減してたんだよね。私に手加減してたの？",
+      "notes": [
+        {
+          "term": "go easy on",
+          "match": "went easy on",
+          "meaning": "「〜に手加減する」（go easy on の過去形）"
+        }
+      ]
+    },
+    {
+      "start": 38,
+      "end": 42,
+      "en": "Eh? Eh? Eh? Eh? Eh?",
+      "ja": "え？え？え？え？え？"
+    },
+    {
+      "start": 42,
+      "end": 43,
+      "en": "Did you go easy on me?",
+      "ja": "私に手加減してたの？"
+    },
+    {
+      "start": 43,
+      "end": 45,
+      "en": "Eh? Eh?",
+      "ja": "え？え？"
+    },
+    {
+      "start": 45,
+      "end": 49,
+      "en": "(www) (www) Japanese lesson time.",
+      "ja": "（www）（www）日本語レッスンの時間だよ",
+      "notes": [
+        {
+          "term": "www",
+          "meaning": "日本語のネットスラングで「笑」を意味する表現"
+        }
+      ]
+    },
+    {
+      "start": 49,
+      "end": 51.5,
+      "en": "I'm going to teach you a new phrase, Kronii.",
+      "ja": "新しいフレーズを教えてあげる、クロニー"
+    },
+    {
+      "start": 51.5,
+      "end": 53,
+      "en": "Teach me.",
+      "ja": "教えて"
+    },
+    {
+      "start": 53,
+      "end": 54,
+      "en": "\"Lick\"",
+      "ja": "「舐めろ」"
+    },
+    {
+      "start": 54,
+      "end": 54.8,
+      "en": "Lick.",
+      "ja": "舐めろ"
+    },
+    {
+      "start": 54.8,
+      "end": 55.5,
+      "en": "\"My\"",
+      "ja": "「私の」"
+    },
+    {
+      "start": 55.5,
+      "end": 56.8,
+      "en": "Lick my.",
+      "ja": "舐めろ、私の"
+    },
+    {
+      "start": 56.8,
+      "end": 57.8,
+      "en": "\"Feet\"",
+      "ja": "「足」"
+    },
+    {
+      "start": 57.8,
+      "end": 58.6,
+      "en": "Feet.",
+      "ja": "足"
+    },
+    {
+      "start": 58.6,
+      "end": 62,
+      "en": "OK, repeat after me.",
+      "ja": "オーケー、私の後に続けて言って"
+    },
+    {
+      "start": 62,
+      "end": 64.2,
+      "en": "\"Lick my feet.\"",
+      "ja": "「私の足を舐めろ」"
+    },
+    {
+      "start": 64.2,
+      "end": 66.1,
+      "en": "Lick my feet!",
+      "ja": "私の足を舐めろ！"
+    },
+    {
+      "start": 66.1,
+      "end": 67,
+      "en": "Nice!!",
+      "ja": "いいね！！"
+    },
+    {
+      "start": 67,
+      "end": 68,
+      "en": "Ah, yaaay!!",
+      "ja": "あ、やった〜！！"
+    },
+    {
+      "start": 68,
+      "end": 69,
+      "en": "Wow! Perfect!",
+      "ja": "わあ！完璧！"
+    },
+    {
+      "start": 69,
+      "end": 70,
+      "en": "PERFECT!",
+      "ja": "完璧！"
+    },
+    {
+      "start": 70,
+      "end": 72,
+      "en": "OK!",
+      "ja": "オーケー！"
+    },
+    {
+      "start": 72,
+      "end": 75,
+      "en": "And then you add, \"You pig!\"",
+      "ja": "それから「この豚が！」を付け足すの"
+    },
+    {
+      "start": 75,
+      "end": 75.8,
+      "en": "You pig!",
+      "ja": "この豚が！"
+    },
+    {
+      "start": 75.8,
+      "end": 77.2,
+      "en": "\"Lick my feet\"",
+      "ja": "「私の足を舐めろ」"
+    },
+    {
+      "start": 77.2,
+      "end": 79.5,
+      "en": "Lick my feet, you pig~",
+      "ja": "私の足を舐めろ、この豚が〜"
+    },
+    {
+      "start": 79.5,
+      "end": 80,
+      "en": "Nice!",
+      "ja": "いいね！"
+    },
+    {
+      "start": 80,
+      "end": 81,
+      "en": "You're so cool!",
+      "ja": "かっこいい〜！"
+    },
+    {
+      "start": 81,
+      "end": 84,
+      "en": "Wooo!",
+      "ja": "うおー！"
+    }
+  ]
+}

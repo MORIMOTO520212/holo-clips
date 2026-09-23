@@ -1,0 +1,167 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "kronii-is-pain-animated-hololive-eng-sub",
+  "videoId": "NGp3MbnuDQ8",
+  "start": 0,
+  "end": 97,
+  "title": "Kronii Is Pain [Animated Hololive/Eng sub]",
+  "talent": "Ouro Kronii",
+  "lines": [
+    {
+      "start": 0.3,
+      "end": 1.8,
+      "en": "What is this?",
+      "ja": "これ何？"
+    },
+    {
+      "start": 2,
+      "end": 4,
+      "en": "There's iron.",
+      "ja": "鉄があるじゃん"
+    },
+    {
+      "start": 8,
+      "end": 9.5,
+      "en": "Ahahaha!",
+      "ja": "あはは！"
+    },
+    {
+      "start": 10,
+      "end": 11,
+      "en": "Oh, do you not have a pickaxe?",
+      "ja": "あ、ツルハシ持ってないの？"
+    },
+    {
+      "start": 11,
+      "end": 12,
+      "en": "No.",
+      "ja": "持ってない"
+    },
+    {
+      "start": 12,
+      "end": 14.5,
+      "en": "Okay, uhm...",
+      "ja": "オーケー…えっと…"
+    },
+    {
+      "start": 16,
+      "end": 17.5,
+      "en": "I'm sleepy...",
+      "ja": "眠い…"
+    },
+    {
+      "start": 18,
+      "end": 19.5,
+      "en": "You're sleepy?",
+      "ja": "眠いの？"
+    },
+    {
+      "start": 20,
+      "end": 22.5,
+      "en": "Yeah... Maybe we should just call it a day after-",
+      "ja": "うん…そろそろ今日はこの辺で終わりにしようか…",
+      "notes": [
+        {
+          "term": "call it a day",
+          "meaning": "「今日はこれで終わりにする」という口語表現"
+        }
+      ]
+    },
+    {
+      "start": 23,
+      "end": 28.5,
+      "en": "What the frick did I just do!!!!???",
+      "ja": "な…何やっちゃったの私！？？？",
+      "notes": [
+        {
+          "term": "frick",
+          "meaning": "fuckを言い換えた婉曲的な罵り言葉"
+        }
+      ]
+    },
+    {
+      "start": 29,
+      "end": 31.5,
+      "en": "What.. what.. what do you do??",
+      "ja": "な、なに、どうしたの！？"
+    },
+    {
+      "start": 33,
+      "end": 36,
+      "en": "It's okay, don't worry about it...",
+      "ja": "大丈夫、気にしないで…"
+    },
+    {
+      "start": 37,
+      "end": 38.5,
+      "en": "Here you go...",
+      "ja": "はい、これ…"
+    },
+    {
+      "start": 39,
+      "end": 40.5,
+      "en": "Thank you.",
+      "ja": "ありがとう"
+    },
+    {
+      "start": 41,
+      "end": 42.5,
+      "en": "Yeah, it's all good, don't worry about it...",
+      "ja": "うん、大丈夫、気にしないで…"
+    },
+    {
+      "start": 43,
+      "end": 45.5,
+      "en": "What happened??",
+      "ja": "何があったの？？"
+    },
+    {
+      "start": 46,
+      "end": 48.5,
+      "en": "I could probably undo this...",
+      "ja": "多分これ、元に戻せるかも…"
+    },
+    {
+      "start": 49,
+      "end": 51.5,
+      "en": "Ahaha~",
+      "ja": "あはは～"
+    },
+    {
+      "start": 52,
+      "end": 54.5,
+      "en": "What did you do?",
+      "ja": "何したの？"
+    },
+    {
+      "start": 55,
+      "end": 60.5,
+      "en": "Did you make... a lot of something?",
+      "ja": "何か…たくさん作っちゃったの…？"
+    },
+    {
+      "start": 61,
+      "end": 63.5,
+      "en": "[On-screen: One Nugget (97% Iron Loss)]",
+      "ja": "［画面表示：鉄塊1個（鉄97%ロスト）］"
+    },
+    {
+      "start": 64,
+      "end": 71,
+      "en": "Ohh.. it's only one nugget!!!??",
+      "ja": "うわぁぁ…鉄塊1個しかない！？？"
+    },
+    {
+      "start": 73,
+      "end": 81,
+      "en": "Ahahahahh... Hahhh...",
+      "ja": "あはははは…はぁぁ…"
+    },
+    {
+      "start": 82,
+      "end": 84.5,
+      "en": "Vuuuuuuuuuuughr",
+      "ja": "うわぁぁぁぁ…"
+    }
+  ]
+}

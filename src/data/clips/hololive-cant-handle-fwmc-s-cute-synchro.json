@@ -1,0 +1,167 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "hololive-cant-handle-fwmc-s-cute-synchro",
+  "videoId": "bSfuF2qDDSU",
+  "start": 0,
+  "end": 67,
+  "title": "Hololive Cant Handle FWMC's Cute Synchro",
+  "talent": "FUWAMOCO",
+  "lines": [
+    {
+      "start": 0,
+      "end": 4,
+      "en": "I am a demon guard dog. Thank you, thank you! Oeh!",
+      "ja": "私は魔界の番犬です。ありがとう、ありがとう！オエ！"
+    },
+    {
+      "start": 4,
+      "end": 11,
+      "en": "They are demon dogs and people. We are individuals! Yes— Di- what-",
+      "ja": "魔界の番犬であり、人間でもあります。私たちは個々の存在です！そう…え、なに…"
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "en": "They say it together in sync. Whoops! Next one!",
+      "ja": "息ぴったりに一緒に言うの。おっと！次いこう！"
+    },
+    {
+      "start": 20,
+      "end": 21,
+      "en": "Next one, huh?",
+      "ja": "次、か？"
+    },
+    {
+      "start": 21,
+      "end": 23,
+      "en": "Ah! Not that one!",
+      "ja": "あ！それじゃない！"
+    },
+    {
+      "start": 23,
+      "end": 24,
+      "en": "AHHHHH!!",
+      "ja": "あああー！！"
+    },
+    {
+      "start": 24,
+      "end": 25,
+      "en": "Ehh!?",
+      "ja": "えっ！？"
+    },
+    {
+      "start": 25,
+      "end": 27,
+      "en": "So cute! That was cute.",
+      "ja": "かわいい！かわいかったね"
+    },
+    {
+      "start": 27,
+      "end": 29,
+      "en": "What are your favorite foods?",
+      "ja": "好きな食べ物は何？"
+    },
+    {
+      "start": 29,
+      "end": 32,
+      "en": "Pon de Ring~ Adorable...",
+      "ja": "ポン・デ・リング〜　かわいい…",
+      "notes": [
+        {
+          "term": "Pon de Ring",
+          "meaning": "ミスタードーナツの人気商品「ポン・デ・リング」"
+        }
+      ]
+    },
+    {
+      "start": 32,
+      "end": 35,
+      "en": "Ehehehe. How old are you?",
+      "ja": "えへへへ。何歳なの？"
+    },
+    {
+      "start": 35,
+      "end": 37.3,
+      "en": "2000 years old, -ish.",
+      "ja": "2000歳くらい"
+    },
+    {
+      "start": 37.3,
+      "end": 38.6,
+      "en": "I'm Luigi!",
+      "ja": "僕はルイージ！"
+    },
+    {
+      "start": 38.6,
+      "end": 39.3,
+      "en": "Okay.",
+      "ja": "オーケー"
+    },
+    {
+      "start": 39.3,
+      "end": 43,
+      "en": "Is it because they are twins...",
+      "ja": "それって双子だから…"
+    },
+    {
+      "start": 43,
+      "end": 44,
+      "en": "...or brothers?",
+      "ja": "…それとも兄弟だから？"
+    },
+    {
+      "start": 44,
+      "end": 45,
+      "en": "Yeah!",
+      "ja": "そう！"
+    },
+    {
+      "start": 45,
+      "end": 48,
+      "en": "Now you're twins in-game too. Mario and Luigi aren't twins!!",
+      "ja": "じゃあゲームの中でも双子だね。マリオとルイージは双子じゃない！！"
+    },
+    {
+      "start": 48,
+      "end": 49,
+      "en": "They aren't twins!!",
+      "ja": "双子じゃないんだって！！"
+    },
+    {
+      "start": 49,
+      "end": 50,
+      "en": "NO!",
+      "ja": "ちがう！"
+    },
+    {
+      "start": 50,
+      "end": 50.5,
+      "en": "NO!",
+      "ja": "ちがう！"
+    },
+    {
+      "start": 50.5,
+      "end": 52,
+      "en": "Mario and Luigi aren't twins!!",
+      "ja": "マリオとルイージは双子じゃない！！"
+    },
+    {
+      "start": 52,
+      "end": 53,
+      "en": "AHH!!",
+      "ja": "あー！！"
+    },
+    {
+      "start": 53,
+      "end": 54,
+      "en": "Woo!!",
+      "ja": "うー！！"
+    },
+    {
+      "start": 54,
+      "end": 57,
+      "en": "AHHH!!",
+      "ja": "あああー！！"
+    }
+  ]
+}

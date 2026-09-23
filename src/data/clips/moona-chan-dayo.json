@@ -1,0 +1,35 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "moona-chan-dayo",
+  "videoId": "eZtRhmz9CrI",
+  "start": 0,
+  "end": 9,
+  "title": "Moona-chan dayo♥",
+  "talent": "Moona Hoshinova, Usada Pekora",
+  "lines": [
+    {
+      "start": 0,
+      "end": 1,
+      "en": "Dun dun dun~!",
+      "ja": "ドン ドン ドン～！"
+    },
+    {
+      "start": 1,
+      "end": 3,
+      "en": "Who's the cutest girl?",
+      "ja": "一番かわいい女の子は誰？"
+    },
+    {
+      "start": 3,
+      "end": 5,
+      "en": "Dun dun dun~!",
+      "ja": "ドン ドン ドン～！"
+    },
+    {
+      "start": 5,
+      "end": 8,
+      "en": "It's Moona-chan~♥",
+      "ja": "ムーナちゃんだよぉ♥"
+    }
+  ]
+}

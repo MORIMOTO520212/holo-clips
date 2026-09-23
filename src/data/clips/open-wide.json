@@ -1,0 +1,311 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "open-wide",
+  "videoId": "uF1TE6Lm--U",
+  "start": 0,
+  "end": 90,
+  "title": "Open wide",
+  "talent": "Murasaki Shion, Minato Aqua",
+  "lines": [
+    {
+      "start": 0,
+      "end": 3,
+      "en": "Huh... Don't show it to me...!",
+      "ja": "うっ…見せないで…！"
+    },
+    {
+      "start": 3,
+      "end": 4,
+      "en": "Nooo...",
+      "ja": "いやぁ…"
+    },
+    {
+      "start": 4,
+      "end": 5.9,
+      "en": "It's torture for me!",
+      "ja": "これは拷問だよ…！"
+    },
+    {
+      "start": 5.9,
+      "end": 8,
+      "en": "OK, everyone! Let's eat!",
+      "ja": "よし、みんな！食べよう！"
+    },
+    {
+      "start": 8,
+      "end": 10.2,
+      "en": "This is torture.",
+      "ja": "これは拷問だよ"
+    },
+    {
+      "start": 10.2,
+      "end": 14,
+      "en": "Ah... it looks delicious...",
+      "ja": "ああ…美味しそう…"
+    },
+    {
+      "start": 14,
+      "end": 15.3,
+      "en": "Eh, it looks super delicious!",
+      "ja": "え、すごく美味しそう！"
+    },
+    {
+      "start": 15.3,
+      "end": 16,
+      "en": "It tastes good!",
+      "ja": "美味しいよ！"
+    },
+    {
+      "start": 16,
+      "end": 16.6,
+      "en": "Delicious?",
+      "ja": "美味しい？"
+    },
+    {
+      "start": 16.6,
+      "end": 17,
+      "en": "Yes!!!",
+      "ja": "美味しい！！！"
+    },
+    {
+      "start": 17,
+      "end": 18,
+      "en": "How's the taste?",
+      "ja": "味はどう？"
+    },
+    {
+      "start": 18,
+      "end": 20,
+      "en": "Super delicious...",
+      "ja": "すっごく美味しい…"
+    },
+    {
+      "start": 20,
+      "end": 22,
+      "en": "Ha... Ahfufu...",
+      "ja": "はぁ…あはふふ…"
+    },
+    {
+      "start": 22,
+      "end": 22.7,
+      "en": "Pya~~~~",
+      "ja": "ぴゃ〜〜〜〜",
+      "notes": [
+        {
+          "term": "Pya",
+          "meaning": "湊あくあの驚いた時の決まり文句の擬音"
+        }
+      ]
+    },
+    {
+      "start": 22.7,
+      "end": 26,
+      "en": "Eh? You want some? You want some?",
+      "ja": "え？欲しいの？欲しいの？"
+    },
+    {
+      "start": 26,
+      "end": 27.7,
+      "en": "Eh! I really want to try it!",
+      "ja": "え！すごく食べてみたい！"
+    },
+    {
+      "start": 27.7,
+      "end": 28,
+      "en": "Ah-!!",
+      "ja": "あー！！"
+    },
+    {
+      "start": 28,
+      "end": 29.4,
+      "en": "Ah~~~",
+      "ja": "あ〜〜〜"
+    },
+    {
+      "start": 29.4,
+      "end": 30.9,
+      "en": "Here.",
+      "ja": "はい"
+    },
+    {
+      "start": 30.9,
+      "end": 32,
+      "en": "Um!?",
+      "ja": "んっ！？"
+    },
+    {
+      "start": 32,
+      "end": 32.8,
+      "en": "Fufufu.",
+      "ja": "ふふふ"
+    },
+    {
+      "start": 32.8,
+      "end": 35.4,
+      "en": "You really gave it to me!",
+      "ja": "本当に食べさせてくれたね！"
+    },
+    {
+      "start": 35.4,
+      "end": 36.9,
+      "en": "I just fed her.",
+      "ja": "ただ食べさせてあげただけだよ"
+    },
+    {
+      "start": 36.9,
+      "end": 39,
+      "en": "It's good, isn't it?",
+      "ja": "美味しいでしょ？"
+    },
+    {
+      "start": 39,
+      "end": 41.4,
+      "en": "You really gave it to me.",
+      "ja": "本当に食べさせてくれたじゃん"
+    },
+    {
+      "start": 41.4,
+      "end": 42,
+      "en": "Um? Um?",
+      "ja": "ん？ん？"
+    },
+    {
+      "start": 42,
+      "end": 44,
+      "en": "Um? Um? Um?",
+      "ja": "ん？ん？ん？"
+    },
+    {
+      "start": 44,
+      "end": 45,
+      "en": "What?",
+      "ja": "何？"
+    },
+    {
+      "start": 45,
+      "end": 45.2,
+      "en": "Um?",
+      "ja": "ん？"
+    },
+    {
+      "start": 45.2,
+      "end": 46,
+      "en": "It's good-!!",
+      "ja": "美味しいー！！"
+    },
+    {
+      "start": 46,
+      "end": 48,
+      "en": "Um? Um?",
+      "ja": "ん？ん？"
+    },
+    {
+      "start": 48,
+      "end": 49,
+      "en": "Um?",
+      "ja": "ん？"
+    },
+    {
+      "start": 49,
+      "end": 51,
+      "en": "What?",
+      "ja": "何？"
+    },
+    {
+      "start": 51,
+      "end": 55.7,
+      "en": "I thought you were gonna say, \"Open your mouth—nope, you can't have it.\"",
+      "ja": "「口開けて…なんてね、あげなーい」って言うと思ってた"
+    },
+    {
+      "start": 55.7,
+      "end": 57.2,
+      "en": "But you really fed me!",
+      "ja": "でも本当に食べさせてくれたじゃん！"
+    },
+    {
+      "start": 57.2,
+      "end": 58.6,
+      "en": "I gave it to you, www.",
+      "ja": "あげたじゃん（www）",
+      "notes": [
+        {
+          "term": "www",
+          "meaning": "日本語のネットスラングで「笑」を意味する表現"
+        }
+      ]
+    },
+    {
+      "start": 58.6,
+      "end": 60,
+      "en": "You made me confused.",
+      "ja": "混乱させないでよ"
+    },
+    {
+      "start": 60,
+      "end": 62,
+      "en": "Well, let's just eat together.",
+      "ja": "まあ、一緒に食べよっか"
+    },
+    {
+      "start": 62,
+      "end": 62.9,
+      "en": "Wow, that's amazing!",
+      "ja": "わあ、すごい！"
+    },
+    {
+      "start": 62.9,
+      "end": 64,
+      "en": "Ehh...!? What is this~!",
+      "ja": "えっ…！？何これ〜！"
+    },
+    {
+      "start": 64,
+      "end": 67,
+      "en": "Chandelier!!",
+      "ja": "シャンデリア！！"
+    },
+    {
+      "start": 67,
+      "end": 68.7,
+      "en": "Can you say \"chandelier\" ten times?",
+      "ja": "「シャンデリア」って10回言える？",
+      "notes": [
+        {
+          "term": "say \"chandelier\" ten times",
+          "meaning": "同じ単語を10回言わせてから関連する質問に答えさせ、うっかり間違えさせる定番の言葉遊びゲーム"
+        }
+      ]
+    },
+    {
+      "start": 68.7,
+      "end": 74.5,
+      "en": "Chandelier, chandelier, chandelier, chandelier, chandelier, chandelier, chandelier, chandelier, chandelier, chandelier!",
+      "ja": "シャンデリア、シャンデリア、シャンデリア、シャンデリア、シャンデリア、シャンデリア、シャンデリア、シャンデリア、シャンデリア、シャンデリア！"
+    },
+    {
+      "start": 74.5,
+      "end": 75,
+      "en": "Hehehehehe",
+      "ja": "へへへへへ"
+    },
+    {
+      "start": 75,
+      "end": 76,
+      "en": "Ehh...",
+      "ja": "えー…"
+    },
+    {
+      "start": 76,
+      "end": 78.8,
+      "en": "Ehehehehe",
+      "ja": "えへへへへ"
+    },
+    {
+      "start": 78.8,
+      "end": 80,
+      "en": "wwwww",
+      "ja": "wwwww（笑）"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "fight-club",
+  "videoId": "HKqeY6aJG3Q",
+  "start": 0,
+  "end": 66,
+  "title": "Fight Club",
+  "talent": "Watson Amelia, Gawr Gura, Tokino Sora, AZKi, Takanashi Kiara",
+  "lines": [
+    {
+      "start": 0,
+      "end": 3,
+      "en": "Now what?",
+      "ja": "どうする？"
+    },
+    {
+      "start": 3,
+      "end": 5,
+      "en": "Now what?",
+      "ja": "どうする？"
+    },
+    {
+      "start": 5,
+      "end": 7,
+      "en": "Wanna fight?",
+      "ja": "戦いたい？"
+    },
+    {
+      "start": 7,
+      "end": 8,
+      "en": "Huh?",
+      "ja": "は？"
+    },
+    {
+      "start": 8,
+      "end": 10,
+      "en": "Wanna fight?",
+      "ja": "戦いたい？"
+    },
+    {
+      "start": 10,
+      "end": 13,
+      "en": "Yeah, you wanna go?",
+      "ja": "うん、やる？"
+    },
+    {
+      "start": 13,
+      "end": 19,
+      "en": "Yeah, let's go. Yeah?",
+      "ja": "うん、やろう。いい？"
+    },
+    {
+      "start": 19,
+      "end": 20,
+      "en": "You wanna go?",
+      "ja": "やる？"
+    },
+    {
+      "start": 20,
+      "end": 21,
+      "en": "Diiiie, Shark!!!",
+      "ja": "死ねー、シャーク！！！"
+    },
+    {
+      "start": 21,
+      "end": 22,
+      "en": "You wanna go, stinky!!",
+      "ja": "やる気か、くさいやつ！！"
+    },
+    {
+      "start": 22,
+      "end": 27,
+      "en": "Ah, you broke something! Things happen when fight club starts!",
+      "ja": "あ、何か壊したね！ファイトクラブが始まるとこういうことが起きるんだよ！"
+    },
+    {
+      "start": 27,
+      "end": 30,
+      "en": "Yeaaaah!! You wanna go!!",
+      "ja": "イエアァァ！！やる気か！！"
+    },
+    {
+      "start": 30,
+      "end": 31.7,
+      "en": "Why did they suddenly start hitting each other?",
+      "ja": "なんで急に殴り合い始めたの？"
+    },
+    {
+      "start": 31.7,
+      "end": 33,
+      "en": "I think they're fighting?",
+      "ja": "喧嘩してるんじゃない？"
+    },
+    {
+      "start": 33,
+      "end": 35,
+      "en": "Eh? Why are they fighting?",
+      "ja": "え？なんで喧嘩してるの？"
+    },
+    {
+      "start": 35,
+      "end": 38,
+      "en": "That's what they're doing... yeah, a death match.",
+      "ja": "それをやってるんだよ…そう、デスマッチ"
+    },
+    {
+      "start": 38,
+      "end": 41,
+      "en": "King of the Hill.",
+      "ja": "キング・オブ・ザ・ヒル",
+      "notes": [
+        {
+          "term": "King of the Hill",
+          "meaning": "丘（高台）を陣取り、他の人を蹴落として占領し続ける定番の陣取りゲーム。米国のアニメの題名と同じだが、ここではゲームの方を指している"
+        }
+      ]
+    },
+    {
+      "start": 41,
+      "end": 44,
+      "en": "Not the anime.",
+      "ja": "アニメの方じゃなくてね"
+    },
+    {
+      "start": 44,
+      "end": 45,
+      "en": "Oh—",
+      "ja": "あ…"
+    },
+    {
+      "start": 45,
+      "end": 46.5,
+      "en": "Awwwww, F.",
+      "ja": "あぁ〜、まじか"
+    },
+    {
+      "start": 46.5,
+      "end": 49,
+      "en": "Everybody's staring at me like I'm a monster~",
+      "ja": "みんな私のことを化け物みたいな目で見てる〜"
+    }
+  ]
+}

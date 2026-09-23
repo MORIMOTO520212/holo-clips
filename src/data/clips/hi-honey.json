@@ -1,0 +1,17 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "hi-honey",
+  "videoId": "MDKGOUYY2qk",
+  "start": 0,
+  "end": 8,
+  "title": "クロニー「𝘏𝘪 𝘏𝘰𝘯𝘦𝘺~♥」",
+  "talent": "Ouro Kronii",
+  "lines": [
+    {
+      "start": 1,
+      "end": 5,
+      "en": "Hi Honey~",
+      "ja": "ハーイ、ハニー～"
+    }
+  ]
+}

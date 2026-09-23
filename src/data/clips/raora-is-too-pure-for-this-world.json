@@ -1,0 +1,234 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "raora-is-too-pure-for-this-world",
+  "videoId": "MCNXE42KxAg",
+  "start": 0,
+  "end": 74,
+  "title": "Raora is too pure for this world…",
+  "talent": "Raora Panthera",
+  "lines": [
+    {
+      "start": 0,
+      "end": 2,
+      "en": "You should go in too, Liz.",
+      "ja": "リズも入った方がいいよ"
+    },
+    {
+      "start": 2,
+      "end": 4,
+      "en": "Don't you want to see what's down there?",
+      "ja": "下に何があるか見たくない？"
+    },
+    {
+      "start": 4,
+      "end": 5.5,
+      "en": "Uhhh... it's really cool.",
+      "ja": "えぇと…すごくいいところだよ"
+    },
+    {
+      "start": 5.5,
+      "end": 6.5,
+      "en": "You won't die.",
+      "ja": "死んだりしないから"
+    },
+    {
+      "start": 6.5,
+      "end": 8,
+      "en": "Are you sure?",
+      "ja": "ほんとに？"
+    },
+    {
+      "start": 8,
+      "end": 9,
+      "en": "Yeah, it's really cool.",
+      "ja": "うん、マジですごいところだから"
+    },
+    {
+      "start": 9,
+      "end": 10,
+      "en": "You just...",
+      "ja": "ただ…"
+    },
+    {
+      "start": 10,
+      "end": 10.5,
+      "en": "There's no way back up.",
+      "ja": "戻る道はないけどね"
+    },
+    {
+      "start": 10.5,
+      "end": 11,
+      "en": "We won't die?",
+      "ja": "本当に死なない？"
+    },
+    {
+      "start": 11,
+      "end": 12,
+      "en": "No, you won't die.",
+      "ja": "うん、死なないよ"
+    },
+    {
+      "start": 12,
+      "end": 13.5,
+      "en": "You know, we should go down there together as Justice.",
+      "ja": "「正義」として一緒に下りるべきだと思うんだよね"
+    },
+    {
+      "start": 13.5,
+      "end": 14.5,
+      "en": "Okay, you first, and then I'll follow.",
+      "ja": "オーケー、まず先に行って、私は後から行くから"
+    },
+    {
+      "start": 14.5,
+      "end": 15.5,
+      "en": "Promise?",
+      "ja": "約束だよ？"
+    },
+    {
+      "start": 15.5,
+      "end": 16.5,
+      "en": "Really?",
+      "ja": "ほんとに？"
+    },
+    {
+      "start": 18,
+      "end": 18.7,
+      "en": "Yes.",
+      "ja": "うん"
+    },
+    {
+      "start": 18.7,
+      "end": 19,
+      "en": "You promise?",
+      "ja": "約束する？"
+    },
+    {
+      "start": 19,
+      "end": 20,
+      "en": "Promise.",
+      "ja": "約束する"
+    },
+    {
+      "start": 20,
+      "end": 21,
+      "en": "Together?",
+      "ja": "一緒にだよ？"
+    },
+    {
+      "start": 21,
+      "end": 23,
+      "en": "Yes, I promise!",
+      "ja": "うん、約束する！"
+    },
+    {
+      "start": 23,
+      "end": 29,
+      "en": "FOR JUSTIIIIIIiiiii-",
+      "ja": "正義のためにーーーー！",
+      "notes": [
+        {
+          "term": "FOR JUSTICE",
+          "match": "FOR JUSTIIIIIIiiiii-",
+          "meaning": "ラオーラの決め台詞。叫びながら飛び込んで声が尻すぼみになっている"
+        }
+      ]
+    },
+    {
+      "start": 29,
+      "end": 30,
+      "en": "Raora!",
+      "ja": "ラオーラ！"
+    },
+    {
+      "start": 30,
+      "end": 33,
+      "en": "Raora! Raora! Raora!",
+      "ja": "ラオーラ！ラオーラ！ラオーラ！"
+    },
+    {
+      "start": 33,
+      "end": 36,
+      "en": "Raora! Come here! Come here!",
+      "ja": "ラオーラ！こっち来て！こっち！"
+    },
+    {
+      "start": 36,
+      "end": 37,
+      "en": "Gigi!",
+      "ja": "ジジ！"
+    },
+    {
+      "start": 37,
+      "end": 39,
+      "en": "Raora, c'mere, c'mere, c'mere!",
+      "ja": "ラオーラ、こっちこっちこっち！"
+    },
+    {
+      "start": 39,
+      "end": 41,
+      "en": "I'm here, I'm here~ Justice is waiting for us. Go, go over here, okay? C'mere.",
+      "ja": "ここだよ、ここー。正義が私たちを待ってるよ。ほら、こっちこっち"
+    },
+    {
+      "start": 41,
+      "end": 46,
+      "en": "Ju— Justice is waiting for us.",
+      "ja": "せ…正義が待ってるからね"
+    },
+    {
+      "start": 46,
+      "end": 50,
+      "en": "Liz and Ceci are down here. Okay~",
+      "ja": "リズとセシもここにいるよ。ね～"
+    },
+    {
+      "start": 50,
+      "end": 53,
+      "en": "\"Raoraaa drowned\"",
+      "ja": "「ラオーラが溺れました」"
+    },
+    {
+      "start": 53,
+      "end": 55,
+      "en": "Where is Raora?",
+      "ja": "ラオーラはどこ？"
+    },
+    {
+      "start": 55,
+      "end": 56,
+      "en": "She died!",
+      "ja": "死んじゃった！"
+    },
+    {
+      "start": 56,
+      "end": 57,
+      "en": "Raoraaa!!",
+      "ja": "ラオーラー！！"
+    },
+    {
+      "start": 57,
+      "end": 60,
+      "en": "Yaayyy!",
+      "ja": "やったー！"
+    },
+    {
+      "start": 60,
+      "end": 63,
+      "en": "No! No! No!",
+      "ja": "やだやだやだ！"
+    },
+    {
+      "start": 66,
+      "end": 68,
+      "en": "Hi.",
+      "ja": "はーい"
+    },
+    {
+      "start": 68,
+      "end": 70,
+      "en": "Oh, hello.",
+      "ja": "あ、どうも"
+    }
+  ]
+}

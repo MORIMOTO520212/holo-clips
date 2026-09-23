@@ -1,0 +1,42 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "kawaii-opera-terete-mori",
+  "videoId": "J0FmzPaCTMk",
+  "start": 0,
+  "end": 12,
+  "title": "かわいいオペ てぇてぇモリ♥",
+  "talent": "Gawr Gura, Mori Calliope",
+  "lines": [
+    {
+      "start": 0,
+      "end": 4,
+      "en": "Cuuute~ Cute Ope~ Cute!? No! No!",
+      "ja": "キュ～ト　かわいいオペ～　かわいい？！　No! No!",
+      "notes": [
+        {
+          "term": "Ope",
+          "meaning": "森カリオペ（Mori Calliope）のあだ名"
+        }
+      ]
+    },
+    {
+      "start": 4,
+      "end": 9,
+      "en": "Cute Ope~ Tee-tee Mori~ That's not true...",
+      "ja": "かわいいオペ～　てぇてぇモリ～　そんなことないわよ…",
+      "notes": [
+        {
+          "term": "tee-tee",
+          "match": "Tee-tee",
+          "meaning": "日本語の「てぇてぇ」（尊い、見ていて心が温まるという意味のネットスラング）に由来するファンスラング"
+        }
+      ]
+    },
+    {
+      "start": 9,
+      "end": 11,
+      "en": "Cuuute~",
+      "ja": "キュ～ト"
+    }
+  ]
+}

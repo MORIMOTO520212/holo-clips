@@ -1,0 +1,24 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "kronii-pfwah-pfweh-pwehhk",
+  "videoId": "3OFQHS5HN-k",
+  "start": 0,
+  "end": 18,
+  "title": "Kronii - pfwah pfweh pwehhk",
+  "talent": "Ouro Kronii",
+  "lines": [
+    {
+      "start": 3,
+      "end": 15,
+      "en": "Pfwah! Pfweh! Pwehhk!",
+      "ja": "ぷわあ！ぷうぇ！ぷえっく！",
+      "notes": [
+        {
+          "term": "Pfwah / Pfweh / Pwehhk",
+          "match": "Pfwah! Pfweh! Pwehhk!",
+          "meaning": "未アーカイブの歌枠中にクロニーが発した意味のない奇声・鼻息のような音。自動生成字幕が正しく認識できないため、動画タイトル通りの擬音として表記"
+        }
+      ]
+    }
+  ]
+}

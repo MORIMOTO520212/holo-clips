@@ -1,0 +1,35 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "hi-honey-2",
+  "videoId": "rhyqnZBCMBg",
+  "start": 0,
+  "end": 29,
+  "title": "Hi Honey~🪓",
+  "talent": "Ouro Kronii",
+  "lines": [
+    {
+      "start": 0,
+      "end": 2,
+      "en": "Hi Honey!",
+      "ja": "ハーイ、ハニー！"
+    },
+    {
+      "start": 3,
+      "end": 6,
+      "en": "I love you.",
+      "ja": "愛してるよ"
+    },
+    {
+      "start": 17,
+      "end": 21,
+      "en": "[Song: In the lap of the mountain♪ So far and wide♪]",
+      "ja": "［歌：山のふところに♪ 遠く広がる♪］"
+    },
+    {
+      "start": 25,
+      "end": 28,
+      "en": "[Song: Down by the river...♪]",
+      "ja": "［歌：川のほとりで…♪］"
+    }
+  ]
+}

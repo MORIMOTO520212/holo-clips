@@ -1,0 +1,17 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "kronii-gets-shocked",
+  "videoId": "A02OXfAuAR8",
+  "start": 0,
+  "end": 6,
+  "title": "感電するクロニーさん",
+  "talent": "Ouro Kronii, Watson Amelia",
+  "lines": [
+    {
+      "start": 0,
+      "end": 5,
+      "en": "Why is it red?",
+      "ja": "なんで赤いの？"
+    }
+  ]
+}

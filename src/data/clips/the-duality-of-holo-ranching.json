@@ -1,0 +1,259 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "the-duality-of-holo-ranching",
+  "videoId": "tnAb-c2QMes",
+  "start": 0,
+  "end": 102,
+  "title": "The Duality of Holo-Ranching",
+  "talent": "Ceres Fauna",
+  "lines": [
+    {
+      "start": 0,
+      "end": 1.8,
+      "en": "I'm a lumberjack, Sora!",
+      "ja": "きこりのそらだよ！"
+    },
+    {
+      "start": 1.8,
+      "end": 2.8,
+      "en": "Cute!",
+      "ja": "かわいい！"
+    },
+    {
+      "start": 2.8,
+      "end": 3.8,
+      "en": "Good morning.",
+      "ja": "おはよう"
+    },
+    {
+      "start": 3.8,
+      "end": 5,
+      "en": "Good morning!",
+      "ja": "おはよう！"
+    },
+    {
+      "start": 5,
+      "end": 7,
+      "en": "I am no longer human.",
+      "ja": "私はもう人間じゃない"
+    },
+    {
+      "start": 7,
+      "end": 8.5,
+      "en": "*Turns into a gorilla*",
+      "ja": "（ゴリラに変身する）"
+    },
+    {
+      "start": 8.5,
+      "end": 13,
+      "en": "I'm just a gorilla, so please forgive me.",
+      "ja": "ただのゴリラなので許してください"
+    },
+    {
+      "start": 13,
+      "end": 16,
+      "en": "If I'm being honest, your girlfriend is... a gorilla.",
+      "ja": "正直に言うと、あなたの彼女は…ゴリラです",
+      "notes": [
+        {
+          "term": "if I'm being honest",
+          "match": "If I'm being honest",
+          "meaning": "「正直に言うと」というつなぎの口語表現"
+        }
+      ]
+    },
+    {
+      "start": 16,
+      "end": 18.5,
+      "en": "We've got Shino-chan and Misora-chan here.",
+      "ja": "しのちゃんとみそらちゃんがいるよ"
+    },
+    {
+      "start": 18.5,
+      "end": 20,
+      "en": "Good morning.",
+      "ja": "おはよう"
+    },
+    {
+      "start": 20,
+      "end": 24,
+      "en": "I think it's about time you guys got punished.",
+      "ja": "そろそろお前らを罰する時が来たと思う"
+    },
+    {
+      "start": 24,
+      "end": 28,
+      "en": "Oh, a pedometer.",
+      "ja": "あ、歩数計だ"
+    },
+    {
+      "start": 28,
+      "end": 31.5,
+      "en": "I'm thinking I want the pedometer too.",
+      "ja": "私もその歩数計欲しいな"
+    },
+    {
+      "start": 31.5,
+      "end": 35,
+      "en": "To be frank with you, I don't need this.",
+      "ja": "正直言うと、これはいらないんだけど",
+      "notes": [
+        {
+          "term": "to be frank with you",
+          "match": "To be frank with you",
+          "meaning": "「率直に言うと」という前置きの口語表現"
+        }
+      ]
+    },
+    {
+      "start": 35,
+      "end": 38,
+      "en": "And listen, darling, this is trash, isn't it?",
+      "ja": "ねえダーリン、これゴミよね？"
+    },
+    {
+      "start": 38,
+      "end": 40.5,
+      "en": "Good morning, Ichigo-zaurus.",
+      "ja": "おはよう、いちごザウルス"
+    },
+    {
+      "start": 40.5,
+      "end": 43,
+      "en": "There's Ichigo-chan and...",
+      "ja": "いちごちゃんと…"
+    },
+    {
+      "start": 43,
+      "end": 45,
+      "en": "MooMoo-chan, good morning!",
+      "ja": "モーモーちゃん、おはよう！"
+    },
+    {
+      "start": 45,
+      "end": 47,
+      "en": "Time to ship them out.",
+      "ja": "出荷の時間だ",
+      "notes": [
+        {
+          "term": "ship them out",
+          "meaning": "牧場ゲームで「（家畜を）出荷する」という意味のship"
+        }
+      ]
+    },
+    {
+      "start": 47,
+      "end": 50,
+      "en": "I shouldn't be giving these guys names.",
+      "ja": "こいつらに名前なんてつけるべきじゃなかった"
+    },
+    {
+      "start": 50,
+      "end": 53,
+      "en": "\"Female.\" \"Female.\"",
+      "ja": "「メス」「メス」"
+    },
+    {
+      "start": 53,
+      "end": 56,
+      "en": "\"Female 2\" might make this easier to remember.",
+      "ja": "「メス2」の方が覚えやすいかも"
+    },
+    {
+      "start": 56,
+      "end": 58,
+      "en": "\"There's no need to use prison numbers.\"",
+      "ja": "「囚人番号みたいに呼ばなくてもいいでしょ」",
+      "notes": [
+        {
+          "term": "prison numbers",
+          "meaning": "「メス1」「メス2」のような番号呼びを、刑務所の囚人番号に例えて茶化している"
+        }
+      ]
+    },
+    {
+      "start": 58,
+      "end": 60,
+      "en": "I'm not!",
+      "ja": "そんなつもりじゃない！"
+    },
+    {
+      "start": 60,
+      "end": 61,
+      "en": "Ah!",
+      "ja": "あっ！"
+    },
+    {
+      "start": 61,
+      "end": 64,
+      "en": "The chickens have been locked up this whole time?",
+      "ja": "ニワトリ、ずっと閉じ込められてたの？"
+    },
+    {
+      "start": 64,
+      "end": 66,
+      "en": "Sorry! Come on out.",
+      "ja": "ごめん！出ておいで"
+    },
+    {
+      "start": 66,
+      "end": 69,
+      "en": "Sorry, I didn't mean to lock you up like that.",
+      "ja": "ごめんね、閉じ込めるつもりじゃなかったんだ"
+    },
+    {
+      "start": 69,
+      "end": 72,
+      "en": "If you stand in front of the entrance like that, I'm just going to kill you.",
+      "ja": "そうやって入り口の前に立ってると、殺しちゃうよ"
+    },
+    {
+      "start": 72,
+      "end": 73,
+      "en": "Right, guys?",
+      "ja": "だよね、みんな？"
+    },
+    {
+      "start": 73,
+      "end": 75,
+      "en": "We need a name for the dog?",
+      "ja": "犬の名前決めないと？"
+    },
+    {
+      "start": 75,
+      "end": 77,
+      "en": "\"Ankimo.\"",
+      "ja": "「あんきも」"
+    },
+    {
+      "start": 77,
+      "end": 79.5,
+      "en": "\"Ankimo\" is my partner after all.",
+      "ja": "「あんきも」はやっぱり相棒だからね"
+    },
+    {
+      "start": 79.5,
+      "end": 82,
+      "en": "Time to go, dawwwg.",
+      "ja": "行くよ、わんこ"
+    },
+    {
+      "start": 82,
+      "end": 84,
+      "en": "Dawwwwwwg!",
+      "ja": "わんこーー！"
+    },
+    {
+      "start": 84,
+      "end": 86,
+      "en": "Good morning, Soda-chan.",
+      "ja": "おはよう、ソーダちゃん"
+    },
+    {
+      "start": 86,
+      "end": 88,
+      "en": "Good morning, cat.",
+      "ja": "おはよう、ねこちゃん"
+    }
+  ]
+}

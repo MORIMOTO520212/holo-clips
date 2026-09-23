@@ -1,0 +1,265 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "kronii-doesn-t-like-gura-s-favorite-food",
+  "videoId": "7qv66ommEw4",
+  "start": 0,
+  "end": 144,
+  "title": "Kronii doesn't like Gura's favorite food…",
+  "talent": "Ouro Kronii, Gawr Gura",
+  "lines": [
+    {
+      "start": 0,
+      "end": 8,
+      "en": "At one point I was kind of innocent and I didn't understand what people meant when they said \"Peanut butter and jelly.\"",
+      "ja": "最初の方は無知だったから「ピーナッツバターとジャム」って何を言ってるのか分かんなかった"
+    },
+    {
+      "start": 8,
+      "end": 16,
+      "en": "I was kind of grossed out, like, \"Ew, why would you put jelly with peanut butter?\" And then I realized that's just how you say jam.",
+      "ja": "「え、なんでジャムを混ぜるの？」って思ったけど、そういう言い方なんだって気付いたわけ"
+    },
+    {
+      "start": 16,
+      "end": 19,
+      "en": "Oh, 'cause you grew up saying jam?",
+      "ja": "あ、ジャムって言い方で育ったから？",
+      "notes": [
+        {
+          "term": "grew up saying",
+          "meaning": "子どもの頃からそう言ってた"
+        }
+      ]
+    },
+    {
+      "start": 19,
+      "end": 20,
+      "en": "Yeah, peanut butter and jam!",
+      "ja": "そう、ピーナッツバターとジャム！"
+    },
+    {
+      "start": 20,
+      "end": 23,
+      "en": "Do you like peanut butter and jelly though?",
+      "ja": "でもピーナッツバターとジャムって好き？"
+    },
+    {
+      "start": 23,
+      "end": 24,
+      "en": "Absolutely!",
+      "ja": "もちろん！"
+    },
+    {
+      "start": 24,
+      "end": 26,
+      "en": "Really...?",
+      "ja": "本当に…？"
+    },
+    {
+      "start": 26,
+      "end": 29,
+      "en": "You... so you don't?",
+      "ja": "お前…好きじゃないの？"
+    },
+    {
+      "start": 29,
+      "end": 30,
+      "en": "Wait, what?!",
+      "ja": "え、なに？！"
+    },
+    {
+      "start": 30,
+      "end": 38,
+      "en": "I have a confession to make: I... am not a big fan of peanut butter.",
+      "ja": "告白があるんだけど…ピーナッツバター大好きじゃないんだよね",
+      "notes": [
+        {
+          "term": "confession",
+          "meaning": "何か言わないといけないことがある、告白"
+        },
+        {
+          "term": "big fan",
+          "meaning": "～の大ファン、～が大好き"
+        }
+      ]
+    },
+    {
+      "start": 38,
+      "end": 42,
+      "en": "Would you still talk to me even after that confession?",
+      "ja": "その告白聞いてもまだ話しかけてくれる？"
+    },
+    {
+      "start": 42,
+      "end": 50,
+      "en": "Ahhhhh! Umm, peanut butter on its own?",
+      "ja": "あああ！えっと、ピーナッツバターそのものが？"
+    },
+    {
+      "start": 50,
+      "end": 53,
+      "en": "Yeah. Do you like any nut butters?",
+      "ja": "そう。ナッツバター何か好きなの？"
+    },
+    {
+      "start": 53,
+      "end": 60,
+      "en": "I... don't like at all.",
+      "ja": "全然好きじゃない…"
+    },
+    {
+      "start": 60,
+      "end": 64,
+      "en": "I don't! Surely you'd still talk to me!",
+      "ja": "好きじゃないの！でもまだ話しかけてくれるでしょ！"
+    },
+    {
+      "start": 64,
+      "end": 67,
+      "en": "Yeah...!",
+      "ja": "まあ…！"
+    },
+    {
+      "start": 67,
+      "end": 68,
+      "en": "I would, but...",
+      "ja": "話しかけるけど…"
+    },
+    {
+      "start": 68,
+      "end": 70,
+      "en": "Do you like Nutella?",
+      "ja": "ヌテラは？",
+      "notes": [
+        {
+          "term": "Nutella",
+          "meaning": "チョコレートスプレッド。ナッツとココアが混ざったペースト状の製品"
+        }
+      ]
+    },
+    {
+      "start": 70,
+      "end": 73,
+      "en": "...",
+      "ja": "…"
+    },
+    {
+      "start": 73,
+      "end": 74,
+      "en": "!!!!",
+      "ja": "！！！！"
+    },
+    {
+      "start": 74,
+      "end": 76,
+      "en": "You don't like Nutella...?",
+      "ja": "ヌテラも好きじゃないの…？"
+    },
+    {
+      "start": 76,
+      "end": 78,
+      "en": "WHHHYYY??",
+      "ja": "なんでえ？！"
+    },
+    {
+      "start": 78,
+      "end": 81,
+      "en": "Do you have a nut allergy?",
+      "ja": "ナッツアレルギーとかあるの？",
+      "notes": [
+        {
+          "term": "nut allergy",
+          "meaning": "ナッツアレルギー・ピーナッツアレルギー"
+        }
+      ]
+    },
+    {
+      "start": 81,
+      "end": 83,
+      "en": "What's wrong with her? Tell me!",
+      "ja": "どうなってるの？言ってよ！"
+    },
+    {
+      "start": 83,
+      "end": 87,
+      "en": "Is this something I should— Say something!",
+      "ja": "何か言わなきゃいけないこと…！何か言ってよ！"
+    },
+    {
+      "start": 87,
+      "end": 96,
+      "en": "Wait, wait, wait, wait. You don't like it on its own, but that doesn't mean you don't like it smushed together in a sandwich, so like PB and J?",
+      "ja": "待ってよ、待ってよ。そのものが好きじゃないってだけでさ、サンドイッチみたいに混ぜたら好きかもじゃん、PBJみたいに",
+      "notes": [
+        {
+          "term": "smushed together",
+          "meaning": "つぶして混ぜる、一緒に混ぜる"
+        },
+        {
+          "term": "PB and J",
+          "meaning": "Peanut Butter and Jam の略"
+        }
+      ]
+    },
+    {
+      "start": 96,
+      "end": 97,
+      "en": "Okay?",
+      "ja": "ね？"
+    },
+    {
+      "start": 97,
+      "end": 98,
+      "en": "Peanut butter fluff?",
+      "ja": "ピーナッツバターとマシュマロクリーム？",
+      "notes": [
+        {
+          "term": "fluff",
+          "meaning": "マシュマロクリームのこと。米国のお菓子"
+        }
+      ]
+    },
+    {
+      "start": 98,
+      "end": 104,
+      "en": "Fluffernutter sandwich, toasted peanut butter fluff sandwich, peanut butter chocolate sandwich?",
+      "ja": "フラッファーナッターサンド、トースト版、ピーナッツバターチョコレートサンド？"
+    },
+    {
+      "start": 104,
+      "end": 106,
+      "en": "...",
+      "ja": "…"
+    },
+    {
+      "start": 106,
+      "end": 108,
+      "en": "I...",
+      "ja": "私…"
+    },
+    {
+      "start": 108,
+      "end": 117,
+      "en": "I can see the appeal. I mean, there's probably a reason why so many people like it.",
+      "ja": "良さは分かるよ。だってこんなに好きな人がいるんだから何か理由があるんでしょ",
+      "notes": [
+        {
+          "term": "appeal",
+          "meaning": "魅力・良さ"
+        }
+      ]
+    },
+    {
+      "start": 117,
+      "end": 121,
+      "en": "Uh-huh. But you don't like it?",
+      "ja": "うん。でもお前好きじゃないの？"
+    },
+    {
+      "start": 121,
+      "end": 144,
+      "en": "Wait, wait, wait! But you're the one who would go to Subway and get a tuna sandwich. She be like, \"Oh, this is good, this is where it's at.\" Shut the fuck up about sandwiches!!",
+      "ja": "待ってよ！お前がサブウェイ行ってツナサンド頼むくせに「これ良い、最高」とか言ってるじゃん。サンドイッチについて黙ってよ！"
+    }
+  ]
+}

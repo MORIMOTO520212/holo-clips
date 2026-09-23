@@ -1,0 +1,132 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "watch-this-kaela",
+  "videoId": "Os7agz0MGJM",
+  "start": 0,
+  "end": 66,
+  "title": "Watch This Kaela",
+  "talent": "Koganei Kaela",
+  "lines": [
+    {
+      "start": 0,
+      "end": 3,
+      "en": "Watch this, Kaela.",
+      "ja": "見てて、カエラ"
+    },
+    {
+      "start": 3,
+      "end": 6,
+      "en": "Wow, you're so bad.",
+      "ja": "うわ、下手すぎ"
+    },
+    {
+      "start": 6,
+      "end": 10,
+      "en": "Watch this, Kaela.",
+      "ja": "見てて、カエラ"
+    },
+    {
+      "start": 10,
+      "end": 15,
+      "en": "Watch this, Kaela.",
+      "ja": "見てて、カエラ"
+    },
+    {
+      "start": 15,
+      "end": 17,
+      "en": "Watch this, Kaela.",
+      "ja": "見てて、カエラ"
+    },
+    {
+      "start": 17,
+      "end": 20,
+      "en": "This is not even \"worst\" anymore.",
+      "ja": "もう「最悪」ってレベルじゃないね",
+      "notes": [
+        {
+          "term": "worst / badder / baddest...",
+          "match": "worst",
+          "meaning": "bad-worse-worstの比較変化をわざと崩して、どんどん変な造語にしていく言葉遊び"
+        }
+      ]
+    },
+    {
+      "start": 20,
+      "end": 23,
+      "en": "This is \"badder.\"",
+      "ja": "これは「もっとバッダー」だよ"
+    },
+    {
+      "start": 23,
+      "end": 25,
+      "en": "Watch this, Kaela.",
+      "ja": "見てて、カエラ"
+    },
+    {
+      "start": 25,
+      "end": 27,
+      "en": "\"Baddest.\"",
+      "ja": "「バデスト」"
+    },
+    {
+      "start": 27,
+      "end": 31,
+      "en": "Watch this, Kaela.",
+      "ja": "見てて、カエラ"
+    },
+    {
+      "start": 31,
+      "end": 33,
+      "en": "\"Baddaster.\"",
+      "ja": "「バダスター」"
+    },
+    {
+      "start": 33,
+      "end": 35,
+      "en": "Watch this, Kaela.",
+      "ja": "見てて、カエラ"
+    },
+    {
+      "start": 35,
+      "end": 37,
+      "en": "\"Baddesterest.\"",
+      "ja": "「バデステレスト」"
+    },
+    {
+      "start": 37,
+      "end": 39,
+      "en": "Watch this, Kaela.",
+      "ja": "見てて、カエラ"
+    },
+    {
+      "start": 39,
+      "end": 41,
+      "en": "\"Baddasteresterur.\"",
+      "ja": "「バダスタレステラー」"
+    },
+    {
+      "start": 41,
+      "end": 43,
+      "en": "Watch this, Kaela.",
+      "ja": "見てて、カエラ"
+    },
+    {
+      "start": 43,
+      "end": 45,
+      "en": "\"Baddesteresters.\"",
+      "ja": "「バデステレスターズ」"
+    },
+    {
+      "start": 45,
+      "end": 47,
+      "en": "Watch this, Kaela.",
+      "ja": "見てて、カエラ"
+    },
+    {
+      "start": 47,
+      "end": 50,
+      "en": "Man... I don't even care about this anymore.",
+      "ja": "はぁ…もうどうでもよくなってきた"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "woona",
+  "videoId": "5Z-A6w0diJU",
+  "start": 0,
+  "end": 74,
+  "title": "WOONA!!!",
+  "talent": "Momosuzu Nene, Himemori Luna, Kikirara Vivi",
+  "lines": [
+    {
+      "start": 0,
+      "end": 6,
+      "en": "Kanade... Korone... Shishiro... WOONA! Mikochi... Watame... WOONA!",
+      "ja": "かなで…ころね…ししろ…ウーナ！みこち…わため…ウーナ！",
+      "notes": [
+        {
+          "term": "WOONA",
+          "meaning": "良いカードを引いた時にねねっちが叫ぶ決まり文句（本人オリジナルの掛け声）"
+        }
+      ]
+    },
+    {
+      "start": 6,
+      "end": 8,
+      "en": "WOOOOO...",
+      "ja": "うぉぉぉ…"
+    },
+    {
+      "start": 8,
+      "end": 10,
+      "en": "WOONA!!",
+      "ja": "ウーナ！！"
+    },
+    {
+      "start": 10,
+      "end": 12,
+      "en": "Risu... Woona...",
+      "ja": "りす…ウーナ…"
+    },
+    {
+      "start": 12,
+      "end": 16,
+      "en": "Mococo♥ — From a Roborobo-senpai♥, to... WOONA!",
+      "ja": "モココ♥ — ロボロボ先輩♥より、…ウーナ！"
+    },
+    {
+      "start": 16,
+      "end": 18,
+      "en": "WOOOOONA…",
+      "ja": "ウーーーナ…"
+    },
+    {
+      "start": 18,
+      "end": 25,
+      "en": "Ao-kuuuuun. Gakin, gakin, gakin, gakin, gakin, gaaan!",
+      "ja": "あおくーん。ガキン、ガキン、ガキン、ガキン、ガキン、ガーン！"
+    },
+    {
+      "start": 25,
+      "end": 33,
+      "en": "Chichiron — from Towawa, to... Koh-eh, Ao-senpai, Kanade-senpai.",
+      "ja": "ちちろん — とわわより、…こーえー、あお先輩、かなで先輩"
+    },
+    {
+      "start": 33,
+      "end": 40,
+      "en": "Ah, Pekora-senpai♥ WOOKNIGHT. WOONAAAA…",
+      "ja": "あ、ぺこら先輩♥　ウーナイト。ウーナァァ…"
+    },
+    {
+      "start": 40,
+      "end": 41,
+      "en": "WOONA…",
+      "ja": "ウーナ…"
+    },
+    {
+      "start": 41,
+      "end": 43,
+      "en": "WOONA!",
+      "ja": "ウーナ！"
+    },
+    {
+      "start": 43,
+      "end": 46,
+      "en": "WOOONAAAA!!!",
+      "ja": "ウーーーナァァ！！！"
+    },
+    {
+      "start": 46,
+      "end": 53,
+      "en": "AHAHA. Nnn~ Vivi~ \"Now, over-exaggerate it.\"",
+      "ja": "あはは。んん〜ヴィヴィ〜「じゃあ、もっと大げさにやって」"
+    },
+    {
+      "start": 53,
+      "end": 59,
+      "en": "AHAHAHA... NNNNNNNNNNN VI!!!!",
+      "ja": "あはははは…んんんんんんんんんん、ヴィ！！！！"
+    },
+    {
+      "start": 59,
+      "end": 63,
+      "en": "Better out than in... I guess...",
+      "ja": "出した方がいいよね…多分…",
+      "notes": [
+        {
+          "term": "better out than in",
+          "match": "Better out than in",
+          "meaning": "（げっぷ・おならなど）我慢するより出してしまう方がいい、という決まり文句"
+        }
+      ]
+    }
+  ]
+}

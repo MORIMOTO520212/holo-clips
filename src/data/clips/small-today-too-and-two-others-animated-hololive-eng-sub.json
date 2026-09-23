@@ -1,0 +1,131 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "small-today-too-and-two-others-animated-hololive-eng-sub",
+  "videoId": "qduDhc1GmZU",
+  "start": 0,
+  "end": 63,
+  "title": "\"Small today too\" And two others🌙⚓ [Animated Hololive/Eng sub]",
+  "talent": "Hoshimachi Suisei, Murasaki Shion, Minato Aqua",
+  "lines": [
+    {
+      "start": 0,
+      "end": 2,
+      "en": "There are lots of... Hoshiyomi.",
+      "ja": "いっぱいいるね…星詠みが",
+      "notes": [
+        {
+          "term": "Hoshiyomi",
+          "meaning": "星街すいせいのファンネーム（「星を詠む者」の意）"
+        }
+      ]
+    },
+    {
+      "start": 2,
+      "end": 4.5,
+      "en": "\"Small today too.\"",
+      "ja": "「今日も小さい」"
+    },
+    {
+      "start": 4.5,
+      "end": 7,
+      "en": "Korosuzo! (I'm gonna kill you!)",
+      "ja": "殺すぞ！（アイム・ゴナ・キル・ユー）",
+      "notes": [
+        {
+          "term": "Korosuzo",
+          "meaning": "日本語で「殺すぞ」"
+        }
+      ]
+    },
+    {
+      "start": 7,
+      "end": 8,
+      "en": "Oh no... Oh my gosh...",
+      "ja": "やばい…なんてこと…"
+    },
+    {
+      "start": 8,
+      "end": 10,
+      "en": "OMG! OMG! OMG! ...OMG!!",
+      "ja": "やばっ！やばっ！やばっ！…やばっ！！"
+    },
+    {
+      "start": 10,
+      "end": 11,
+      "en": "I won't k*ll you!",
+      "ja": "殺さないよ！"
+    },
+    {
+      "start": 11,
+      "end": 12,
+      "en": "I'm just kidding!",
+      "ja": "冗談だよ！"
+    },
+    {
+      "start": 12,
+      "end": 14,
+      "en": "Sorry... sorry, sorry... (lol)",
+      "ja": "ごめん…ごめんごめん…（笑）"
+    },
+    {
+      "start": 14,
+      "end": 16,
+      "en": "Fuhaha! No~ it's not like that~",
+      "ja": "ふはは！違う違う、そういうことじゃなくて〜"
+    },
+    {
+      "start": 16,
+      "end": 18,
+      "en": "\"Live, You Are Beautiful\"",
+      "ja": "「Live, You Are Beautiful」"
+    },
+    {
+      "start": 18,
+      "end": 20,
+      "en": "I don't want to fight against you anymore... it's enough...",
+      "ja": "もうあなたと戦いたくない…もう十分…"
+    },
+    {
+      "start": 20,
+      "end": 24,
+      "en": "Let's be friends... Let's be friends...",
+      "ja": "友達になろう…友達になろう…"
+    },
+    {
+      "start": 24,
+      "end": 29,
+      "en": "Don't die! \"Live, You Are Beautiful\"",
+      "ja": "死なないで！「Live, You Are Beautiful」"
+    },
+    {
+      "start": 29,
+      "end": 33,
+      "en": "Hey, are you kidding me?",
+      "ja": "ちょっと、冗談でしょ？"
+    },
+    {
+      "start": 33,
+      "end": 39,
+      "en": "Bukkorosuzo! (I'll f*cking kill you!)",
+      "ja": "ぶっ殺すぞ！（アイル・ファッキン・キル・ユー）",
+      "notes": [
+        {
+          "term": "Bukkorosuzo",
+          "meaning": "日本語で「ぶっ殺すぞ」。「殺すぞ（Korosuzo）」よりもさらに強い口調"
+        }
+      ]
+    },
+    {
+      "start": 39,
+      "end": 47,
+      "en": "I was grabbed by the collar. I was grabbed by the collar. I was grabbed by the collar.",
+      "ja": "胸ぐらを掴まれた。胸ぐらを掴まれた。胸ぐらを掴まれた"
+    },
+    {
+      "start": 47,
+      "end": 51,
+      "en": "I was grabbed by the collar. I was grabbed by the collar.",
+      "ja": "胸ぐらを掴まれた。胸ぐらを掴まれた"
+    }
+  ]
+}

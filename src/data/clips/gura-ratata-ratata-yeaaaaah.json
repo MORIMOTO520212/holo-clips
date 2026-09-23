@@ -1,0 +1,65 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "gura-ratata-ratata-yeaaaaah",
+  "videoId": "WXg8LT99SSw",
+  "start": 0,
+  "end": 82,
+  "title": "Gura - RATATA♪RATATA♪YEAAAAAH!!!",
+  "talent": "Gawr Gura",
+  "lines": [
+    {
+      "start": 0,
+      "end": 7,
+      "en": "Is that a gun?",
+      "ja": "それって銃？"
+    },
+    {
+      "start": 7,
+      "end": 17,
+      "en": "That's a gun. Why is it so slow?",
+      "ja": "それ銃だよ。なんでこんなに遅いの？"
+    },
+    {
+      "start": 17,
+      "end": 20,
+      "en": "TATATA! RATATA! RATATA! TA! TA!",
+      "ja": "タタタ！ラタタ！ラタタ！タ！タ！",
+      "notes": [
+        {
+          "term": "TATATA",
+          "meaning": "銃を連射する音を真似た擬音語"
+        }
+      ]
+    },
+    {
+      "start": 20,
+      "end": 29,
+      "en": "TATATA! TATATA! YEAAAAAH!!!",
+      "ja": "タタタ！タタタ！イエアァァ！！！"
+    },
+    {
+      "start": 29,
+      "end": 32,
+      "en": "NO!!",
+      "ja": "やだー！！"
+    },
+    {
+      "start": 32,
+      "end": 44,
+      "en": "NO!!",
+      "ja": "やだー！！"
+    },
+    {
+      "start": 44,
+      "end": 45,
+      "en": "NO!!!!!",
+      "ja": "やだーーー！！！"
+    },
+    {
+      "start": 45,
+      "end": 49,
+      "en": "I want to use the gun...",
+      "ja": "銃を使いたいよぉ…"
+    }
+  ]
+}

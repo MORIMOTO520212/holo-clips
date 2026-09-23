@@ -1,0 +1,264 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "gura-tried-to-prove-she-is-not-an-ai",
+  "videoId": "EMoKns_FWpg",
+  "start": 0,
+  "end": 87,
+  "title": "Gura tried to prove she is not an AI...",
+  "talent": "Gawr Gura",
+  "lines": [
+    {
+      "start": 0,
+      "end": 2,
+      "en": "[Chat: Your AI version is too smart to feel like you]",
+      "ja": "［チャット：AIバージョンのお前、賢すぎてお前っぽくない］"
+    },
+    {
+      "start": 2,
+      "end": 4,
+      "en": "Did you just call me an AI?",
+      "ja": "今、私のことAIって言った？"
+    },
+    {
+      "start": 4,
+      "end": 9,
+      "en": "[Chat: Wow, this AI is so realistic, I feel like I'm really talking to Gura!]",
+      "ja": "［チャット：うわ、このAIリアルすぎ、本物のぐらと話してるみたい！］"
+    },
+    {
+      "start": 9,
+      "end": 11,
+      "en": "How do I prove I'm not an AI?",
+      "ja": "AIじゃないってどうやって証明すればいいの？"
+    },
+    {
+      "start": 11,
+      "end": 13,
+      "en": "Ask me a question only Gura would know.",
+      "ja": "ぐらしか知らないような質問して"
+    },
+    {
+      "start": 13,
+      "end": 14.5,
+      "en": "[Chat: 2 x 2]",
+      "ja": "［チャット：2×2は？］"
+    },
+    {
+      "start": 14.5,
+      "end": 17,
+      "en": "4. Or fish, if you put them together in the right way.",
+      "ja": "4。うまく組み合わせれば「魚」になるよ",
+      "notes": [
+        {
+          "term": "fish",
+          "meaning": "「2」の形を組み合わせると魚のイラストになるというネットミーム的な小ネタ"
+        }
+      ]
+    },
+    {
+      "start": 17,
+      "end": 20,
+      "en": "[Chat: Fake Gura wouldn't know that.]",
+      "ja": "［チャット：偽物のぐらはそんなこと知らないはず］"
+    },
+    {
+      "start": 20,
+      "end": 20.7,
+      "en": "Exactly!",
+      "ja": "でしょ！"
+    },
+    {
+      "start": 20.7,
+      "end": 25,
+      "en": "Which is why I'm REAL Gura, I'm not an AI!",
+      "ja": "だから私は本物のぐらなの、AIじゃない！"
+    },
+    {
+      "start": 25,
+      "end": 27,
+      "en": "[Chat: Real Gura wouldn't know.]",
+      "ja": "［チャット：本物のぐらなら知らないはず］"
+    },
+    {
+      "start": 27,
+      "end": 29,
+      "en": "Real Gura wouldn't know what?",
+      "ja": "本物のぐらは何を知らないはずなの？"
+    },
+    {
+      "start": 29,
+      "end": 30,
+      "en": "[Chat: 2 x 2]",
+      "ja": "［チャット：2×2は？］"
+    },
+    {
+      "start": 30,
+      "end": 32,
+      "en": "That... 2 x 2 is 4?",
+      "ja": "それ…2×2は4でしょ？"
+    },
+    {
+      "start": 32,
+      "end": 35,
+      "en": "That's exactly what an AI would say.",
+      "ja": "それこそAIが言いそうなセリフだよ"
+    },
+    {
+      "start": 35,
+      "end": 41,
+      "en": "No, I don't think you have enough experience with a real AI to know how to handle a real AI.",
+      "ja": "いや、あなた本物のAIと関わった経験が足りなくて、本物のAIの扱い方分かってないと思う"
+    },
+    {
+      "start": 41,
+      "end": 43,
+      "en": "[Chat: Real Gura can't do 2 x 2 is 4.]",
+      "ja": "［チャット：本物のぐらは2×2＝4も分からないはず］"
+    },
+    {
+      "start": 43,
+      "end": 44.5,
+      "en": "Okay.",
+      "ja": "はいはい"
+    },
+    {
+      "start": 44.5,
+      "end": 46,
+      "en": "Ask me another question then.",
+      "ja": "じゃあ別の質問して"
+    },
+    {
+      "start": 46,
+      "end": 47,
+      "en": "Ah!",
+      "ja": "あっ！"
+    },
+    {
+      "start": 47,
+      "end": 48.5,
+      "en": "Wait—",
+      "ja": "ちょっと待って…"
+    },
+    {
+      "start": 48.5,
+      "end": 50,
+      "en": "Hello?",
+      "ja": "もしもーし？"
+    },
+    {
+      "start": 50,
+      "end": 52,
+      "en": "[Chat: 5 x 5]",
+      "ja": "［チャット：5×5は？］"
+    },
+    {
+      "start": 52,
+      "end": 52.7,
+      "en": "30...",
+      "ja": "30…"
+    },
+    {
+      "start": 52.7,
+      "end": 54,
+      "en": "25! 5 x 5 is 25!",
+      "ja": "25！5×5は25だよ！"
+    },
+    {
+      "start": 54,
+      "end": 56,
+      "en": "5, 10, 15, 20, 25...",
+      "ja": "5、10、15、20、25…"
+    },
+    {
+      "start": 56,
+      "end": 57,
+      "en": "Boom!",
+      "ja": "どやっ！"
+    },
+    {
+      "start": 57,
+      "end": 58,
+      "en": "[Chat: Is Kiara cute?]",
+      "ja": "［チャット：キアラは可愛い？］"
+    },
+    {
+      "start": 58,
+      "end": 59,
+      "en": "Yes!",
+      "ja": "うん！"
+    },
+    {
+      "start": 59,
+      "end": 60,
+      "en": "[Chat: How tall are you in bananas?]",
+      "ja": "［チャット：身長をバナナ何本分で表すと？］"
+    },
+    {
+      "start": 60,
+      "end": 61,
+      "en": "Uhhh...",
+      "ja": "えぇっと…"
+    },
+    {
+      "start": 61,
+      "end": 62,
+      "en": "I don't know!",
+      "ja": "分かんない！"
+    },
+    {
+      "start": 62,
+      "end": 63,
+      "en": "I don't know that!",
+      "ja": "そんなの分かんないよ！"
+    },
+    {
+      "start": 63,
+      "end": 64,
+      "en": "[Chat: Shoe size?]",
+      "ja": "［チャット：靴のサイズは？］"
+    },
+    {
+      "start": 64,
+      "end": 66,
+      "en": "None of your business!",
+      "ja": "関係ないでしょ！"
+    },
+    {
+      "start": 66,
+      "end": 67,
+      "en": "[Chat: She's real, see!]",
+      "ja": "［チャット：ほら、本物じゃん！］"
+    },
+    {
+      "start": 67,
+      "end": 70,
+      "en": "I am real! I AM REAL!",
+      "ja": "本物だよ！本物だってば！"
+    },
+    {
+      "start": 70,
+      "end": 72,
+      "en": "Why am I arguing?",
+      "ja": "なんで私、言い争ってるんだろ？"
+    },
+    {
+      "start": 72,
+      "end": 73,
+      "en": "9 + 10?",
+      "ja": "9＋10は？"
+    },
+    {
+      "start": 73,
+      "end": 75,
+      "en": "21.",
+      "ja": "21",
+      "notes": [
+        {
+          "term": "9 + 10 = 21",
+          "match": "21",
+          "meaning": "「9+10=21」は有名なネットミームのボケ（本来は19が正解）"
+        }
+      ]
+    }
+  ]
+}

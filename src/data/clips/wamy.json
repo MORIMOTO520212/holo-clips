@@ -1,0 +1,89 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "wamy",
+  "videoId": "6RDhBR_Mun0",
+  "start": 0,
+  "end": 67,
+  "title": "WAMY!!",
+  "talent": "Hakos Baelz",
+  "lines": [
+    {
+      "start": 0,
+      "end": 8,
+      "en": "Subaru-senpai, Sencho, Fubuki-senpai, WAMY, Coco-senpai, WAMY, Chichiron, Nene, WAMY...",
+      "ja": "スバル先輩、船長、フブキ先輩、ワミー、ココ先輩、ワミー、ちちろん、ねね、ワミー…",
+      "notes": [
+        {
+          "term": "WAMY",
+          "meaning": "雪花ラミィ（Lamy）のカードを引くたびに名前を「ワミー」と言い間違えるねねのお約束ネタ"
+        }
+      ]
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "en": "Suichan-senpai, Towawa-senpai, Flare-senpai, NENE! I want more Nene!",
+      "ja": "スイちゃん先輩、とわわ先輩、フレア先輩、ねね！ねねもっと欲しい！"
+    },
+    {
+      "start": 15,
+      "end": 17,
+      "en": "I want more!!!",
+      "ja": "もっと欲しい！！！"
+    },
+    {
+      "start": 17,
+      "end": 26,
+      "en": "WAMY... Eh~ Sora-senpai, Aki-senpai, Ayame-senpai, WAMY, WOONA, WAMY...",
+      "ja": "ワミー…あれ〜そら先輩、アキ先輩、あやめ先輩、ワミー、ウーナ、ワミー…"
+    },
+    {
+      "start": 26,
+      "end": 30,
+      "en": "WAMY! WAMY! WAMY! WAMY! Konlamy~!!!",
+      "ja": "ワミー！ワミー！ワミー！ワミー！こんラミー！！！",
+      "notes": [
+        {
+          "term": "Konlamy",
+          "meaning": "「こんにちは」を意味する挨拶「こんら」とラミィの名前をかけた語呂合わせ"
+        }
+      ]
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "en": "Noel-senpai, Fubuki-senpai, NENEEEEEEEE! Today!! We have a...",
+      "ja": "ノエル先輩、フブキ先輩、ねねーーー！今日はね！！実は…"
+    },
+    {
+      "start": 40,
+      "end": 43,
+      "en": "BIG BIG BIG GUEST GUEST!!!",
+      "ja": "特大特大特大ゲスト、ゲスト！！！"
+    },
+    {
+      "start": 43,
+      "end": 46,
+      "en": "Who is it!? Who is it!?",
+      "ja": "誰でしょう！？誰でしょう！？"
+    },
+    {
+      "start": 46,
+      "end": 49,
+      "en": "Let's welcome our guest now...!",
+      "ja": "それではゲストをお迎えしましょう…！"
+    },
+    {
+      "start": 49,
+      "end": 52,
+      "en": "WAMY!!!!",
+      "ja": "ワミー！！！！"
+    },
+    {
+      "start": 52,
+      "end": 55,
+      "en": "Wah~ Eh? Did you call me WAMY?",
+      "ja": "わー。え？今ワミーって呼んだ？"
+    }
+  ]
+}
