@@ -21,7 +21,7 @@
 .header {
   flex: 1;
   min-height: 0;
-  padding: 16px 20px 0;
+  padding: calc(16px + env(safe-area-inset-top)) 20px 0;
 }
 
 .talent {
