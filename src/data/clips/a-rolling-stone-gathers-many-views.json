@@ -1,0 +1,125 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "a-rolling-stone-gathers-many-views",
+  "videoId": "MACY7LMAri8",
+  "start": 0,
+  "end": 128,
+  "title": "A Rolling Stone Gathers Many Views",
+  "talent": "Koseki Bijou",
+  "lines": [
+    {
+      "start": 0.28,
+      "end": 7.72,
+      "en": "I don't know if it's charging so I, what I want to do is I'm gonna run over to the other plug, Hold on.",
+      "ja": "充電できてるか分かんないから いったん別のプラグまで移動するね 待ってて"
+    },
+    {
+      "start": 10.39,
+      "end": 11.06,
+      "en": "Ahhh!",
+      "ja": "（すってんころりんと転ぶ音）"
+    },
+    {
+      "start": 30.95,
+      "end": 33.45,
+      "en": "\"What?!\" Umm...",
+      "ja": "「え!?」（コメント）"
+    },
+    {
+      "start": 34.69,
+      "end": 36.59,
+      "en": "I'm okay!",
+      "ja": "大丈夫でーす！"
+    },
+    {
+      "start": 40.12,
+      "end": 44.46,
+      "en": "Okay! Okay! This is the first... I bought new tights, okay?",
+      "ja": "あのね！聞いて！ 新しいタイツを買ったの！"
+    },
+    {
+      "start": 44.46,
+      "end": 50.73,
+      "en": "See, I had to get ready for... I had to get... okay, I have to get ready I have to get ready early",
+      "ja": "これをはいて… この後… アレだよアレ アレに行くの",
+      "notes": [
+        {
+          "term": "get ready",
+          "meaning": "支度をする、準備をする"
+        }
+      ]
+    },
+    {
+      "start": 50.73,
+      "end": 56.67,
+      "en": "I have to get ready early to go out for apartment hunting, so I'm wearing a cute dress, but I'm also wearing tights",
+      "ja": "物件探しに行くからさ カワイイ服に着替えてタイツもはいたの",
+      "notes": [
+        {
+          "term": "apartment hunting",
+          "meaning": "物件探し"
+        }
+      ]
+    },
+    {
+      "start": 56.67,
+      "end": 63.91,
+      "en": "and I just bought these tights yesterday, um, but they're like, but uh, so I bought the tights yesterday, and...",
+      "ja": "このタイツは昨日買ったばかりで だからその… 昨日買ったばっかで… でね、でね…"
+    },
+    {
+      "start": 63.98,
+      "end": 71.12,
+      "en": "and... and... um... but... but... I'm not... The floor is wood, okay? Wood.",
+      "ja": "でも、でも… 部屋の床が木だから…"
+    },
+    {
+      "start": 71.52,
+      "end": 75.46,
+      "en": "So it's slippery! It's slippery! It's slippery! The floor is wood",
+      "ja": "滑る！滑る！！滑るッ！！フローリングが！"
+    },
+    {
+      "start": 75.46,
+      "end": 80.26,
+      "en": "No no it's not ripped, it's not ripped, But I'm just saying that I've just bought these tights",
+      "ja": "あ、タイツは破けてないよ とにかくこのタイツは買ったばかりで"
+    },
+    {
+      "start": 80.26,
+      "end": 86.14,
+      "en": "so I've never worn them before uh so and then the floor is wood, so it's like...",
+      "ja": "はくのも初めてで で… それで木の床を歩いたら…"
+    },
+    {
+      "start": 86.5,
+      "end": 93.88,
+      "en": "Slippery! So so so slippery! It's, it's just, it's just, it's slippery. Okay?",
+      "ja": "つるーん！もうツルッツル！滑りまくるの！わかる？"
+    },
+    {
+      "start": 94.44,
+      "end": 104.49,
+      "en": "Just saying it's slippery, The floor is slippery, and I don't wear slippers. I should wear slippers but...",
+      "ja": "とにかく床が滑りやすいってこと スリッパも履いてないしね スリッパ履けって話なんだけど…"
+    },
+    {
+      "start": 105.09,
+      "end": 105.99,
+      "en": "Nyyes.",
+      "ja": "…にぇ"
+    },
+    {
+      "start": 107.96,
+      "end": 114.67,
+      "en": "What did you hear? Did you hear the scream? Or did you hear the thump? Or did you hear both?",
+      "ja": "音、聞こえた？ 悲鳴か、ドスンって音か… それとも両方？"
+    },
+    {
+      "start": 119.57,
+      "end": 121.94,
+      "en": "Did you hear everything? Ohh...",
+      "ja": "全部聞こえてたの！？"
+    }
+  ]
+}

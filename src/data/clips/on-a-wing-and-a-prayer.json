@@ -1,0 +1,137 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "on-a-wing-and-a-prayer",
+  "videoId": "0qQKolQAAa4",
+  "start": 0,
+  "end": 80,
+  "title": "On A Wing And A Prayer",
+  "talent": "IRyS",
+  "lines": [
+    {
+      "start": 1.15,
+      "end": 3.69,
+      "en": "I was at the airport and...",
+      "ja": "空港での出来事"
+    },
+    {
+      "start": 4.36,
+      "end": 6.56,
+      "en": "Apparently my zipper...",
+      "ja": "私のリュックの…"
+    },
+    {
+      "start": 6.56,
+      "end": 10.39,
+      "en": "One of my backpack zippers was full-on open, and I didn't notice.",
+      "ja": "ジッパーがうっかり全開になってたみたいで 私も気づいてなかったの"
+    },
+    {
+      "start": 11.03,
+      "end": 12.36,
+      "en": "And then, um...",
+      "ja": "そしたら…"
+    },
+    {
+      "start": 12.86,
+      "end": 18.74,
+      "en": "And then, a kind, kind lady... A kind girl who was on the same elevator as me...",
+      "ja": "エレベーターに乗り合わせた女性が それはそれは親切な女性で…"
+    },
+    {
+      "start": 19.17,
+      "end": 25.71,
+      "en": "was like, \"Oh!\" \"Miss, your backpack zipper is open!\"",
+      "ja": "「お姉さん！リュック開いてますよ！」って言ってくれて"
+    },
+    {
+      "start": 25.71,
+      "end": 30.55,
+      "en": "\"Gotta be careful!\" And I was like, \"Oh!\" \"Sorry!\" \"Thank you so much!\"",
+      "ja": "「あっ！すみません！ありがとうございます！」",
+      "notes": [
+        {
+          "term": "Gotta be careful",
+          "meaning": "You've got to be careful のくだけた言い方。「気をつけてね」"
+        }
+      ]
+    },
+    {
+      "start": 30.95,
+      "end": 34.82,
+      "en": "\"You really saved me!\" \"Thank you so much!\" \"Thank you so much! You really saved me!\"",
+      "ja": "「ホントに助かりました！ありがとうございます！」…っていうことがあったのね"
+    },
+    {
+      "start": 36.25,
+      "end": 39.62,
+      "en": "She was a... cute lady, yes. Mm-hmm.",
+      "ja": "可愛い子だったね、うん"
+    },
+    {
+      "start": 41.06,
+      "end": 43.79,
+      "en": "30 minutes later, I arrive and, y'know,",
+      "ja": "30分後、集合場所に着いて",
+      "notes": [
+        {
+          "term": "y'know",
+          "meaning": "you know の口語的な短縮形"
+        }
+      ]
+    },
+    {
+      "start": 43.79,
+      "end": 50.8,
+      "en": "and then I see some of my JP senpais there too. We were flying, right?",
+      "ja": "そこでJPの先輩達と合流したんだけど",
+      "notes": [
+        {
+          "term": "senpai",
+          "meaning": "「先輩」という日本語がそのまま英語配信でも使われている"
+        }
+      ]
+    },
+    {
+      "start": 50.8,
+      "end": 53.47,
+      "en": "And then I see Subaru-senpai.",
+      "ja": "で、スバル先輩が来たら…"
+    },
+    {
+      "start": 54.34,
+      "end": 56.14,
+      "en": "And we were like... \"Ahhhh!\" \"Ahhhh!\"",
+      "ja": "2人で「あ～っ！！」"
+    },
+    {
+      "start": 56.61,
+      "end": 61.88,
+      "en": "Because it was actually Subaru-senpai that told me that my... My My backpack was open.",
+      "ja": "リュックが開いてるって教えてくれた人は スバル先輩だったんだ！"
+    },
+    {
+      "start": 62.95,
+      "end": 66.02,
+      "en": "It was each other. We were like... \"Oh, you were the one with the backpack open!\"",
+      "ja": "先輩に「あれIRySかよ～！」って言われて"
+    },
+    {
+      "start": 66.02,
+      "end": 69.69,
+      "en": "I was like... \"Oh, you were the one who was kind enough to tell me it was open!\"",
+      "ja": "「あの親切な人、スバル先輩だったんですか～！」って感じで…"
+    },
+    {
+      "start": 69.69,
+      "end": 73.52,
+      "en": "Yeah. Like, what a coinkydink!",
+      "ja": "いやー…なんて偶然！",
+      "notes": [
+        {
+          "term": "coinkydink",
+          "meaning": "coincidence（偶然）をふざけて言う俗語"
+        }
+      ]
+    }
+  ]
+}

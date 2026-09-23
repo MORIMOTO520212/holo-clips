@@ -1,0 +1,143 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "wah-we-are-handcarrying",
+  "videoId": "s0BM7Jj4pwU",
+  "start": 0,
+  "end": 97,
+  "title": "W.A.H. (We Are Handcarrying)",
+  "talent": "Ninomae Ina'nis",
+  "lines": [
+    {
+      "start": 0,
+      "end": 3.65,
+      "en": "It's just... So I have another keyboard, actually, that I use for travel, that is...",
+      "ja": "遠征用のキーボードも持ってるよ"
+    },
+    {
+      "start": 3.65,
+      "end": 7.66,
+      "en": "that has... a plastic casing, so it's much lighter.",
+      "ja": "プラスチック製の軽いやつ"
+    },
+    {
+      "start": 7.66,
+      "end": 10.19,
+      "en": "But... hmm...",
+      "ja": "でも… んー"
+    },
+    {
+      "start": 10.19,
+      "end": 14.56,
+      "en": "It just doesn't sound as nice as these.",
+      "ja": "あれは音がイマイチなんだよね"
+    },
+    {
+      "start": 14.56,
+      "end": 20.24,
+      "en": "And, it's just... Sometimes it just feels nice to type on these metal ones!",
+      "ja": "やっぱり… 打鍵感がいいのはこのメタルの方かな",
+      "notes": [
+        {
+          "term": "feels nice to type on",
+          "meaning": "打鍵感（タイピングしたときの感触）がいい、という意味"
+        }
+      ]
+    },
+    {
+      "start": 20.24,
+      "end": 25.54,
+      "en": "Umm... I'm sure, like, security will wonder why I'm carrying these heavy metal keyboards around.",
+      "ja": "こんなの持って検査場を通ったら… なんでこんなゴツいキーボードを持ち歩いてるんだって聞かれそう"
+    },
+    {
+      "start": 28.01,
+      "end": 32.45,
+      "en": "And I'm just gonna let them know that I'm very peculiar about my setup.",
+      "ja": "私はこう答えるよ 機材オタクこじらせてまして…ってね",
+      "notes": [
+        {
+          "term": "peculiar about",
+          "meaning": "〜に強いこだわりがある"
+        }
+      ]
+    },
+    {
+      "start": 34.48,
+      "end": 37.99,
+      "en": "They're always like, \"What is this?\" \"What is this?\" And I'm just like...",
+      "ja": "「これは何？」って何度も聞かれるから 受け答えの…"
+    },
+    {
+      "start": 37.99,
+      "end": 41.36,
+      "en": "I have, like, a manual, like... Like, a macro.",
+      "ja": "マニュアルというか マクロを組んでるよ"
+    },
+    {
+      "start": 41.36,
+      "end": 45.93,
+      "en": "\"That's a microphone stand...\" \"That's a microphone stand's base...",
+      "ja": "「それはマイクスタンドです」「それはマイクスタンドの土台です」"
+    },
+    {
+      "start": 45.93,
+      "end": 50.27,
+      "en": "\"That is an inline amplif... uh... ...amplifier for my microphone...\"",
+      "ja": "「それはインラインアンプ…」「マイク用のアンプです」"
+    },
+    {
+      "start": 50.27,
+      "end": 54.14,
+      "en": "\"That is a gaming controller.\" I'm sure, I'm sure they know what a controller is.",
+      "ja": "「それはゲームのコントローラーです」 さすがにコントローラーは分かるだろうけど"
+    },
+    {
+      "start": 54.14,
+      "end": 57.71,
+      "en": "\"That is my keyboard.\" \"Yes, those wires are not attached to anything.\"",
+      "ja": "「それはキーボードです」「はい、そのケーブル類は何にもつながってません」"
+    },
+    {
+      "start": 59.78,
+      "end": 63.11,
+      "en": "And you know they always suggest, like, I check it in, and I'm just like,",
+      "ja": "預け荷物にした方が…っていつも言われるけど 私は…"
+    },
+    {
+      "start": 63.11,
+      "end": 68.85,
+      "en": "\"Well, there are probably thousands if dollars worth of... electronics and equipment there.\"",
+      "ja": "「この機材まとめると大体…」「数千ドルですけど」"
+    },
+    {
+      "start": 68.85,
+      "end": 75.19,
+      "en": "\"I don't think it's insured by you guys, therefore I will... gladly carry it on by myself.\"",
+      "ja": "「万が一の補償とかありませんよね？」「だからこれは機内に持ち込みます」"
+    },
+    {
+      "start": 75.19,
+      "end": 82.17,
+      "en": "\"And carry it... And put it on top of my seat.\" \"Unless you are ensuring every equipment is insured,",
+      "ja": "「座席の上の棚に置きます」「機材に何かあったら補償してくれて…」"
+    },
+    {
+      "start": 82.17,
+      "end": 85.84,
+      "en": "and not gonna be tossed around in the luggage area.\"",
+      "ja": "「預けた荷物を放り投げないでくれるなら話は別ですが」"
+    },
+    {
+      "start": 85.84,
+      "end": 91.74,
+      "en": "\"I will take my rightful 'One carry-on luggage' right.\" Umm... Yes...",
+      "ja": "「というわけでこれは持ち込み荷物です」 …ってね",
+      "notes": [
+        {
+          "term": "carry-on",
+          "meaning": "機内持ち込み手荷物"
+        }
+      ]
+    }
+  ]
+}

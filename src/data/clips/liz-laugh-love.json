@@ -1,0 +1,125 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "liz-laugh-love",
+  "videoId": "XLwqt33ajpk",
+  "start": 0,
+  "end": 70,
+  "title": "Liz, Laugh, Love",
+  "talent": "Elizabeth Rose Bloodflame",
+  "lines": [
+    {
+      "start": 0.38,
+      "end": 3.32,
+      "en": "Cloud, thank you for the yellow Super.",
+      "ja": "Cloud君、黄スパありがとう",
+      "notes": [
+        {
+          "term": "Super",
+          "meaning": "スーパーチャット（投げ銭コメント）の略。色によって金額のランクがある"
+        }
+      ]
+    },
+    {
+      "start": 3.32,
+      "end": 9.19,
+      "en": "\"Liz, could you give a wake-up call to me, since I just woke up?\" Very well.",
+      "ja": "「リズちゃん、今起きたばかりの私に」「目覚ましボイスを頂けますか？」いいでしょう"
+    },
+    {
+      "start": 9.69,
+      "end": 14.37,
+      "en": "Ughhh... Alright, okay. Here's an alarm sound for you.",
+      "ja": "わかった キミのための目覚ましボイスを…"
+    },
+    {
+      "start": 15.16,
+      "end": 16.77,
+      "en": "Wake up! Get out of bed!",
+      "ja": "起きろ！！ベッドから出ろ！！！"
+    },
+    {
+      "start": 16.77,
+      "end": 19.8,
+      "en": "Get out of bed NOW! NOW NOW NOW NOW NOW",
+      "ja": "出なさい早く早く早く早く早く早く"
+    },
+    {
+      "start": 20.07,
+      "end": 21.7,
+      "en": "Push-ups! NOW!",
+      "ja": "腕立て伏せ！はじめ！"
+    },
+    {
+      "start": 21.7,
+      "end": 24.38,
+      "en": "Uhhh... Get... ONE TWO THREE",
+      "ja": "はい！いーち！にーい！！さーん！！！"
+    },
+    {
+      "start": 24.38,
+      "end": 27.38,
+      "en": "Get up! Go have your cereal! Have a great day!",
+      "ja": "起きろ！！シリアルを食え！！！よい一日を！！！"
+    },
+    {
+      "start": 27.38,
+      "end": 28.45,
+      "en": "Ahhhhhhhh!",
+      "ja": "ああああああ！！！"
+    },
+    {
+      "start": 30.45,
+      "end": 32.82,
+      "en": "Is that good? Yeah?",
+      "ja": "よかった？そう？"
+    },
+    {
+      "start": 33.15,
+      "end": 34.59,
+      "en": "That a good alarm?",
+      "ja": "いい目覚ましだった？"
+    },
+    {
+      "start": 37.25,
+      "end": 39.59,
+      "en": "Sit down! Stand up! G—",
+      "ja": "座れ！立て！げっ…",
+      "notes": [
+        {
+          "term": "Sit down! Stand up!",
+          "meaning": "軍隊調に短い命令形を連呼する言い方"
+        }
+      ]
+    },
+    {
+      "start": 41.29,
+      "end": 42.66,
+      "en": "GO GO GO!",
+      "ja": "GO GO GO!!!"
+    },
+    {
+      "start": 44.36,
+      "end": 58.88,
+      "en": "Or is it like an alarm going: Brrrrrr, brrrrrrrrr, brrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr...",
+      "ja": "それともこういう目覚まし？"
+    },
+    {
+      "start": 58.88,
+      "end": 60.14,
+      "en": "I couldn't do anymore!",
+      "ja": "…もう無理！",
+      "notes": [
+        {
+          "term": "I couldn't do anymore",
+          "meaning": "本来は \"I can't do any more!\" が自然だが、勢い任せの口語ではこう言うこともある"
+        }
+      ]
+    },
+    {
+      "start": 62.35,
+      "end": 64.61,
+      "en": "I won't do it again... That'll be it...",
+      "ja": "もうやらない…おわり"
+    }
+  ]
+}

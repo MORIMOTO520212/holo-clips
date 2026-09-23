@@ -1,0 +1,78 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "phoenix-downed",
+  "videoId": "SBr9msiVkL0",
+  "start": 0,
+  "end": 52,
+  "title": "Phoenix Down...ed",
+  "talent": "Takanashi Kiara",
+  "lines": [
+    {
+      "start": 0.08,
+      "end": 2.05,
+      "en": "Do I have to do that? I'm, I'm not...",
+      "ja": "設定変えないとダメ？ ちょっと…"
+    },
+    {
+      "start": 2.05,
+      "end": 3.92,
+      "en": "Uh, I don't quite under... No?",
+      "ja": "よく分かんな… 「いける」？"
+    },
+    {
+      "start": 3.92,
+      "end": 5.62,
+      "en": "It should recognize it?",
+      "ja": "「コントローラー認識するはず」？"
+    },
+    {
+      "start": 5.62,
+      "end": 8.66,
+      "en": "Uh, I think I have one more controller. One second.",
+      "ja": "別のコントローラーで試してみるか ちょい待ち",
+      "notes": [
+        {
+          "term": "One second.",
+          "meaning": "「ちょっと待って」という意味の口語表現"
+        }
+      ]
+    },
+    {
+      "start": 16.53,
+      "end": 19,
+      "en": "Ahh! Argh!",
+      "ja": "ああっ…！ あーー！！"
+    },
+    {
+      "start": 35.28,
+      "end": 36.39,
+      "en": "That really hurt.",
+      "ja": "いったぁ～…"
+    },
+    {
+      "start": 36.39,
+      "end": 39.66,
+      "en": "I'm trying to find the second controller right now. One second.",
+      "ja": "今コントローラー探してるから 待ってね"
+    },
+    {
+      "start": 39.66,
+      "end": 42.06,
+      "en": "I found it! It's uh...",
+      "ja": "あったー！ これ…"
+    },
+    {
+      "start": 42.06,
+      "end": 46,
+      "en": "It's a PlayStation controller. Does that work?",
+      "ja": "PSのコントローラーだけど いけるかな？",
+      "notes": [
+        {
+          "term": "PS",
+          "match": "PlayStation",
+          "meaning": "PlayStation（ゲーム機）の略称。日本語では「PS」と略すことが多い"
+        }
+      ]
+    }
+  ]
+}

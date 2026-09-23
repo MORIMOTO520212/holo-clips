@@ -1,0 +1,113 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "fond-fowl-memories",
+  "videoId": "pDnfCBK7AD0",
+  "start": 0,
+  "end": 47,
+  "title": "Fond Fowl Memories",
+  "talent": "Nanashi Mumei",
+  "lines": [
+    {
+      "start": 0,
+      "end": 2.49,
+      "en": "Somebody said... \"There were crab legs.\"",
+      "ja": "そのお店 カニも出るって言われて…"
+    },
+    {
+      "start": 3.25,
+      "end": 6.16,
+      "en": "First of all, there wa— there was a ton of crab legs.",
+      "ja": "カニの脚が山ほど出てきてさ！",
+      "notes": [
+        {
+          "term": "a ton of",
+          "meaning": "たくさんの、大量の"
+        }
+      ]
+    },
+    {
+      "start": 6.16,
+      "end": 10.16,
+      "en": "And somebody said to me: \"You need to get Biboo to open them for you!\"",
+      "ja": "誰かに言われたんだ 「カニを剥かせるならビブーだ！」"
+    },
+    {
+      "start": 10.33,
+      "end": 15,
+      "en": "\"Oh okay!\" And she was really... she was really really good at opening crab legs!",
+      "ja": "「わかった！」ビブーは本当にカニを 剥くのがうまいから！"
+    },
+    {
+      "start": 15,
+      "end": 18.17,
+      "en": "\"Okay! Okay okay!\" And I asked Biboo,",
+      "ja": "「うん！わかった！」って ビブーに頼んだら"
+    },
+    {
+      "start": 18.43,
+      "end": 20.3,
+      "en": "and she was like in a trance.",
+      "ja": "そこからはビブー無双",
+      "notes": [
+        {
+          "term": "in a trance",
+          "meaning": "恍惚状態、夢中になっている様子"
+        }
+      ]
+    },
+    {
+      "start": 20.3,
+      "end": 24.41,
+      "en": "She was so relaxed by this massage or something, and as she's being massaged,",
+      "ja": "リラックスした状態で 肩を揉まれながら"
+    },
+    {
+      "start": 24.41,
+      "end": 27.21,
+      "en": "she just opens like half of a crab...",
+      "ja": "1人で5割ぐらい剝いてくれた"
+    },
+    {
+      "start": 27.48,
+      "end": 28.78,
+      "en": "for me! She...",
+      "ja": "私のために！"
+    },
+    {
+      "start": 28.78,
+      "end": 30.98,
+      "en": "And she was just so good at it,",
+      "ja": "しかもすごく上手に"
+    },
+    {
+      "start": 30.98,
+      "end": 33.72,
+      "en": "she was pulling out, like you know, full pieces of meat...",
+      "ja": "身を全部ひっぱり出してくれて"
+    },
+    {
+      "start": 34.18,
+      "end": 36.75,
+      "en": "She was just... It was incredible!",
+      "ja": "とにかく… すごかった！"
+    },
+    {
+      "start": 36.75,
+      "end": 39.76,
+      "en": "Like not saying anything, it was just complete autopilot.",
+      "ja": "黙々と… 完全自動運転だった",
+      "notes": [
+        {
+          "term": "autopilot",
+          "meaning": "自動操縦。何も考えずに作業をこなす様子の比喩"
+        }
+      ]
+    },
+    {
+      "start": 39.76,
+      "end": 41.23,
+      "en": "It was really satisfying.",
+      "ja": "いやー満足満足"
+    }
+  ]
+}

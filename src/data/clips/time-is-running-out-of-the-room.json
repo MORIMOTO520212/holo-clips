@@ -1,0 +1,234 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "time-is-running-out-of-the-room",
+  "videoId": "aqOmd2umrWA",
+  "start": 0,
+  "end": 95,
+  "title": "Time Is Running Out (Of The Room)",
+  "talent": "Ouro Kronii",
+  "lines": [
+    {
+      "start": 0.45,
+      "end": 2.59,
+      "en": "...And look after yourself.",
+      "ja": "お大事に"
+    },
+    {
+      "start": 4.59,
+      "end": 6.36,
+      "en": "Holy sh...!",
+      "ja": "なん…だと…"
+    },
+    {
+      "start": 6.36,
+      "end": 8.22,
+      "en": "Oh my god!",
+      "ja": "バカな…"
+    },
+    {
+      "start": 8.22,
+      "end": 11.16,
+      "en": "Holy shi...!",
+      "ja": "ありえないいいいい"
+    },
+    {
+      "start": 11.16,
+      "end": 13.46,
+      "en": "Oh, what the frick?!",
+      "ja": "えらいこっちゃあああ",
+      "notes": [
+        {
+          "term": "frick",
+          "meaning": "fuck を和らげた婉曲表現。配信でよく使われる自主規制ワード"
+        }
+      ]
+    },
+    {
+      "start": 15.13,
+      "end": 18.17,
+      "en": "What the f...!",
+      "ja": "なんてこったあああい"
+    },
+    {
+      "start": 18.17,
+      "end": 22.64,
+      "en": "There's a big-ass spider on the ceiling!",
+      "ja": "クッソでかいクモが天井にぃぃ",
+      "notes": [
+        {
+          "term": "big-ass",
+          "meaning": "「クソでかい」のような強調のスラング。-ass を付けて誇張する口語表現"
+        }
+      ]
+    },
+    {
+      "start": 24.07,
+      "end": 25.68,
+      "en": "Oh my f...!",
+      "ja": "いやちょっとぉ！"
+    },
+    {
+      "start": 27.44,
+      "end": 29.75,
+      "en": "Oh my god, holy sh...!",
+      "ja": "おい ふざけん…",
+      "notes": [
+        {
+          "term": "holy sh...!",
+          "meaning": "shit と言いかけて自主規制した言い方。配信中はよくこうして言葉を濁す"
+        }
+      ]
+    },
+    {
+      "start": 29.75,
+      "end": 30.88,
+      "en": "Oh my god!",
+      "ja": "そんな…"
+    },
+    {
+      "start": 30.88,
+      "end": 32.45,
+      "en": "I'm going to have a panic attack!",
+      "ja": "ダメだパニックになる"
+    },
+    {
+      "start": 32.45,
+      "end": 33.08,
+      "en": "What the f...!",
+      "ja": "そん…っ"
+    },
+    {
+      "start": 33.08,
+      "end": 36.72,
+      "en": "Oh my god, it's spinning, it's spinning!",
+      "ja": "回っている！回っているッ！！"
+    },
+    {
+      "start": 36.72,
+      "end": 39.42,
+      "en": "Oh, oh wait... I gotta finish reading the Supers!",
+      "ja": "いけない…まだスパチャ読みが…！",
+      "notes": [
+        {
+          "term": "Supers",
+          "meaning": "スーパーチャット（投げ銭コメント）の略称"
+        }
+      ]
+    },
+    {
+      "start": 39.42,
+      "end": 41.02,
+      "en": "Oh my f...! Oh... f...!",
+      "ja": "くっ…クソォ…"
+    },
+    {
+      "start": 41.02,
+      "end": 43.86,
+      "en": "Ohh... Oh my god, oh my god!",
+      "ja": "オォォ…そんな…そんな…"
+    },
+    {
+      "start": 43.86,
+      "end": 45.83,
+      "en": "Please don't do this, not now...",
+      "ja": "どうか…今はやめて…"
+    },
+    {
+      "start": 45.83,
+      "end": 48.37,
+      "en": "Oh my god, oh my god, oh my god.",
+      "ja": "無理…ムリ…むり…"
+    },
+    {
+      "start": 48.37,
+      "end": 50.07,
+      "en": "Okay, okay...",
+      "ja": "オーケー オーケー"
+    },
+    {
+      "start": 50.07,
+      "end": 53.84,
+      "en": "Ho... Ho ho ho... Ho ho ho...",
+      "ja": "ほーう ほーうほーうほーう ほほほ…"
+    },
+    {
+      "start": 53.84,
+      "end": 56.91,
+      "en": "Oh my god, it's coming down from the ceiling!",
+      "ja": "いや下りてきたんだが！？"
+    },
+    {
+      "start": 56.91,
+      "end": 59.71,
+      "en": "Oh, oh sh...!",
+      "ja": "嗚呼 嗚呼 畜生"
+    },
+    {
+      "start": 59.71,
+      "end": 61.88,
+      "en": "Ohh my god!",
+      "ja": "本当に無理"
+    },
+    {
+      "start": 63.28,
+      "end": 68.65,
+      "en": "GWAAAK! S...! WHAT THE F...! AAARGH!",
+      "ja": "ｱ゛ｱ゛ｱ゛ ｸﾞﾜｯ ｼｯﾄ ﾜｯﾀﾞﾌｧｯ ｱｰｰｰｰｰ"
+    },
+    {
+      "start": 68.65,
+      "end": 74.16,
+      "en": "WAHHH! HOLY F...! AAARGH! WHOA! WHOA S...!",
+      "ja": "ﾜｰｰｰｰｰ ﾎｰﾘｰﾌｧｰｰｯ ｱｰｰｯ ｳｵｵ ｳｵｵ ｼｯﾄ"
+    },
+    {
+      "start": 74.16,
+      "end": 78.43,
+      "en": "WHOA! WHOA! THERE'S A BIG SPIDER!",
+      "ja": "ｳ゛ｵ゛ｵ゛ｵ゛ｵ゛ ｳ゛ｵ゛ｵ゛ｵ゛ｵ゛ｵ゛ｵ゛ ﾃﾞｶｲ ｸﾓ ｲﾙ"
+    },
+    {
+      "start": 78.43,
+      "end": 81.0,
+      "en": "HOLY S...! WHOA-HO! HOLY...",
+      "ja": "ﾎｰﾘｰｼｯ ｩﾜｯﾎ ﾎｰﾘｨ"
+    },
+    {
+      "start": 81.0,
+      "end": 82.63,
+      "en": "I'm gonna read the Supers a little later!",
+      "ja": "スパチャは今度読むからぁ！",
+      "notes": [
+        {
+          "term": "gonna",
+          "meaning": "going to のくだけた言い方"
+        }
+      ]
+    },
+    {
+      "start": 82.63,
+      "end": 84.64,
+      "en": "Oh my god, I've gotta get out of this room!",
+      "ja": "お部屋出るぅ！",
+      "notes": [
+        {
+          "term": "get out of",
+          "match": "gotta get out of",
+          "meaning": "〜から出る・抜け出す"
+        }
+      ]
+    },
+    {
+      "start": 84.64,
+      "end": 87.24,
+      "en": "Oh my god, wha-hargh! Oh my god!",
+      "ja": "やだあああ！！ やだぁ！！"
+    },
+    {
+      "start": 87.24,
+      "end": 93.21,
+      "en": "Oh my god, I'm gonna die! I'm gonna die!",
+      "ja": "やだ しぬ しぬしぬしぬしぬ しぬしぬしぬ…"
+    }
+  ]
+}

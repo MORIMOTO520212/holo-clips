@@ -1,0 +1,143 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "la-cucaracha-meets-la-creatura",
+  "videoId": "n1c-KVe6t1Q",
+  "start": 0,
+  "end": 94,
+  "title": "La Cucaracha Meets La Creatura",
+  "talent": "Shiori Novella",
+  "lines": [
+    {
+      "start": 0.65,
+      "end": 5.29,
+      "en": "Did I tell you about this one time that a bug crawled on me? It was a cockroach, specifically too.",
+      "ja": "虫が私の体を這ってた話って もう話したかしら？ ちなみにゴキブリよ"
+    },
+    {
+      "start": 5.79,
+      "end": 7.99,
+      "en": "Did I say that before? I'm pretty sure I did.",
+      "ja": "話したっけ？話したわよね"
+    },
+    {
+      "start": 9.16,
+      "end": 11.33,
+      "en": "I was very horrified.",
+      "ja": "トラウマよ"
+    },
+    {
+      "start": 11.33,
+      "end": 16.2,
+      "en": "I was sleeping in the comfort of my childhood home, one time.",
+      "ja": "実家で横になっていた時の話よ"
+    },
+    {
+      "start": 16.5,
+      "end": 20.97,
+      "en": "And... Dude, I had my arms sorta extended out, y'know.",
+      "ja": "腕を伸ばすような寝相だったのね"
+    },
+    {
+      "start": 20.97,
+      "end": 25.21,
+      "en": "Kinda using it as my headrest",
+      "ja": "手に頭をのせて…腕枕ね",
+      "notes": [
+        {
+          "term": "headrest",
+          "meaning": "頭を乗せるもの、枕代わりのもの"
+        }
+      ]
+    },
+    {
+      "start": 25.38,
+      "end": 30.85,
+      "en": "And while I was asleep, I was subconsciously waking up...",
+      "ja": "寝てたんだけど ふと目が開いてね"
+    },
+    {
+      "start": 31.18,
+      "end": 36.19,
+      "en": "if that makes sense? I just felt like little, little tingles on my arm.",
+      "ja": "寝ぼけまなこよ 腕が少しゾワゾワする感覚がしたの",
+      "notes": [
+        {
+          "term": "tingles",
+          "meaning": "ピリピリ、ゾワゾワする感覚"
+        }
+      ]
+    },
+    {
+      "start": 36.45,
+      "end": 42.76,
+      "en": "And I could feel something crawl. And at first I was like, \"Oh, I wonder why I'm getting goosebumps at this time of night?\"",
+      "ja": "何かが這ってるような感じ こんな夜になんで鳥肌？と思ったわ"
+    },
+    {
+      "start": 42.76,
+      "end": 47.53,
+      "en": "Cause it's very late. And then, I just woke up...",
+      "ja": "夜遅かったのよ それからハッキリ目が覚めると…"
+    },
+    {
+      "start": 47.53,
+      "end": 55.74,
+      "en": "Felt a little more tingles on that same arm. And then I",
+      "ja": "腕のゾワゾワが強くなって もう恐怖で パニックで 腕ぶんぶん振って 震えながら電気つけて"
+    },
+    {
+      "start": 55.74,
+      "end": 58.81,
+      "en": "And that cockroach was just like Ah, ¡Vámonos!",
+      "ja": "一方ゴキブリは… 「行くぜぇー！」",
+      "notes": [
+        {
+          "term": "¡Vámonos!",
+          "meaning": "スペイン語で「行こうぜ！」"
+        }
+      ]
+    },
+    {
+      "start": 58.81,
+      "end": 63.85,
+      "en": "Oi, muy bien! I got a taste of the Shiori Novella Whoo!",
+      "ja": "「最高ォー！」「シオリ・ノヴェラに触れちまったぜ！」「フゥー！」"
+    },
+    {
+      "start": 64.78,
+      "end": 69.09,
+      "en": "And then, And then, I was like \"Oh good god!\" And then, I tried to just stay up.",
+      "ja": "もうウワーッとなっちゃって それからはもう寝ずに"
+    },
+    {
+      "start": 69.09,
+      "end": 73.19,
+      "en": "Make sure that I get that cockroach before it comes back for round number two.",
+      "ja": "ヤツと大乱闘よ また来てラウンド2は勘弁だもの"
+    },
+    {
+      "start": 73.19,
+      "end": 76.03,
+      "en": "Or for revenge, for the ultimate smash.",
+      "ja": "復讐に来られても困るしね"
+    },
+    {
+      "start": 76.33,
+      "end": 80.53,
+      "en": "I think I eventually did get the bug... But...",
+      "ja": "最終的に何とかしたはずだけど でも…"
+    },
+    {
+      "start": 80.53,
+      "end": 85.97,
+      "en": "I think that memory is a little bit blurry at that point. But I'm pretty sure I got it, but not on the same day...",
+      "ja": "その時の記憶が曖昧でね 別の日に見つけたのは覚えてるわ"
+    },
+    {
+      "start": 85.97,
+      "end": 88.24,
+      "en": "I just assume it was the same bug.",
+      "ja": "あれはきっと同じヤツよ…"
+    }
+  ]
+}

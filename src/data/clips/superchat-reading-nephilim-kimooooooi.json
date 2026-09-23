@@ -1,0 +1,113 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "superchat-reading-nephilim-kimooooooi",
+  "videoId": "edmmDbSNYcI",
+  "start": 0,
+  "end": 56,
+  "title": "Superchat Reading Nephilim, \"KIMooooooI\"",
+  "talent": "IRyS",
+  "lines": [
+    {
+      "start": 0,
+      "end": 1.19,
+      "en": "Happy birthday!",
+      "ja": "誕生日おめでとう！"
+    },
+    {
+      "start": 1.19,
+      "end": 5.09,
+      "en": "\"I heard that birthday people get an extra wish from a certain Nephilim,",
+      "ja": "「誕生日に願いを叶えてくれる ネフィリムがいると聞きました」"
+    },
+    {
+      "start": 5.09,
+      "end": 10.53,
+      "en": "could you please make your angry expression and say \"Kimo\" in a disdainful and serious tone?\"",
+      "ja": "「不機嫌な顔で『キモ』って言ってもらえますか」「冷たく見下すようなトーンでお願いします」",
+      "notes": [
+        {
+          "term": "Kimo",
+          "meaning": "日本語の「キモい（気持ち悪い）」の略。日本語がそのまま英語配信で使われている"
+        }
+      ]
+    },
+    {
+      "start": 13.53,
+      "end": 14.1,
+      "en": "Ah?",
+      "ja": "あ？"
+    },
+    {
+      "start": 14.63,
+      "end": 18.64,
+      "en": "\"I've been wanting to ask you to do this for two years, but I only took the courage to ask now.",
+      "ja": "「このお願いを2年間温めていて」「ずっと勇気が出ませんでした」"
+    },
+    {
+      "start": 19.2,
+      "end": 22.17,
+      "en": "I'm not into that, just thought the idea would be fun.\"",
+      "ja": "「そういう癖（ヘキ）はありませんが イイものだと思います」",
+      "notes": [
+        {
+          "term": "not into that",
+          "meaning": "それが好きなわけではない、という言い方"
+        }
+      ]
+    },
+    {
+      "start": 22.17,
+      "end": 25.38,
+      "en": "So you're not into that, but you thought it would be fun. Which is it?",
+      "ja": "癖（ヘキ）ではないけどイイと思うって… どっちだよ"
+    },
+    {
+      "start": 25.38,
+      "end": 27.95,
+      "en": "You're saying the opposite thing in the same sentence!",
+      "ja": "一文で矛盾してますけど"
+    },
+    {
+      "start": 28.18,
+      "end": 29.45,
+      "en": "Like seriously... like,",
+      "ja": "あのさぁ…"
+    },
+    {
+      "start": 30.65,
+      "end": 31.78,
+      "en": "Oh wait, that was the wrong face...",
+      "ja": "あ、顔が違う"
+    },
+    {
+      "start": 32.52,
+      "end": 33.42,
+      "en": "Seriously, like...",
+      "ja": "ホントにさぁ…"
+    },
+    {
+      "start": 33.82,
+      "end": 39.29,
+      "en": "you say you're not into it, and then the next second you're like, \"Oh but it sounds like fun.\"",
+      "ja": "癖（ヘキ）じゃないとか言って そのくせ「イイと思います」とか…"
+    },
+    {
+      "start": 39.79,
+      "end": 40.82,
+      "en": "キモッ！",
+      "ja": "キモッ",
+      "notes": [
+        {
+          "term": "キモッ",
+          "meaning": "リクエスト通り、日本語の「キモい」を短く言っている"
+        }
+      ]
+    },
+    {
+      "start": 49.47,
+      "end": 50.47,
+      "en": "Happy birthday.",
+      "ja": "おめでとうございます"
+    }
+  ]
+}

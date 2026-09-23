@@ -1,0 +1,77 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "asmr-artist-sorts-messy-room",
+  "videoId": "H-33SoUtfCs",
+  "start": 0,
+  "end": 55,
+  "title": "A.S.M.R (Artist Sorts Messy Room) Stream",
+  "talent": "Ninomae Ina'nis",
+  "lines": [
+    {
+      "start": 0.52,
+      "end": 3.75,
+      "en": "They're all— At the same time, every single time...",
+      "ja": "いつもいつも毎度毎度"
+    },
+    {
+      "start": 4.36,
+      "end": 7.56,
+      "en": "The... The recycling overflows.",
+      "ja": "この…リサイクル用ゴミが溢れちゃって"
+    },
+    {
+      "start": 8.13,
+      "end": 8.83,
+      "en": "Ha!",
+      "ja": "えへ☆"
+    },
+    {
+      "start": 12.43,
+      "end": 13.9,
+      "en": "Mostly because...",
+      "ja": "だいたいこの…"
+    },
+    {
+      "start": 17.43,
+      "end": 20.34,
+      "en": "It's, uh, cans of Red— Empty Red B*ll.",
+      "ja": "レッド〇ルの缶のせいなんだけど",
+      "notes": [
+        {
+          "term": "Red B*ll",
+          "meaning": "エナジードリンクのブランド名を伏字にしている"
+        }
+      ]
+    },
+    {
+      "start": 25.07,
+      "end": 28.41,
+      "en": "And some Pepsi. And some ??.",
+      "ja": "あとはペ〇シと…これはゴニョゴニョ…",
+      "notes": [
+        {
+          "term": "??",
+          "meaning": "ブランド名をぼかして言っている（もごもご誤魔化す）部分"
+        }
+      ]
+    },
+    {
+      "start": 30.75,
+      "end": 34.48,
+      "en": "Hahahaha... Can you hear all the cans?",
+      "ja": "あはは...缶の音聞こえる？"
+    },
+    {
+      "start": 35.62,
+      "end": 39.96,
+      "en": "Please don't count them. It's quite embarrassing.",
+      "ja": "カウントしないでね 恥ずかしいから"
+    },
+    {
+      "start": 48.4,
+      "end": 50.47,
+      "en": "Please don't count them!",
+      "ja": "缶カウントやめなさい！"
+    }
+  ]
+}

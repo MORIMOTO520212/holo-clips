@@ -1,0 +1,53 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "goblin-gremlin-goes-golfing",
+  "videoId": "RPNmTYOorqE",
+  "start": 0,
+  "end": 38,
+  "title": "Goblin Gremlin Goes Golfing",
+  "talent": "Watson Amelia",
+  "lines": [
+    {
+      "start": 3.15,
+      "end": 5.49,
+      "en": "Oh no. Not gonna make it, not gonna make it...",
+      "ja": "やばっ、弱すぎ…弱すぎた…"
+    },
+    {
+      "start": 6.96,
+      "end": 9.99,
+      "en": "Nooo... Stop.",
+      "ja": "もーーー... よし"
+    },
+    {
+      "start": 11.7,
+      "end": 12.46,
+      "en": "I got it this time.",
+      "ja": "これは完璧"
+    },
+    {
+      "start": 17.67,
+      "end": 19.34,
+      "en": "AAAAAH!",
+      "ja": "アﾟーー！！"
+    },
+    {
+      "start": 24.38,
+      "end": 25.24,
+      "en": "FAAAA-",
+      "ja": "ファァァァッ！！"
+    },
+    {
+      "start": 29.71,
+      "end": 32.05,
+      "en": "Double Bogey Yaaay! Hahaha...",
+      "ja": "ダブルボギー いえーい！ ははは…",
+      "notes": [
+        {
+          "term": "Double Bogey",
+          "meaning": "ゴルフ用語。基準打数より2打多いスコアのこと"
+        }
+      ]
+    }
+  ]
+}

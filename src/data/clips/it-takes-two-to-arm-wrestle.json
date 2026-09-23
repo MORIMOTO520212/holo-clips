@@ -1,0 +1,101 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "it-takes-two-to-arm-wrestle",
+  "videoId": "VTfiCpPPSUc",
+  "start": 0,
+  "end": 46,
+  "title": "It Takes Two to Arm Wrestle (And Even More to Win)",
+  "talent": "Watson Amelia, Takanashi Kiara",
+  "lines": [
+    {
+      "start": 1.39,
+      "end": 4.52,
+      "en": "Oh my god! Oh my goodness, Ame is so strong!",
+      "ja": "すげー！アメ強すぎる！"
+    },
+    {
+      "start": 3.85,
+      "end": 5.42,
+      "en": "It's neck and neck.",
+      "ja": "互角か！？",
+      "notes": [
+        {
+          "term": "neck and neck",
+          "meaning": "互角の、僅差の"
+        }
+      ]
+    },
+    {
+      "start": 7.19,
+      "end": 8.63,
+      "en": "Come on, Kiwawa!",
+      "ja": "いっけーキワワー！"
+    },
+    {
+      "start": 10.29,
+      "end": 13.33,
+      "en": "Massuru~! I love how posh Ame's hand looks.",
+      "ja": "まっするー！アメの手から余裕すら感じられる",
+      "notes": [
+        {
+          "term": "posh",
+          "meaning": "上品な、気取った"
+        }
+      ]
+    },
+    {
+      "start": 16.6,
+      "end": 19.07,
+      "en": "She looks like she's about to have a drink of tea.",
+      "ja": "ティータイムを 楽しんでいるかのような優雅さ"
+    },
+    {
+      "start": 20.6,
+      "end": 24.21,
+      "en": "She's daintily lifting her teacup.",
+      "ja": "紅茶を口に運ぶような所作だ！",
+      "notes": [
+        {
+          "term": "daintily",
+          "meaning": "上品に、優雅に"
+        }
+      ]
+    },
+    {
+      "start": 25.11,
+      "end": 27.81,
+      "en": "Aah! Yaaay! Ame wins, woo!",
+      "ja": "うわ～ん！イエーイ！アメの勝ち！"
+    },
+    {
+      "start": 27.81,
+      "end": 29.78,
+      "en": "Sorry, are you okay?",
+      "ja": "ごめん大丈夫？"
+    },
+    {
+      "start": 29.78,
+      "end": 32.62,
+      "en": "Kiara, that was both arms and you couldn't...",
+      "ja": "キアラ…両手使ってたのに…"
+    },
+    {
+      "start": 33.45,
+      "end": 37.12,
+      "en": "You little sh*t! Are you challenging me?!",
+      "ja": "何だクソガキ！やんのかコラ！？"
+    },
+    {
+      "start": 35.99,
+      "end": 38.96,
+      "en": "Is it false? Did that not just happen?",
+      "ja": "違うの？事実でしょ？"
+    },
+    {
+      "start": 38.96,
+      "end": 40.26,
+      "en": "Did that not just happen?!",
+      "ja": "事実でしょ～？"
+    }
+  ]
+}

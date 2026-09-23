@@ -1,0 +1,47 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "fine-feline-fauna",
+  "videoId": "sfZP7yHUgjU",
+  "start": 0,
+  "end": 100,
+  "title": "Fine Feline Fauna? *Flushed*",
+  "talent": "Ceres Fauna",
+  "lines": [
+    {
+      "start": 11.84,
+      "end": 14.33,
+      "en": "Wait, I don't think it's recording my meows.",
+      "ja": "待って、声録れてない"
+    },
+    {
+      "start": 16,
+      "end": 28.96,
+      "en": "Audio setup... recording device... why would my recording device be my capture card? Hold on, this time for sure, this time for real.",
+      "ja": "オーディオ設定…録音デバイス…なんで録音デバイスがキャプボに…！ …なってるのよ 待ってね 今度こそ 今度こそは！",
+      "notes": [
+        {
+          "term": "capture card",
+          "meaning": "キャプチャーボード（キャプボ）。配信・録画用の映像・音声取り込み機材"
+        }
+      ]
+    },
+    {
+      "start": 37.35,
+      "end": 59.31,
+      "en": "(meowing)",
+      "ja": "ﾐｬｵ ﾐｬｵ！ﾏｵｰﾝ ﾐｬｵ ﾏｰｵ ﾐｬｵｳ"
+    },
+    {
+      "start": 62.38,
+      "end": 84.87,
+      "en": "(more meowing and purring)",
+      "ja": "ﾐｬｵｰﾝ ﾐｬｰｵ！ｺﾞﾛﾛ… ﾐｬｳ？ ﾐｬｰｵ！ ﾏｵﾝ…"
+    },
+    {
+      "start": 88.84,
+      "end": 94.24,
+      "en": "Is it even a loop? Well, that's fine.",
+      "ja": "これループしてる？まあいっか"
+    }
+  ]
+}

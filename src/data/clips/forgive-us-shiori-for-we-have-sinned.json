@@ -1,0 +1,137 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "forgive-us-shiori-for-we-have-sinned",
+  "videoId": "StO3iBb0es8",
+  "start": 0,
+  "end": 82,
+  "title": "Forgive Us, Shiori, For We Have Sinned",
+  "talent": "Shiori Novella",
+  "lines": [
+    {
+      "start": 0.45,
+      "end": 8.19,
+      "en": "\"Sister Shiori, I have a confession to make. Three days ago, on my way home from work at 11 PM...\"",
+      "ja": "「シスターシオリ、懺悔します」 「3日前の午後11時、仕事からの帰り道」"
+    },
+    {
+      "start": 8.19,
+      "end": 11.76,
+      "en": "Well, it's no longer three days ago. I got these confessions from like a week ago or something.",
+      "ja": "「いやもっと前…」「1週間ほど抱え続けています…」"
+    },
+    {
+      "start": 11.76,
+      "end": 18.04,
+      "en": "\"I was so exhausted from overtime, that I took an empty priority seat on the train.",
+      "ja": "「残業で疲れていた私は」「電車の優先席に座ってしまいました」",
+      "notes": [
+        {
+          "term": "priority seat",
+          "meaning": "優先席"
+        }
+      ]
+    },
+    {
+      "start": 18.43,
+      "end": 22.14,
+      "en": "\"I know I shouldn't have done so as a fully capable healthy adult,",
+      "ja": "「私のように健康な大人が 座るべきでないのにです」"
+    },
+    {
+      "start": 22.97,
+      "end": 26.84,
+      "en": "but the train was almost empty. \"And that night, I just couldn't stand anymore.",
+      "ja": "「電車内はガラガラで」「あの時は私の足も限界でした」"
+    },
+    {
+      "start": 27.31,
+      "end": 31.52,
+      "en": "\"I kept looking around feeling guilty, but no one seemed to need it at that moment.",
+      "ja": "「罪悪感もあって周りを見ましたが」「優先席が必要そうな人はいませんでした」"
+    },
+    {
+      "start": 31.75,
+      "end": 35.32,
+      "en": "\"Still, I feel bad about it, Sister. \"Please forgive me for my selfishness.\"",
+      "ja": "「でも今は後悔しています」「私の身勝手をお許しください」"
+    },
+    {
+      "start": 35.59,
+      "end": 38.99,
+      "en": "FORGIVEN! I've done it too, let's gooo! Wheeee!",
+      "ja": "許す！ 私もやったことあるし！"
+    },
+    {
+      "start": 39.22,
+      "end": 40.59,
+      "en": "I've done it too.",
+      "ja": "私もやったことあるわ"
+    },
+    {
+      "start": 40.76,
+      "end": 43.53,
+      "en": "But, unlike you, there were people around.",
+      "ja": "私の時はガラガラじゃなかったけど"
+    },
+    {
+      "start": 44.26,
+      "end": 46.86,
+      "en": "But, you see, I don't think anyone needed it at the time.",
+      "ja": "優先席が必要そうな人はいなかったわ"
+    },
+    {
+      "start": 46.86,
+      "end": 50.57,
+      "en": "If I saw a pregnant lady or an old woman, yes, I would give them my seat.",
+      "ja": "妊婦さんやお年寄りがいたら 私も譲るわよ"
+    },
+    {
+      "start": 50.57,
+      "end": 55.14,
+      "en": "I have done so, because I felt bad. But if there's no one around, I'mma take it.",
+      "ja": "さすがにそれは悪いからね でも誰も座らないなら私が座るわ",
+      "notes": [
+        {
+          "term": "I'mma",
+          "meaning": "I'm going to のくだけた発音を表す言い方"
+        }
+      ]
+    },
+    {
+      "start": 55.64,
+      "end": 59.18,
+      "en": "Because Sister Shiori believes in equality.",
+      "ja": "だってシスターシオリの信条は「平等」"
+    },
+    {
+      "start": 60.21,
+      "end": 64.42,
+      "en": "I believe in equality. I believe in first come, first serve.",
+      "ja": "平等であり… 早い者勝ちよ",
+      "notes": [
+        {
+          "term": "first come, first serve",
+          "meaning": "早い者勝ち"
+        }
+      ]
+    },
+    {
+      "start": 65.28,
+      "end": 68.25,
+      "en": "If someone desperately needs it, yes, of course, we'll give it.",
+      "ja": "他に必要な人がいれば当然譲るしね"
+    },
+    {
+      "start": 68.45,
+      "end": 71.86,
+      "en": "I think that you are too pure and I need to corrupt you.",
+      "ja": "あなたはピュアすぎるわ 私が悪い子にしてあげる"
+    },
+    {
+      "start": 72.82,
+      "end": 76.23,
+      "en": "I need to make it so you never feel guilt about it again.",
+      "ja": "もうそのことで 罪悪感を覚えないようにね…！"
+    }
+  ]
+}

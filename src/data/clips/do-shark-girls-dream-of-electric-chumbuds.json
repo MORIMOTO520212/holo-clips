@@ -1,0 +1,114 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "do-shark-girls-dream-of-electric-chumbuds",
+  "videoId": "i8A7ARs9cTM",
+  "start": 0,
+  "end": 81,
+  "title": "Do Shark-Girls Dream Of Electric Chumbuds?",
+  "talent": "Gawr Gura",
+  "lines": [
+    {
+      "start": 0.58,
+      "end": 4.52,
+      "en": "I'm so— I bopped around so many places yesterday.",
+      "ja": "昨日は… いろんなとこに行って大忙しだった",
+      "notes": [
+        {
+          "term": "bop around",
+          "match": "bopped around",
+          "meaning": "あちこち動き回る、というカジュアルな言い方"
+        }
+      ]
+    },
+    {
+      "start": 5.86,
+      "end": 8.16,
+      "en": "Ooooer... And at one point...",
+      "ja": "そんで～ その途中"
+    },
+    {
+      "start": 8.96,
+      "end": 14.33,
+      "en": "At one point, I found myself— I was, I was... in... in, like, a break room.",
+      "ja": "ぐらが… えっと… 休憩室みたいな場所にいた時"
+    },
+    {
+      "start": 14.7,
+      "end": 21.04,
+      "en": "And I fell asleep. And I didn't realize I had fallen asleep, but I had fallen asleep cuz there was nobody around. It was like dark.",
+      "ja": "うとうとしちゃったの 気づかぬ間に寝落ち 誰もいなかったし 薄暗くてさ…"
+    },
+    {
+      "start": 21.04,
+      "end": 24.61,
+      "en": "Dark, nobody around... I was like, \"Oh, nap time for Gura!\"",
+      "ja": "だから お昼寝タイムだ！と思って"
+    },
+    {
+      "start": 24.61,
+      "end": 30.01,
+      "en": "So I fell asleep with my head on my arms— like criss-crossed on the table...",
+      "ja": "机に突っ伏して 腕組んで枕にして…",
+      "notes": [
+        {
+          "term": "criss-crossed",
+          "meaning": "交差させた"
+        }
+      ]
+    },
+    {
+      "start": 30.51,
+      "end": 34.25,
+      "en": "And then the next thingー I don't remember how much time had passedー but the next thing I knew, my...",
+      "ja": "そしたらさぁ… どれだけ寝てたか知らないけど 次の瞬間…"
+    },
+    {
+      "start": 34.25,
+      "end": 40.56,
+      "en": "My manager was standing in front of me, like, \"Hey, we gotta go. You got somewhere to be.\"",
+      "ja": "目の前にマネージャーがいて 「はい、移動しますよ」「次の場所行きますよ」って"
+    },
+    {
+      "start": 42.19,
+      "end": 49.77,
+      "en": "And I thought I was, like, I had fallen in that area of sleep where you don't know where you are...",
+      "ja": "その時のぐらは… 眠りが深すぎたのか 自分がどこにいるか忘れちゃってて",
+      "notes": [
+        {
+          "term": "that area of sleep",
+          "meaning": "「自分がどこにいるか分からなくなるほど深い眠り」を指す表現"
+        }
+      ]
+    },
+    {
+      "start": 49.77,
+      "end": 56.27,
+      "en": "So I thought... In that moment, I thought I was like, back home in my, in my room or something?",
+      "ja": "だから 寝起きの瞬間… 自宅にいると思っちゃって…"
+    },
+    {
+      "start": 56.27,
+      "end": 63.55,
+      "en": "I was like, \"How did... How did Manager get in my room? Why are you here? What did you— How— Where am I?\"",
+      "ja": "「マネージャー…？」「なんで家の中にいるの？」「なぜここに…？」「っていうか」「ここどこ？」"
+    },
+    {
+      "start": 63.55,
+      "end": 68.82,
+      "en": "And then I remembered where I was. I was like, \"Oh, that's right! I'm, I'm in Japan.",
+      "ja": "で、今いる場所を思い出したの 「…そっか」「いま日本にいるんだった」"
+    },
+    {
+      "start": 68.82,
+      "end": 73.29,
+      "en": "I need a nap now. I'm tired. I need bedtime...\"",
+      "ja": "「いや眠っ」「疲れた…」「眠いよ」って…"
+    },
+    {
+      "start": 73.66,
+      "end": 75.19,
+      "en": "Haaah...",
+      "ja": "はあ～…"
+    }
+  ]
+}

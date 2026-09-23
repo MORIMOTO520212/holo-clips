@@ -1,0 +1,200 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "thus-spoke-automaton",
+  "videoId": "FifiSTH2bx0",
+  "start": 0,
+  "end": 62,
+  "title": "Thus Spoke Automaton",
+  "talent": "Cecilia Immergreen",
+  "lines": [
+    {
+      "start": 0.18,
+      "end": 3.09,
+      "en": "I feel like she knows that I don't like coffee...",
+      "ja": "私はコーヒーが嫌いだってこと…"
+    },
+    {
+      "start": 3.09,
+      "end": 4.69,
+      "en": "she knows I hate coffee, right?",
+      "ja": "あの子も知ってるはずなのに"
+    },
+    {
+      "start": 4.69,
+      "end": 7.06,
+      "en": "And that was the whole bit, it was gonna be a fun stream.",
+      "ja": "まったく…楽しい配信になるはずが"
+    },
+    {
+      "start": 7.06,
+      "end": 11.06,
+      "en": "But I think she underestimated just how much I hate coffee. Heavily underestimated.",
+      "ja": "私がどれだけコーヒーが嫌いか 完全にナメてたようだね",
+      "notes": [
+        {
+          "term": "underestimate",
+          "match": "underestimated",
+          "meaning": "過小評価する・甘く見る"
+        }
+      ]
+    },
+    {
+      "start": 11.06,
+      "end": 14.16,
+      "en": "I think she believes I do it for the bit.",
+      "ja": "コーヒーが嫌いって ネタで言ってると思ってたのかもね",
+      "notes": [
+        {
+          "term": "do it for the bit",
+          "meaning": "ネタ・ギャグとしてやる。bit は「一発芸・持ちネタ」の意味の口語表現"
+        }
+      ]
+    },
+    {
+      "start": 14.16,
+      "end": 15.8,
+      "en": "And I wish I did it for the bit.",
+      "ja": "ネタじゃないんだよ"
+    },
+    {
+      "start": 15.8,
+      "end": 17.6,
+      "en": "Oh, I wish I did it for the bit...",
+      "ja": "ネタなら良かったのにね…"
+    },
+    {
+      "start": 17.6,
+      "end": 19.74,
+      "en": "But coffee...The moment it touches my tongue,",
+      "ja": "コーヒーが舌に触れる瞬間…"
+    },
+    {
+      "start": 19.74,
+      "end": 21.64,
+      "en": "it's the worst thing in the world.",
+      "ja": "あれはまさにこの世で最悪！"
+    },
+    {
+      "start": 21.64,
+      "end": 24.64,
+      "en": "And the thing that vexes me more than anything else...",
+      "ja": "そして何よりもヒドかったのが…",
+      "notes": [
+        {
+          "term": "vex",
+          "match": "vexes",
+          "meaning": "いら立たせる・悩ませる"
+        }
+      ]
+    },
+    {
+      "start": 25.08,
+      "end": 26.74,
+      "en": "is I read some of the comments...",
+      "ja": "あの配信のコメント"
+    },
+    {
+      "start": 26.74,
+      "end": 29.45,
+      "en": "And I SWEAR the people that were like,",
+      "ja": "こんなこと言ってる人達がいたぞ？",
+      "notes": [
+        {
+          "term": "I swear",
+          "match": "I SWEAR",
+          "meaning": "強調表現。「マジで・本当に」"
+        }
+      ]
+    },
+    {
+      "start": 29.45,
+      "end": 32.98,
+      "en": "\"Oh no, Bae shouldn't have given her canned coffee!\"",
+      "ja": "「あちゃ～、きっと缶コーヒーだからダメなんだよ」"
+    },
+    {
+      "start": 32.98,
+      "end": 36.65,
+      "en": "\"I bet she would have liked <insert preparation of coffee>!\"",
+      "ja": "「○○コーヒーならセシリアも気に入るのに」って…"
+    },
+    {
+      "start": 36.65,
+      "end": 40.32,
+      "en": "NO! I would not have liked your stupid coffee!",
+      "ja": "違う！何だろうとコーヒーなんか飲むか！"
+    },
+    {
+      "start": 40.32,
+      "end": 42.23,
+      "en": "Or your café's coffee,",
+      "ja": "どこぞのカフェだろうが、"
+    },
+    {
+      "start": 42.23,
+      "end": 43.56,
+      "en": "or your cold drip,",
+      "ja": "水出しだろうが"
+    },
+    {
+      "start": 43.56,
+      "end": 45.93,
+      "en": "or your stupid way of drinking coffee!",
+      "ja": "無理なものは無理！"
+    },
+    {
+      "start": 45.93,
+      "end": 48.3,
+      "en": "I don't like coffee, I will never like coffee!",
+      "ja": "コーヒーは嫌い！一生嫌い！"
+    },
+    {
+      "start": 48.3,
+      "end": 49.47,
+      "en": "There is not a single coffee...",
+      "ja": "例外はない！"
+    },
+    {
+      "start": 49.47,
+      "end": 51.14,
+      "en": "Not even coffee candy I like!",
+      "ja": "コーヒー味のキャンディも！"
+    },
+    {
+      "start": 51.14,
+      "end": 52.37,
+      "en": "I don't like tiramisu,",
+      "ja": "ティラミスも！"
+    },
+    {
+      "start": 52.37,
+      "end": 53.64,
+      "en": "I don't like café bombon,",
+      "ja": "カフェボンボンも！"
+    },
+    {
+      "start": 53.64,
+      "end": 54.94,
+      "en": "I don't like any of that! OK?!",
+      "ja": "全部嫌いなの！"
+    },
+    {
+      "start": 54.94,
+      "end": 57.27,
+      "en": "So NO! I won't like yours either!",
+      "ja": "だからコーヒーは全部NG！"
+    },
+    {
+      "start": 57.27,
+      "end": 58.11,
+      "en": "And Bae did a great job,",
+      "ja": "ベーは頑張ったし"
+    },
+    {
+      "start": 58.11,
+      "end": 61.65,
+      "en": "and I tried it, I did it, and I will never do it again.",
+      "ja": "私も頑張った でも二度と飲みません！"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "i-have-a-mouth-and-i-must-screech",
+  "videoId": "8f5lptdJvwc",
+  "start": 0,
+  "end": 48,
+  "title": "I Have A Mouth, And I Must Screech",
+  "talent": "Watson Amelia",
+  "lines": [
+    {
+      "start": 0,
+      "end": 4.02,
+      "en": "Hi, Ramirez! Thank you for one of your BIIIG SUPER CHATS! Thank you!",
+      "ja": "ビッグなスパチャありがとー！",
+      "notes": [
+        {
+          "term": "Ramirez",
+          "meaning": "スーパーチャットを送ったリスナーの名前を呼びかけている"
+        }
+      ]
+    },
+    {
+      "start": 4.02,
+      "end": 8.56,
+      "en": "\"Looking forward to many more streams and collabs, especially with Gura! Can we get a one million gremlin screech?\"",
+      "ja": "「今後の配信やアメぐらコラボ期待してます！」「100万人記念グレムリンボイスお願いします」"
+    },
+    {
+      "start": 8.56,
+      "end": 12.36,
+      "en": "You guys know the secret behind the Ame noises?",
+      "ja": "いい奇声を出す秘訣を知ってるかい？",
+      "notes": [
+        {
+          "term": "the secret behind",
+          "meaning": "〜の裏にある秘訣・からくり"
+        }
+      ]
+    },
+    {
+      "start": 12.36,
+      "end": 14.66,
+      "en": "I dig deep down inside—",
+      "ja": "自分の内側を掘っていくの"
+    },
+    {
+      "start": 15.16,
+      "end": 17.33,
+      "en": "past my cold, cold heart—",
+      "ja": "私の冷たい心のさらに奥"
+    },
+    {
+      "start": 18,
+      "end": 19.87,
+      "en": "and I GRAB,",
+      "ja": "こう…ガシッと！"
+    },
+    {
+      "start": 20.64,
+      "end": 22.67,
+      "en": "with my inner fist",
+      "ja": "内なる拳で"
+    },
+    {
+      "start": 22.67,
+      "end": 24.98,
+      "en": "the feelings from deep down below.",
+      "ja": "奥底に沈んだ感情を"
+    },
+    {
+      "start": 25.34,
+      "end": 26.68,
+      "en": "And I bring them up!",
+      "ja": "ひっぱりあげる！"
+    },
+    {
+      "start": 26.68,
+      "end": 29.35,
+      "en": "And I punch them, through my throat.",
+      "ja": "喉を通してそれをぶん殴るのだ！"
+    },
+    {
+      "start": 29.35,
+      "end": 31.52,
+      "en": "You guys can do it too, okay?",
+      "ja": "みんなもできるよ"
+    },
+    {
+      "start": 31.52,
+      "end": 33.52,
+      "en": "One million gremlin screech!",
+      "ja": "100万人記念グレムリンいきます"
+    },
+    {
+      "start": 39.82,
+      "end": 41.23,
+      "en": "Man, my neighbors must hate me!",
+      "ja": "…絶対ご近所さんに嫌われてる",
+      "notes": [
+        {
+          "term": "must hate me",
+          "meaning": "must は「〜に違いない」という強い推量を表す"
+        }
+      ]
+    }
+  ]
+}

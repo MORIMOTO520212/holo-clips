@@ -1,0 +1,90 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "the-owl-and-the-rodent",
+  "videoId": "wYa-qU6Y3lk",
+  "start": 0,
+  "end": 58,
+  "title": "The Owl And The Rodent",
+  "talent": "Nanashi Mumei, Hakos Baelz",
+  "lines": [
+    {
+      "start": 1.52,
+      "end": 6.62,
+      "en": "Oh we should... We can like, draw on this, take a picture of it, and upload it!",
+      "ja": "そうだ 絵を描いてその写真をポストしよう",
+      "notes": [
+        {
+          "term": "upload",
+          "meaning": "（写真や動画などを）ネット上に投稿する"
+        }
+      ]
+    },
+    {
+      "start": 7.36,
+      "end": 10.59,
+      "en": "Okay! Your turn to draw something on this sheet.",
+      "ja": "おっけー この紙に何か描いてよ"
+    },
+    {
+      "start": 11.56,
+      "end": 12.56,
+      "en": "Okay!",
+      "ja": "おっけー"
+    },
+    {
+      "start": 13.5,
+      "end": 17.27,
+      "en": "Can I have the earphones? Yes, one second, please...",
+      "ja": "イヤホンつけていい？うん、ちょっと待って"
+    },
+    {
+      "start": 17.27,
+      "end": 18.1,
+      "en": "Ribbit",
+      "ja": "ｹﾞﾛﾛ"
+    },
+    {
+      "start": 24.27,
+      "end": 28.05,
+      "en": "Okay, sorry. I can't... I can't...",
+      "ja": "ごめん やば…むり…"
+    },
+    {
+      "start": 29.81,
+      "end": 32.68,
+      "en": "That's what happens when you drink too much coffee!",
+      "ja": "コーヒー飲みすぎるからだよ",
+      "notes": [
+        {
+          "term": "That's what happens when ...",
+          "match": "That's what happens when you drink too much coffee",
+          "meaning": "「〜するとこうなるんだよ」という、原因と結果を説明する言い方"
+        }
+      ]
+    },
+    {
+      "start": 38.32,
+      "end": 40.02,
+      "en": "That was my throat...",
+      "ja": "喉が鳴っちゃった"
+    },
+    {
+      "start": 45.63,
+      "end": 47.4,
+      "en": "Okay, I'll give you that.",
+      "ja": "これあげる"
+    },
+    {
+      "start": 47.4,
+      "end": 49.13,
+      "en": "Oh, thank you...",
+      "ja": "ありがと"
+    },
+    {
+      "start": 50.53,
+      "end": 52.14,
+      "en": "Okay, I'm ready for...",
+      "ja": "よし、準備OK…"
+    }
+  ]
+}

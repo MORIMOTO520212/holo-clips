@@ -1,0 +1,132 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "no-time-to-explain",
+  "videoId": "eGNjDE5NTvg",
+  "start": 0,
+  "end": 68,
+  "title": "No Time To Explain",
+  "talent": "Ouro Kronii",
+  "lines": [
+    {
+      "start": 0.15,
+      "end": 2.59,
+      "en": "OK, that sounds sarcastic, but I mean it 'cuz I...",
+      "ja": "皮肉みたいになっちゃったけど 要するに…",
+      "notes": [
+        {
+          "term": "'cuz",
+          "meaning": "because のくだけた略し方"
+        }
+      ]
+    },
+    {
+      "start": 2.59,
+      "end": 4.75,
+      "en": "Well, I do like this PC!",
+      "ja": "気に入ってるんだよこのPC"
+    },
+    {
+      "start": 4.75,
+      "end": 6.69,
+      "en": "Yeah, it does look nice. It is pretty.",
+      "ja": "そうそう見た目がね いいよね"
+    },
+    {
+      "start": 7.09,
+      "end": 9.53,
+      "en": "Uh, did you have a question for me before I go?",
+      "ja": "あ、最後に何か質問でもある？"
+    },
+    {
+      "start": 10.69,
+      "end": 12.26,
+      "en": "Umm...",
+      "ja": "うーん…"
+    },
+    {
+      "start": 13.1,
+      "end": 16.87,
+      "en": "So, that watch ya have... Oh yeah.",
+      "ja": "あんたの持ってるその時計… うん"
+    },
+    {
+      "start": 18.64,
+      "end": 20.04,
+      "en": "Where'd you get it from?",
+      "ja": "…どこで手に入れた？"
+    },
+    {
+      "start": 20.64,
+      "end": 23.21,
+      "en": "Uhh... I gotta go, uh, you know...",
+      "ja": "あー… も、もう行かなきゃ…"
+    },
+    {
+      "start": 23.21,
+      "end": 25.27,
+      "en": "Think it's time to go, everybody! Kronii, have a happy birthday!",
+      "ja": "時間がなくてね 誕生日おめでとう！"
+    },
+    {
+      "start": 25.27,
+      "end": 29.05,
+      "en": "Good luck on your totsumachi! Uh, hey! Wait.",
+      "ja": "引き続き凸待ち頑張って！ おい 待て",
+      "notes": [
+        {
+          "term": "totsumachi",
+          "meaning": "凸待ち＝視聴者からの突撃コールを待つ配信形式。日本語がそのまま英語配信でも使われる"
+        }
+      ]
+    },
+    {
+      "start": 33.75,
+      "end": 35.02,
+      "en": "She left...",
+      "ja": "逃げられた…"
+    },
+    {
+      "start": 38.92,
+      "end": 40.02,
+      "en": "Goddamnit...",
+      "ja": "やられた…"
+    },
+    {
+      "start": 41.59,
+      "end": 42.66,
+      "en": "GODDAMMIT!",
+      "ja": "やられた！"
+    },
+    {
+      "start": 44.03,
+      "end": 46.6,
+      "en": "Curse you, Time Traveler!",
+      "ja": "あのタイムトラベラーめ！"
+    },
+    {
+      "start": 51.23,
+      "end": 55.24,
+      "en": "Pain... This is what I get for managing timelines, huh?",
+      "ja": "つら… 時間の監視者も楽じゃないな…",
+      "notes": [
+        {
+          "term": "This is what I get for ...",
+          "match": "This is what I get for managing timelines",
+          "meaning": "〜したことの報いだ・自業自得だ"
+        }
+      ]
+    },
+    {
+      "start": 56.37,
+      "end": 57.54,
+      "en": "*sigh*",
+      "ja": "はあ…"
+    },
+    {
+      "start": 58.48,
+      "end": 60.68,
+      "en": "This... is fine...",
+      "ja": "仕方ない…か…"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "the-s-in-asmr-does-not-mean-styrofoam",
+  "videoId": "ysAIQmDWguI",
+  "start": 0,
+  "end": 30,
+  "title": "The \"S\" in \"ASMR\" Does Not Mean \"Styrofoam\"",
+  "talent": "Watson Amelia",
+  "lines": [
+    {
+      "start": 5.05,
+      "end": 7.36,
+      "en": "Somebody in chat says, \"Eat the foam.\"",
+      "ja": "「その発泡スチロール食べてみて」？"
+    },
+    {
+      "start": 7.36,
+      "end": 8.83,
+      "en": "Okay, I'll take a bite.",
+      "ja": "いいよ、いただきます"
+    },
+    {
+      "start": 17.43,
+      "end": 18.84,
+      "en": "That was a bad idea.",
+      "ja": "やめときゃよかった"
+    },
+    {
+      "start": 19.64,
+      "end": 21.7,
+      "en": "Do not eat foam! Don't eat the foam.",
+      "ja": "よい子は真似しないでね",
+      "notes": [
+        {
+          "term": "Do not eat foam!",
+          "meaning": "日本語字幕では「よい子は真似しないでね」（Don't try this at home）というテレビでおなじみの注意書きに意訳されている"
+        }
+      ]
+    },
+    {
+      "start": 24.98,
+      "end": 26.31,
+      "en": "I still have foam in my mouth!",
+      "ja": "まだ口の中に残ってる！"
+    }
+  ]
+}

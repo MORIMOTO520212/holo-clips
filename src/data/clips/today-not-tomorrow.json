@@ -1,0 +1,113 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "today-not-tomorrow",
+  "videoId": "Ols1OUYPXTI",
+  "start": 0,
+  "end": 44,
+  "title": "『Today/not tomorrow』",
+  "talent": "FUWAMOCO",
+  "lines": [
+    {
+      "start": 0,
+      "end": 2.35,
+      "en": "We'll be playing that later today, so...",
+      "ja": "今日配信するからね"
+    },
+    {
+      "start": 2.35,
+      "end": 4.55,
+      "en": "So we hope that you'll be there, okay? TODAY!",
+      "ja": "見にきてね TODAY!"
+    },
+    {
+      "start": 5.02,
+      "end": 6.62,
+      "en": "Today! Not tomorrow!",
+      "ja": "TODAY! TOMORROWじゃない！"
+    },
+    {
+      "start": 6.62,
+      "end": 9.86,
+      "en": "TODAY!!! Ah, ah, ah, ah, ah! TODAY!!!",
+      "ja": "TOMORROWじゃない！ TODAY～！TODAY～！"
+    },
+    {
+      "start": 9.86,
+      "end": 11.7,
+      "en": "Actually Mogojan, Oh?",
+      "ja": "あっ！ねえモコちゃん"
+    },
+    {
+      "start": 12.53,
+      "end": 14.87,
+      "en": "Can you, as a punishment, Oh!",
+      "ja": "罰として…"
+    },
+    {
+      "start": 14.87,
+      "end": 19.7,
+      "en": "Can you say \"Tomorrow!\" in your best Ina-senpai impersonation? Oh...",
+      "ja": "イナ先輩の「TOMORROW」を 全力でモノマネしてよ",
+      "notes": [
+        {
+          "term": "impersonation",
+          "meaning": "ものまね"
+        }
+      ]
+    },
+    {
+      "start": 19.7,
+      "end": 20.64,
+      "en": "TOMORROW!",
+      "ja": "TOMORROW!"
+    },
+    {
+      "start": 22.44,
+      "end": 23.84,
+      "en": "TOMORROW!",
+      "ja": "TOMORROWぇ！"
+    },
+    {
+      "start": 23.84,
+      "end": 26.31,
+      "en": "I'll give it a B plus! B plus?",
+      "ja": "評価はB＋かな"
+    },
+    {
+      "start": 26.18,
+      "end": 30.05,
+      "en": "Ruffians what do you think? Rate Mogojan's tomorrow!",
+      "ja": "ラフィアンズも評価して！今のモコちゃんのTOMORROWは？",
+      "notes": [
+        {
+          "term": "Ruffians",
+          "meaning": "FUWAMOCOのファンを呼ぶ愛称"
+        }
+      ]
+    },
+    {
+      "start": 30.98,
+      "end": 32.95,
+      "en": "10/10! 10/10! Ohhh!",
+      "ja": "「10点満点」"
+    },
+    {
+      "start": 32.95,
+      "end": 33.92,
+      "en": "C minus?",
+      "ja": "「C－」"
+    },
+    {
+      "start": 34.85,
+      "end": 37.72,
+      "en": "C minus, ohh... It's good to be honest...",
+      "ja": "C－かぁ… 忖度なしだね…",
+      "notes": [
+        {
+          "term": "It's good to be honest",
+          "meaning": "日本語の「忖度なし」（気を遣わずに率直な評価）に対応する訳"
+        }
+      ]
+    }
+  ]
+}

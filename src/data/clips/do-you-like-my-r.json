@@ -1,0 +1,89 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "do-you-like-my-r",
+  "videoId": "EdvWK8rWOnA",
+  "start": 0,
+  "end": 75,
+  "title": "DO YOU LIKE MY R?",
+  "talent": "IRyS",
+  "lines": [
+    {
+      "start": 0.78,
+      "end": 1.82,
+      "en": "WingsCV, thank you, again.",
+      "ja": "スパチャありがと！"
+    },
+    {
+      "start": 1.95,
+      "end": 4.62,
+      "en": "\"Rolling Rs, press the front of the tongue...\"",
+      "ja": "「巻き舌のコツは舌先…」"
+    },
+    {
+      "start": 4.62,
+      "end": 8.32,
+      "en": "Oh, thanks for backseating how to roll Rs, too!",
+      "ja": "巻き舌の指示コメどうも",
+      "notes": [
+        {
+          "term": "backseating",
+          "meaning": "頼んでもいないのに横から指示や助言をすること（backseat driving＝助手席からの運転指図が語源）"
+        }
+      ]
+    },
+    {
+      "start": 8.53,
+      "end": 13.96,
+      "en": "\"Press the front of the tongue (not just the tip of the tongue and you don't need to press hard) to the roof of your mouth...\" Yeah?",
+      "ja": "「先端だけでなく舌の前方を」「優しく上アゴに当てて…」"
+    },
+    {
+      "start": 21.07,
+      "end": 24.38,
+      "en": "\"And then exhale like you want to push tongue down\"",
+      "ja": "「吐く息で舌を押し下げるように」"
+    },
+    {
+      "start": 31.61,
+      "end": 33.22,
+      "en": "\"Aim to vibrate\"",
+      "ja": "「震わせるイメージ」"
+    },
+    {
+      "start": 42.03,
+      "end": 44.16,
+      "en": "I can't do it!",
+      "ja": "いや無理！"
+    },
+    {
+      "start": 47.63,
+      "end": 48.73,
+      "en": "I can't...!",
+      "ja": "わかんねえ…！"
+    },
+    {
+      "start": 54.97,
+      "end": 58.98,
+      "en": "\"It just sounds like a whistle attempt!\" It does!",
+      "ja": "「口笛吹こうとしてる音やん」それな",
+      "notes": [
+        {
+          "term": "It does!",
+          "meaning": "相手の言葉に同意する相槌。「それな」に近いニュアンス"
+        }
+      ]
+    },
+    {
+      "start": 61.34,
+      "end": 63.48,
+      "en": "\"The front of your tongue, not...\"",
+      "ja": "舌の前方…"
+    },
+    {
+      "start": 67.92,
+      "end": 69.05,
+      "en": "I can't do it!!",
+      "ja": "できねー！"
+    }
+  ]
+}

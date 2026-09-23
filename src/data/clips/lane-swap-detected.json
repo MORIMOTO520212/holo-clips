@@ -1,0 +1,139 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "lane-swap-detected",
+  "videoId": "3nq0CkvL0CI",
+  "start": 0,
+  "end": 62,
+  "title": "Lane Swap Detected",
+  "talent": "Gigi Murin",
+  "lines": [
+    {
+      "start": 0,
+      "end": 0.62,
+      "en": "Well...",
+      "ja": "いやぁ…"
+    },
+    {
+      "start": 1.02,
+      "end": 5.59,
+      "en": "Here is my driving thoughts of today.",
+      "ja": "今日運転してて思ったんだ"
+    },
+    {
+      "start": 5.59,
+      "end": 8.89,
+      "en": "It's my driving thoughts that are the same every time—",
+      "ja": "運転するたびにこう思う"
+    },
+    {
+      "start": 8.89,
+      "end": 13.03,
+      "en": "Every single time I drive, I have the same exact thoughts So I'm gonna say it again...",
+      "ja": "毎回まったく同じことを思う だから言ってやるよ"
+    },
+    {
+      "start": 13.36,
+      "end": 15.1,
+      "en": "Every single time.",
+      "ja": "何度でもな"
+    },
+    {
+      "start": 15.37,
+      "end": 18.04,
+      "en": "DONT DRIVE IN THE PASSING LANE",
+      "ja": "追い越し車線を走るなら！！",
+      "notes": [
+        {
+          "term": "passing lane",
+          "match": "PASSING LANE",
+          "meaning": "追い越し車線"
+        }
+      ]
+    },
+    {
+      "start": 18.04,
+      "end": 21.04,
+      "en": "IF YOU ARE NOR DRIVING PASSING SPEEEED!",
+      "ja": "ちゃんと追い越す速度で走れえええ！！"
+    },
+    {
+      "start": 21.44,
+      "end": 23.34,
+      "en": "GET OUT OF THE PASSING LANE",
+      "ja": "追い越す速度で走らねーなら！！"
+    },
+    {
+      "start": 23.34,
+      "end": 25.74,
+      "en": "IF YOU ARE NOT DRIVING PASSING SPEEDS!",
+      "ja": "追い越し車線に入るんじゃねええ！！"
+    },
+    {
+      "start": 25.98,
+      "end": 29.51,
+      "en": "I'm sick and tired of people in the passing lanes",
+      "ja": "追い越し車線でノロノロ運転するやつ！！",
+      "notes": [
+        {
+          "term": "sick and tired of",
+          "meaning": "〜にうんざりしている"
+        }
+      ]
+    },
+    {
+      "start": 29.51,
+      "end": 31.61,
+      "en": "and they're not driving passing speeds!",
+      "ja": "もうウンザリなんだよォ！！"
+    },
+    {
+      "start": 32.82,
+      "end": 34.18,
+      "en": "Don't piss me off!",
+      "ja": "イラつかせんな",
+      "notes": [
+        {
+          "term": "piss (someone) off",
+          "match": "piss me off",
+          "meaning": "〜を怒らせる。かなり強い口語表現"
+        }
+      ]
+    },
+    {
+      "start": 35.79,
+      "end": 37.12,
+      "en": "Was pissed off today.",
+      "ja": "今日もイラついたし"
+    },
+    {
+      "start": 39.96,
+      "end": 44.73,
+      "en": "Every single time I drive, I'm like pissed off by someone in the passing lane.",
+      "ja": "運転するたび毎回 追い越し車線のやつにイラついてる"
+    },
+    {
+      "start": 44.99,
+      "end": 47.6,
+      "en": "It's not unique to today.",
+      "ja": "今日に限ったことじゃない"
+    },
+    {
+      "start": 48.27,
+      "end": 51.34,
+      "en": "It happens every single time I get into a car.",
+      "ja": "車に乗るたびそうなんだよ"
+    },
+    {
+      "start": 51.34,
+      "end": 54.2,
+      "en": "But, every time I'm on the road, I'm like... GET OFF THE ROAD!",
+      "ja": "道を走る度に言ってる この車線に！！"
+    },
+    {
+      "start": 54.44,
+      "end": 55.67,
+      "en": "GET OUT OF THIS LANE!",
+      "ja": "入ってくんなァ！！"
+    }
+  ]
+}

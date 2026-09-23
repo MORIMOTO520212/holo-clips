@@ -1,0 +1,71 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "rat-calling-the-rock-smol",
+  "videoId": "V8X2gnp7wy4",
+  "start": 0,
+  "end": 41,
+  "title": "Rat Calling The Rock Smol",
+  "talent": "Hakos Baelz",
+  "lines": [
+    {
+      "start": 0.52,
+      "end": 3.62,
+      "en": "But yeah, Koseki Bijou came over... And she like...",
+      "ja": "古石ビジューが家に来たよ あいつ、ボクん家のソファで…",
+      "notes": [
+        {
+          "term": "came over",
+          "meaning": "（家に）遊びに来る"
+        }
+      ]
+    },
+    {
+      "start": 3.62,
+      "end": 8.86,
+      "en": "She looked at the couch... She...",
+      "ja": "あいつ…"
+    },
+    {
+      "start": 9.33,
+      "end": 10.53,
+      "en": "She's so smol!",
+      "ja": "ちっっっさいの！",
+      "notes": [
+        {
+          "term": "smol",
+          "meaning": "small をわざと可愛く崩したネットスラング"
+        }
+      ]
+    },
+    {
+      "start": 14.93,
+      "end": 21.41,
+      "en": "You know how normally sofa bed— You can... You have to lie, like, horizontally in order to fit and have it...",
+      "ja": "ソファで寝ようとしたら普通… 横向きで寝ないと 全身が収まらないじゃん"
+    },
+    {
+      "start": 21.41,
+      "end": 24.51,
+      "en": "I feel like... Koseki Bijou...",
+      "ja": "でも 古石ビジューは…"
+    },
+    {
+      "start": 24.51,
+      "end": 27.34,
+      "en": "...can lie vertically and it still will be a bed for her!",
+      "ja": "縦に寝ても収まっちゃう！"
+    },
+    {
+      "start": 30.78,
+      "end": 32.58,
+      "en": "\"Koseki Bijou smol\"",
+      "ja": "「古石ビジューちっさ」"
+    },
+    {
+      "start": 34.15,
+      "end": 35.15,
+      "en": "Yeah!",
+      "ja": "ねー"
+    }
+  ]
+}

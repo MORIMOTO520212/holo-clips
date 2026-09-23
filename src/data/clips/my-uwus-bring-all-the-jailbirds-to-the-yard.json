@@ -1,0 +1,114 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "my-uwus-bring-all-the-jailbirds-to-the-yard",
+  "videoId": "BeIGZVXPPa4",
+  "start": 0,
+  "end": 56,
+  "title": "My UwU's Bring All The Jailbirds To The Yard",
+  "talent": "Nerissa Ravencroft",
+  "lines": [
+    {
+      "start": 0,
+      "end": 4.29,
+      "en": "Thank you for the Super! I heard a Jailbird call for the UwU magic.",
+      "ja": "スパチャありがとう！「UwUコピペ」の朗読をご所望のようね"
+    },
+    {
+      "start": 4.29,
+      "end": 5.59,
+      "en": "Let's go!",
+      "ja": "行くわよ！"
+    },
+    {
+      "start": 5.76,
+      "end": 14.33,
+      "en": "RAWR UWU XD OWO MEOW OWO NYAA UWU NEKO OWU-CHAN TEEHEE UWU UWO EHE KAWAII",
+      "ja": "（UwUコピペを音読）"
+    },
+    {
+      "start": 14.87,
+      "end": 17.43,
+      "en": "Why do you keep making me say weird things like that?",
+      "ja": "なんで毎回変なセリフを言わせたがるの？"
+    },
+    {
+      "start": 18.64,
+      "end": 20.1,
+      "en": "Do you have a kink?",
+      "ja": "そういう癖（へき）？",
+      "notes": [
+        {
+          "term": "kink",
+          "meaning": "性的な嗜好・特殊な好みを指すカジュアルな俗語"
+        }
+      ]
+    },
+    {
+      "start": 20.1,
+      "end": 24.04,
+      "en": "Dude... You have some weird things that you're into!",
+      "ja": "キミ… 変わった性癖してるのね"
+    },
+    {
+      "start": 28.11,
+      "end": 32.02,
+      "en": "You've got You've got something interesting going on there.",
+      "ja": "なかなか…興味深い趣味をしてるわ"
+    },
+    {
+      "start": 32.62,
+      "end": 34.08,
+      "en": "I'm gonna call you out on it.",
+      "ja": "言わせてもらうけど",
+      "notes": [
+        {
+          "term": "call (someone) out on",
+          "match": "call you out on",
+          "meaning": "〜について指摘する"
+        }
+      ]
+    },
+    {
+      "start": 34.08,
+      "end": 37.55,
+      "en": "I think this is like the third... fourth fifth time...",
+      "ja": "これで3回目4回目…いや5回目かも"
+    },
+    {
+      "start": 38.02,
+      "end": 40.76,
+      "en": "The fifth time you've asked me to read that!",
+      "ja": "キミに5回もアレを読まされたわ"
+    },
+    {
+      "start": 41.09,
+      "end": 43.76,
+      "en": "Like I expected different from you guys...",
+      "ja": "もっと別のリクエストが来ると思ってた"
+    },
+    {
+      "start": 43.76,
+      "end": 46.56,
+      "en": "I expected like ara-aras and stuff like that...",
+      "ja": "「あらあら」とかそういうセリフ",
+      "notes": [
+        {
+          "term": "ara-ara",
+          "meaning": "母性的なお姉さんキャラがよく使う相槌の日本語ネットミーム表現"
+        }
+      ]
+    },
+    {
+      "start": 46.56,
+      "end": 50.13,
+      "en": "But, meanwhile, I'm getting UwU UwU copypastas.",
+      "ja": "でも来るのは変なコピペばかり…",
+      "notes": [
+        {
+          "term": "copypasta",
+          "meaning": "copy-paste（コピペ）をもじったネットスラング"
+        }
+      ]
+    }
+  ]
+}

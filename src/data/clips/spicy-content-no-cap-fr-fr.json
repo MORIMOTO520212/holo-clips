@@ -1,0 +1,163 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "spicy-content-no-cap-fr-fr",
+  "videoId": "38e2ylhtXGQ",
+  "start": 0,
+  "end": 90,
+  "title": "Spicy Content! No Cap FR FR",
+  "talent": "Koseki Bijou",
+  "lines": [
+    {
+      "start": 0.12,
+      "end": 1.92,
+      "en": "Hold on, hold on, here... Okay!",
+      "ja": "待って待って…OK！"
+    },
+    {
+      "start": 1.92,
+      "end": 4.15,
+      "en": "Clip this, okay?",
+      "ja": "ここ切り抜いてね",
+      "notes": [
+        {
+          "term": "clip this",
+          "match": "Clip this",
+          "meaning": "配信でよく使う「ここを切り抜いてね」という表現"
+        }
+      ]
+    },
+    {
+      "start": 4.15,
+      "end": 5.62,
+      "en": "Hello, everyone!",
+      "ja": "皆さんこんにちは！"
+    },
+    {
+      "start": 5.62,
+      "end": 8.19,
+      "en": "Today, I am eating...",
+      "ja": "今日挑戦するのはこの…"
+    },
+    {
+      "start": 8.19,
+      "end": 14.1,
+      "en": "Um... very very spicy chips, okay? They're supposed to be really spicy.",
+      "ja": "超激辛ポテトチップス！めちゃくちゃ辛いらしいよ"
+    },
+    {
+      "start": 14.56,
+      "end": 17.13,
+      "en": "I'm nervous, they smell so spicy.",
+      "ja": "怖いな～匂いからして辛い"
+    },
+    {
+      "start": 17.13,
+      "end": 20.87,
+      "en": "Okay... I'm really nervous about it, but I'm gonna try it, okay?",
+      "ja": "よし！すごく怖いけど食べてみたいと思います"
+    },
+    {
+      "start": 20.87,
+      "end": 23.34,
+      "en": "Uhh... Itadakimasu!",
+      "ja": "いただきまーす！",
+      "notes": [
+        {
+          "term": "Itadakimasu",
+          "meaning": "日本語の「いただきます」をそのまま使用（食事の前の挨拶）"
+        }
+      ]
+    },
+    {
+      "start": 26.18,
+      "end": 29.11,
+      "en": "Aaargh-hah-hah!",
+      "ja": "ああああああ！"
+    },
+    {
+      "start": 29.55,
+      "end": 32.82,
+      "en": "Aaargh-hah! It's so spicy!",
+      "ja": "あああああ！からああい！"
+    },
+    {
+      "start": 33.12,
+      "end": 35.59,
+      "en": "Aaaaargh! Aaargh!",
+      "ja": "ああああ！あﾞあ゛"
+    },
+    {
+      "start": 35.59,
+      "end": 39.09,
+      "en": "Help! My mouth is on fire!",
+      "ja": "助けて！口が焼けちゃう！",
+      "notes": [
+        {
+          "term": "on fire",
+          "meaning": "燃えている＝ヒリヒリ辛い、を比喩的に表す表現"
+        }
+      ]
+    },
+    {
+      "start": 39.76,
+      "end": 43.43,
+      "en": "I'm gonna finish it because I'm brave... I'm brave, okay?",
+      "ja": "勇気を出して最後まで食べます ビブーは勇敢なので"
+    },
+    {
+      "start": 43.43,
+      "end": 45.36,
+      "en": "I'm gonna eat the whole thing!",
+      "ja": "ちゃんと全部食べるよ！"
+    },
+    {
+      "start": 49.47,
+      "end": 53.37,
+      "en": "It's so spicy! I need a drink! I need a drink.",
+      "ja": "辛ーい！飲み物欲しい！何か飲まないと！"
+    },
+    {
+      "start": 57.31,
+      "end": 59.34,
+      "en": "I thought I was gonna die!",
+      "ja": "しんじゃうかとおもった"
+    },
+    {
+      "start": 59.64,
+      "end": 64.11,
+      "en": "Well, that was the spiciest thing I've ever drank or eaten.",
+      "ja": "今まで食べた物の中で断トツの辛さだよ"
+    },
+    {
+      "start": 65.65,
+      "end": 68.22,
+      "en": "I'm gonna need a break from that...",
+      "ja": "ちょっと休ませて…"
+    },
+    {
+      "start": 68.22,
+      "end": 71.92,
+      "en": "Well, I'm crying... Do you hear my... (sniffle sniffle)",
+      "ja": "泣いてるよ 聞こえるでしょ （ぐすんぐすん）"
+    },
+    {
+      "start": 71.92,
+      "end": 75.93,
+      "en": "My sniffling? Ugh... I need another sip of my drink... Oh...",
+      "ja": "すすり泣く声が もう一口飲んどこ"
+    },
+    {
+      "start": 78.36,
+      "end": 83.97,
+      "en": "And... Okay, let's go! lol There's your... there's your content!",
+      "ja": "…とこんなもんかwww撮れ高は十分だな",
+      "notes": [
+        {
+          "term": "content",
+          "match": "your content",
+          "meaning": "配信素材・ネタになるもの、の意味"
+        }
+      ]
+    }
+  ]
+}

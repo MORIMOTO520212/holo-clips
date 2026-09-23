@@ -1,0 +1,131 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "red-x-rat-x-regretting",
+  "videoId": "NVbmNAlbkKU",
+  "start": 0,
+  "end": 101,
+  "title": "Red x Rat x Regretting",
+  "talent": "Hakos Baelz",
+  "lines": [
+    {
+      "start": 0,
+      "end": 3.32,
+      "en": "You see, I was looking forward to this.",
+      "ja": "ボクはさ…楽しみにしてたの"
+    },
+    {
+      "start": 4.99,
+      "end": 9.36,
+      "en": "Today, I shall... descend to hell.",
+      "ja": "ボクは今日… 地獄へ参ります"
+    },
+    {
+      "start": 12.93,
+      "end": 13.9,
+      "en": "Here I go!",
+      "ja": "いただきます…！"
+    },
+    {
+      "start": 18.64,
+      "end": 24.04,
+      "en": "Huh? Hmm? Mmm.",
+      "ja": "ん～！んん～？ﾝｰ"
+    },
+    {
+      "start": 25.41,
+      "end": 34.05,
+      "en": "Ah... Ahhh... Ah! Hah... It's...",
+      "ja": "あ… ああ…！ああッ！！"
+    },
+    {
+      "start": 36.39,
+      "end": 37.59,
+      "en": "Oh, I see!",
+      "ja": "あっ、なるほどね"
+    },
+    {
+      "start": 39.59,
+      "end": 40.79,
+      "en": "This... hurts.",
+      "ja": "これ痛いんだ（冷静）"
+    },
+    {
+      "start": 52.47,
+      "end": 55.24,
+      "en": "Wait, I'm starting to feel cold... Cold!",
+      "ja": "寒くなってきた…！寒い！"
+    },
+    {
+      "start": 55.3,
+      "end": 60.68,
+      "en": "My hands... My hands can't grip anything!",
+      "ja": "手にさぁ… 手がね…力が入らないんだよね…？",
+      "notes": [
+        {
+          "term": "grip",
+          "meaning": "しっかりつかむ、握る"
+        }
+      ]
+    },
+    {
+      "start": 61.15,
+      "end": 62.38,
+      "en": "Why is this happening...",
+      "ja": "なんでなんだょ…"
+    },
+    {
+      "start": 63.11,
+      "end": 66.55,
+      "en": "Hold up... it's so hot... Whoa!",
+      "ja": "ﾁｮｯﾄ…ﾏｯﾃ…ｱﾂｲ…",
+      "notes": [
+        {
+          "term": "Hold up",
+          "meaning": "「ちょっと待って」というカジュアルな表現"
+        }
+      ]
+    },
+    {
+      "start": 67.05,
+      "end": 71.09,
+      "en": "I'm losing it! This is bad! I'm losing strength!",
+      "ja": "おかしくなってきた…！ヤバい！力が入らな…",
+      "notes": [
+        {
+          "term": "losing it",
+          "meaning": "我を忘れる、取り乱す"
+        }
+      ]
+    },
+    {
+      "start": 77.69,
+      "end": 80.9,
+      "en": "Huh? Has it already been an hour...?",
+      "ja": "え？もう1時間…過…"
+    },
+    {
+      "start": 82.2,
+      "end": 83,
+      "en": "Seriously?",
+      "ja": "まじ？"
+    },
+    {
+      "start": 84.23,
+      "end": 87.81,
+      "en": "I don't really remember much of this stream though. What? Seriously?",
+      "ja": "ちょっとこの配信の記憶があんまないんだけど え？まじ？"
+    },
+    {
+      "start": 88.44,
+      "end": 93.41,
+      "en": "Wait a second. From the first bite until now, I have absolutely no memory!",
+      "ja": "え、ちょっと待って ひと口目からさっきまでの記憶が全然ない"
+    },
+    {
+      "start": 93.41,
+      "end": 95.34,
+      "en": "Wait, did I do something?!",
+      "ja": "ヤバイ…え？なんかした？"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "just-idol-things",
+  "videoId": "PowRM-ROCwo",
+  "start": 0,
+  "end": 26,
+  "title": "Just Idol Things",
+  "talent": "Takanashi Kiara",
+  "lines": [
+    {
+      "start": 0,
+      "end": 4.46,
+      "en": "I used to be way more into dancing, like, a long, long time ago,",
+      "ja": "昔はもっとダンスに打ち込んでたんだけど"
+    },
+    {
+      "start": 4.46,
+      "end": 7.72,
+      "en": "but hololive has kind of eaten up my time. (Psst, Watson!)",
+      "ja": "ホロライブに入ってからは忙しくて…（おい、ワトソン！）",
+      "notes": [
+        {
+          "term": "eat up",
+          "match": "eaten up",
+          "meaning": "（時間などを）食いつぶす・奪う"
+        }
+      ]
+    },
+    {
+      "start": 7.72,
+      "end": 12.26,
+      "en": "But I'm happy that I can share my hobby, and... (\"F*ck you, too!\")",
+      "ja": "でもこうして私の趣味を皆さんに披露できて…（ファッ◯ユー！）"
+    },
+    {
+      "start": 13.0,
+      "end": 15.16,
+      "en": "Are you— are you showing each other the middle finger?!",
+      "ja": "な…なんで中指見せ合ってんのよ！？",
+      "notes": [
+        {
+          "term": "middle finger",
+          "meaning": "中指を立てる侮辱のジェスチャー"
+        }
+      ]
+    },
+    {
+      "start": 15.16,
+      "end": 15.67,
+      "en": "Girls!",
+      "ja": "こら！"
+    },
+    {
+      "start": 15.97,
+      "end": 18.17,
+      "en": "No no no no no no no! No?",
+      "ja": "ダメ ダメ ダメ ダメ ダメ ダメ ダメ！ダメ？"
+    },
+    {
+      "start": 18.17,
+      "end": 20.94,
+      "en": "Peace, love, and harmony in this classroom.",
+      "ja": "平和と愛がモットーなんだから！"
+    },
+    {
+      "start": 20.94,
+      "end": 24.11,
+      "en": "Wow. This is an idol, everybody!",
+      "ja": "ご覧ください、これがアイドルです"
+    }
+  ]
+}

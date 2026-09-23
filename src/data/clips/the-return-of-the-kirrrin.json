@@ -1,0 +1,83 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "the-return-of-the-kirrrin",
+  "videoId": "oIFSAOOzV4w",
+  "start": 0,
+  "end": 60,
+  "title": "The Return of the Kir-r-rin",
+  "talent": "Ceres Fauna",
+  "lines": [
+    {
+      "start": 0.45,
+      "end": 7.16,
+      "en": "Th- The Ring \"Curl your tongue at the roof of your mouth and then breathe out.\"",
+      "ja": "「舌先を上アゴにくっつけて」「息を吐く」？"
+    },
+    {
+      "start": 7.52,
+      "end": 10.99,
+      "en": "Ring. I don't think it's working.",
+      "ja": "できないよ！"
+    },
+    {
+      "start": 12.16,
+      "end": 15.2,
+      "en": "\"It's like purring!\" \"Don't move your tongue!\"?",
+      "ja": "「猫みたい」「舌は動かさない」？",
+      "notes": [
+        {
+          "term": "purring",
+          "meaning": "猫がゴロゴロと喉を鳴らす音"
+        }
+      ]
+    },
+    {
+      "start": 15.3,
+      "end": 24.04,
+      "en": "Th- The Th- The R- R- R- Ring.",
+      "ja": "（巻き舌に挑戦中）"
+    },
+    {
+      "start": 24.14,
+      "end": 25.98,
+      "en": "That was kinda close. Was it?",
+      "ja": "今ちょっとできてたんじゃない？"
+    },
+    {
+      "start": 27.11,
+      "end": 31.21,
+      "en": "Ring. Ring! Wait, am I doing it?",
+      "ja": "はっ…！できた！？"
+    },
+    {
+      "start": 32.55,
+      "end": 38.99,
+      "en": "Ring. Wait, can I replicate this? Can I replicate it though?",
+      "ja": "もうできないかも！再現できるかな…？",
+      "notes": [
+        {
+          "term": "replicate",
+          "meaning": "再現する、同じことをもう一度行う"
+        }
+      ]
+    },
+    {
+      "start": 39.06,
+      "end": 43.99,
+      "en": "Th-The One Ring. Oh no, am I losing it? I'm so scared. Ring.",
+      "ja": "できなくなった…？やだこわい"
+    },
+    {
+      "start": 44.73,
+      "end": 49.97,
+      "en": "R- Ring. Ring. Oh no, am I losing it? How did I do it before?",
+      "ja": "できなくなっちゃった！どうやってたっけ！？"
+    },
+    {
+      "start": 50.2,
+      "end": 54.97,
+      "en": "Ring. Th- Th- Ring.",
+      "ja": "はっ…！"
+    }
+  ]
+}

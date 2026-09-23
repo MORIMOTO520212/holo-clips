@@ -1,0 +1,191 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "resident-rat-reminiscising-in-rain",
+  "videoId": "B9STJb3aoXw",
+  "start": 0,
+  "end": 85,
+  "title": "Resident Rat Reminiscising (In Rain)",
+  "talent": "Hakos Baelz",
+  "lines": [
+    {
+      "start": 0.08,
+      "end": 3.89,
+      "en": "\"You should explain the umbrella episode that you...\" Ohh!",
+      "ja": "「傘の話を聞きたい」って？"
+    },
+    {
+      "start": 4.22,
+      "end": 8.83,
+      "en": "There's something about... Oh, I did... I lost my umbrella the other day as well.",
+      "ja": "この前も傘を失くしちゃったんだよ",
+      "notes": [
+        {
+          "term": "the other day",
+          "meaning": "先日、この前"
+        }
+      ]
+    },
+    {
+      "start": 8.83,
+      "end": 11.66,
+      "en": "Not lost, I gave my umbrella away. Um...",
+      "ja": "「失くした」じゃなくて「あげた」だけどね"
+    },
+    {
+      "start": 12,
+      "end": 14.96,
+      "en": "I was walking to the station, okay?",
+      "ja": "駅に向かって歩いてたんだけど"
+    },
+    {
+      "start": 14.96,
+      "end": 17.13,
+      "en": "It was also pouring rain.",
+      "ja": "その日はスッゴイ雨が降っててね"
+    },
+    {
+      "start": 17.13,
+      "end": 19.8,
+      "en": "Like, pouring! Like, actually pouring.",
+      "ja": "もう土砂降り！"
+    },
+    {
+      "start": 19.8,
+      "end": 25.41,
+      "en": "So... I was walking to the station, when I saw a child...",
+      "ja": "駅に向かってたら…子供がいたんだ"
+    },
+    {
+      "start": 25.41,
+      "end": 27.95,
+      "en": "And I think they were coming home from school.",
+      "ja": "学校帰りって感じの子"
+    },
+    {
+      "start": 27.95,
+      "end": 30.41,
+      "en": "They had, like... All of their hands were, like, full.",
+      "ja": "荷物で両手がふさがってて"
+    },
+    {
+      "start": 30.41,
+      "end": 34.12,
+      "en": "The backpack, soccer ball in hand... Like, bags on bags on bags.",
+      "ja": "リュック持ってサッカーボール抱えて とにかく大荷物だった"
+    },
+    {
+      "start": 34.12,
+      "end": 39.26,
+      "en": "And, like... And then, the kid was about to walk back out into the rain.",
+      "ja": "そんな子が雨の中 歩いて帰ろうとしてたから"
+    },
+    {
+      "start": 39.26,
+      "end": 41.39,
+      "en": "So, I gave them my umbrella.",
+      "ja": "ボクの傘をあげたんだ"
+    },
+    {
+      "start": 41.39,
+      "end": 44.8,
+      "en": "But I kind of walked up, and I was like, \"Oh, are you okay?\"",
+      "ja": "「大丈夫？」って声はかけたけど"
+    },
+    {
+      "start": 44.8,
+      "end": 49.8,
+      "en": "I didn't really wait for a response... because I was immediately then pounded by the rain.",
+      "ja": "自分が濡れちゃうから 返事を聞いてるヒマもなくてさ",
+      "notes": [
+        {
+          "term": "pounded by the rain",
+          "meaning": "雨に激しく打たれる"
+        }
+      ]
+    },
+    {
+      "start": 49.8,
+      "end": 51.9,
+      "en": "But it's fine. 'Cuz the station was really close by.",
+      "ja": "駅は近かったし"
+    },
+    {
+      "start": 51.9,
+      "end": 55.74,
+      "en": "I was gonna run, and I could just be under cover, and it's fine. So, like...",
+      "ja": "走ればいいやと思って そうしたんだけど…",
+      "notes": [
+        {
+          "term": "under cover",
+          "meaning": "屋根の下・雨よけの場所にいる、の意味"
+        }
+      ]
+    },
+    {
+      "start": 55.74,
+      "end": 58.14,
+      "en": "No, no, no, no, no, hold on!",
+      "ja": "……いやいや待てよ？",
+      "notes": [
+        {
+          "term": "hold on",
+          "meaning": "待って、ちょっと待って"
+        }
+      ]
+    },
+    {
+      "start": 58.14,
+      "end": 58.88,
+      "en": "Hold on!",
+      "ja": "ちょっと待った！"
+    },
+    {
+      "start": 58.88,
+      "end": 63.11,
+      "en": "I gave this kid an umbrella when...",
+      "ja": "傘をあげたのはいいけど…"
+    },
+    {
+      "start": 63.11,
+      "end": 67.48,
+      "en": "he was already carrying 20 million things!",
+      "ja": "あの子は山盛りの荷物で 手がいっぱいだったんだよ！？",
+      "notes": [
+        {
+          "term": "20 million things",
+          "meaning": "「ものすごくたくさんの物」を誇張して言う言い方"
+        }
+      ]
+    },
+    {
+      "start": 67.48,
+      "end": 70.32,
+      "en": "I don't know if it was a good thing!",
+      "ja": "逆に迷惑だったかなぁ！？"
+    },
+    {
+      "start": 70.32,
+      "end": 72.66,
+      "en": "I think the kid said, \"Thank you.\"",
+      "ja": "「ありがとう」って言ってたと思うけど"
+    },
+    {
+      "start": 72.66,
+      "end": 74.83,
+      "en": "I think he was very confused.",
+      "ja": "戸惑っただろうな…"
+    },
+    {
+      "start": 74.83,
+      "end": 77.83,
+      "en": "\"Mysterious umbrella lady!\"",
+      "ja": "「謎の傘女現る」ってね…"
+    },
+    {
+      "start": 77.83,
+      "end": 80,
+      "en": "\"Who needs an umbrella? I got you!\"",
+      "ja": "ボクの傘を使いなさ～い！"
+    }
+  ]
+}

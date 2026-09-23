@@ -1,0 +1,41 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "time-to-cover-your-ears",
+  "videoId": "IVPOe3WoXyQ",
+  "start": 0,
+  "end": 46,
+  "title": "Time To Cover Your Ears",
+  "talent": "Ouro Kronii",
+  "lines": [
+    {
+      "start": 0.42,
+      "end": 4.02,
+      "en": "See, if I scream... Uh, turn down your volume.",
+      "ja": "叫んでみようか 音量下げてね"
+    },
+    {
+      "start": 4.02,
+      "end": 9.63,
+      "en": "In 5... 4... 3... 2... 1...",
+      "ja": "5…4… 3…2…1…"
+    },
+    {
+      "start": 28.45,
+      "end": 31.88,
+      "en": "Yeah, no peaking, right? Yeah!",
+      "ja": "音割れしてないでしょ？ねっ！",
+      "notes": [
+        {
+          "term": "peaking",
+          "meaning": "音量オーバーで音声が割れて歪むこと"
+        }
+      ]
+    },
+    {
+      "start": 38.69,
+      "end": 40.26,
+      "en": "That is how I scream.",
+      "ja": "これが私の叫びよ"
+    }
+  ]
+}

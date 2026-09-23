@@ -1,0 +1,144 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "time-for-some-tskr",
+  "videoId": "WMQi-1t9M0k",
+  "start": 0,
+  "end": 97,
+  "title": "Time For Some TSKR",
+  "talent": "Ouro Kronii",
+  "lines": [
+    {
+      "start": 0.25,
+      "end": 3.85,
+      "en": "Thank you! Ooh!",
+      "ja": "スパチャありがとう！"
+    },
+    {
+      "start": 3.99,
+      "end": 11.23,
+      "en": "\"Kroniichiwa! Finally catching your stream again. Loved the scream!\"",
+      "ja": "「クロにちは～！」「久しぶりに配信見れてる！」「素敵な悲鳴をありがとう！」"
+    },
+    {
+      "start": 12.16,
+      "end": 14.56,
+      "en": "TSKR. Ugh!",
+      "ja": "「たすかる」",
+      "notes": [
+        {
+          "term": "TSKR",
+          "meaning": "日本語の「たすかる」（tasukaru＝助かる、ありがたい）をローマ字の頭文字で略したネットスラング"
+        }
+      ]
+    },
+    {
+      "start": 15.06,
+      "end": 16.73,
+      "en": "It's always...",
+      "ja": "まただ…"
+    },
+    {
+      "start": 16.73,
+      "end": 19.34,
+      "en": "\"Always TSKR.\"",
+      "ja": "「イツモ タスカル」"
+    },
+    {
+      "start": 19.84,
+      "end": 20.87,
+      "en": "So...",
+      "ja": "あの…"
+    },
+    {
+      "start": 23.51,
+      "end": 24.34,
+      "en": "Man!",
+      "ja": "もう…"
+    },
+    {
+      "start": 26.48,
+      "end": 28.55,
+      "en": "So seriously gross!",
+      "ja": "ホントに気持ち悪い！"
+    },
+    {
+      "start": 32.58,
+      "end": 36.39,
+      "en": "Teehee! Teehee pero! I'm kidding!",
+      "ja": "てへ⭐ てへぺろ⭐ 冗談ですYO！",
+      "notes": [
+        {
+          "term": "teehee pero",
+          "match": "Teehee pero",
+          "meaning": "日本語の「てへぺろ」（おどけて謝るときの仕草）がそのまま使われている"
+        }
+      ]
+    },
+    {
+      "start": 36.62,
+      "end": 40.36,
+      "en": "YEAH‼ Yeah, of course! TSKR!",
+      "ja": "YEAH～！ ほらまた「助かる」って言ってる！"
+    },
+    {
+      "start": 41.96,
+      "end": 45.7,
+      "en": "Yeah... This is a blessing too, right? Yeah...",
+      "ja": "これも助かるでしょう？ ね～…"
+    },
+    {
+      "start": 47.33,
+      "end": 49.73,
+      "en": "Huh... Man...",
+      "ja": "はぁ… もう…"
+    },
+    {
+      "start": 51.37,
+      "end": 58.67,
+      "en": "In the end, like... The more I like talk to the JP bros...",
+      "ja": "結局… 私が日本のリスナーに話しかけると",
+      "notes": [
+        {
+          "term": "JP bros",
+          "meaning": "日本人のリスナーを指すカジュアルな呼び方"
+        }
+      ]
+    },
+    {
+      "start": 58.88,
+      "end": 64.72,
+      "en": "They're... They're the same... Like... Guys, you're all the same.",
+      "ja": "みんな同じなの みんな…みんな同じですよ"
+    },
+    {
+      "start": 65.58,
+      "end": 71.72,
+      "en": "You're... strange... Odd...",
+      "ja": "みんな… おかしい おかしい…ｗ"
+    },
+    {
+      "start": 72.86,
+      "end": 81.9,
+      "en": "Like, no matter what nationality... It's just I'm surrounded by the TSKR people.",
+      "ja": "国籍を問わず、私の周りには タスカル勢が集まってくる",
+      "notes": [
+        {
+          "term": "no matter what",
+          "meaning": "〜であろうと関係なく"
+        }
+      ]
+    },
+    {
+      "start": 84.03,
+      "end": 87.07,
+      "en": "Ahh... Yeah, anyway.",
+      "ja": "そういうこと"
+    },
+    {
+      "start": 87.34,
+      "end": 91.04,
+      "en": "I did not corrupt them, it's always been like that.",
+      "ja": "私のせいじゃなくて、元からおかしい"
+    }
+  ]
+}

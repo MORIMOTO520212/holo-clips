@@ -1,0 +1,143 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "5-3",
+  "videoId": "OLPER4TarCo",
+  "start": 0,
+  "end": 80,
+  "title": "5^3",
+  "talent": "Takanashi Kiara",
+  "lines": [
+    {
+      "start": 0.35,
+      "end": 4.55,
+      "en": "Fun fact: In Australia, we only have the grades 1 to 5,",
+      "ja": "ちなみにオーストラリアでは学校の成績が1から5で"
+    },
+    {
+      "start": 4.55,
+      "end": 8.43,
+      "en": "and in Germany, they have the grades 1 to 6.",
+      "ja": "ドイツだと1から6なんだよ"
+    },
+    {
+      "start": 10.03,
+      "end": 11.33,
+      "en": "Where is the rest of 'em?",
+      "ja": "抜けてない？",
+      "notes": [
+        {
+          "term": "the rest of 'em",
+          "meaning": "them の口語的な短縮。「残りのやつら」"
+        }
+      ]
+    },
+    {
+      "start": 11.33,
+      "end": 12.53,
+      "en": "Where is 3-4?",
+      "ja": "3と4は？"
+    },
+    {
+      "start": 13.16,
+      "end": 14.06,
+      "en": "Eh?",
+      "ja": "え？"
+    },
+    {
+      "start": 14.06,
+      "end": 16.67,
+      "en": "1-2-6. 1-2-5...",
+      "ja": "1、2、6…1、2、5…"
+    },
+    {
+      "start": 17.73,
+      "end": 19.04,
+      "en": "1-2-3... (\"Gura...\")",
+      "ja": "1、2、3…（ぐら…）"
+    },
+    {
+      "start": 19.04,
+      "end": 20.27,
+      "en": "Huh?",
+      "ja": "あれ？"
+    },
+    {
+      "start": 22.14,
+      "end": 24.77,
+      "en": "You didn't say 3, 4!",
+      "ja": "3と4飛ばしたじゃん！"
+    },
+    {
+      "start": 28.08,
+      "end": 29.58,
+      "en": "Wait, did I mess up?",
+      "ja": "…私何かやっちゃった？",
+      "notes": [
+        {
+          "term": "mess up",
+          "meaning": "しくじる・失敗する"
+        }
+      ]
+    },
+    {
+      "start": 33.28,
+      "end": 35.25,
+      "en": "I'm crying!",
+      "ja": "涙出る…！"
+    },
+    {
+      "start": 36.05,
+      "end": 37.89,
+      "en": "Wait, what... What happened?",
+      "ja": "なになにどしたの"
+    },
+    {
+      "start": 37.89,
+      "end": 38.96,
+      "en": "Okay, so...",
+      "ja": "あのね…"
+    },
+    {
+      "start": 38.96,
+      "end": 48.56,
+      "en": "In Australia, we have the grades 1, 2, 3, 4, 5.",
+      "ja": "オーストラリアではね、成績のつけ方が…1、2、3、4、5"
+    },
+    {
+      "start": 48.56,
+      "end": 51.53,
+      "en": "Which is \"1 to 5.\"",
+      "ja": "つまり…「1 to 5」"
+    },
+    {
+      "start": 59.54,
+      "end": 61.55,
+      "en": "You get it now?",
+      "ja": "やっと分かった？"
+    },
+    {
+      "start": 65.95,
+      "end": 68.58,
+      "en": "Gura, how would you even get such a stupid idea?!",
+      "ja": "ぐら！なんでそんなおバカな発想を！",
+      "notes": [
+        {
+          "term": "how would you even",
+          "meaning": "「一体どうして〜なんて」呆れを表す口語表現"
+        }
+      ]
+    },
+    {
+      "start": 68.58,
+      "end": 70.35,
+      "en": "That's so ridiculous!",
+      "ja": "おかしいでしょ！"
+    },
+    {
+      "start": 72.26,
+      "end": 73.86,
+      "en": "I don't know...",
+      "ja": "分かんない…"
+    }
+  ]
+}

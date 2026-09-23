@@ -1,0 +1,108 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "sleepyreaper-what-do-you-do-during-asmr",
+  "videoId": "Eh9esCA2MNU",
+  "start": 0,
+  "end": 63,
+  "title": "SleepyReaper: What Do You Do During ASMR? Are You Busy? Will You Insult Us Cutely?",
+  "talent": "Mori Calliope",
+  "lines": [
+    {
+      "start": 0.98,
+      "end": 3.59,
+      "en": "\"Can you insult us in a cute way?\"",
+      "ja": "「かわいく罵ってください」？"
+    },
+    {
+      "start": 3.59,
+      "end": 7.69,
+      "en": "I don't know if I can do it in a cute way, but I can do it in a cute voice!",
+      "ja": "かわいくなんてできるかな… かわいい声で頑張ってみる"
+    },
+    {
+      "start": 7.69,
+      "end": 11.6,
+      "en": "You fucking piece of shit! Human garbage! Hehe.",
+      "ja": "クソカス野郎❤ 人間のクズ❤ ふふ…っ"
+    },
+    {
+      "start": 12.93,
+      "end": 16.9,
+      "en": "I hope that your death is most painful. ❤ In a fire. ❤",
+      "ja": "むごたらしい最期を 迎えたらいいのに❤ 業火で❤",
+      "notes": [
+        {
+          "term": "in a fire",
+          "match": "In a fire",
+          "meaning": "日本語の「業火」（地獄の激しい炎）に対応する訳"
+        }
+      ]
+    },
+    {
+      "start": 18.87,
+      "end": 22.24,
+      "en": "Please burn alive. ❤ Heehee!",
+      "ja": "生きたまま焼かれて❤ えへへ"
+    },
+    {
+      "start": 23.17,
+      "end": 24.31,
+      "en": "Is that okay?",
+      "ja": "これでいい？"
+    },
+    {
+      "start": 25.78,
+      "end": 29.91,
+      "en": "Can you please... burn alive... for me? ❤ Haha!",
+      "ja": "私のために… 焼かれて逝ってくださーい❤ あはは！"
+    },
+    {
+      "start": 31.45,
+      "end": 33.02,
+      "en": "No! Nonononono! It's a joke!",
+      "ja": "ダメ！ダメ 冗談！"
+    },
+    {
+      "start": 33.02,
+      "end": 36.69,
+      "en": "No please, dude, you have to wait. You have to wait or I'll never—",
+      "ja": "まだこっちに来ちゃダメ いま死んでも…",
+      "notes": [
+        {
+          "term": "dude",
+          "meaning": "親しい相手への呼びかけ。「あなた」「君」のようなカジュアルな表現"
+        }
+      ]
+    },
+    {
+      "start": 38.45,
+      "end": 40.16,
+      "en": "I'll never— We'll never meet.",
+      "ja": "私には… 会えないよ"
+    },
+    {
+      "start": 40.16,
+      "end": 46.43,
+      "en": "If you try to come to me before I come to you, then I-I will, I will run away.",
+      "ja": "私がお迎えに行くより先に キミ達がこっちへ来る気なら 私は逃げちゃうからね"
+    },
+    {
+      "start": 46.43,
+      "end": 50.5,
+      "en": "Mm-hmm! You have to wait your turn. Okay?",
+      "ja": "うんうん 自分の番が来るのを待ってなさい いい？"
+    },
+    {
+      "start": 51.67,
+      "end": 57.44,
+      "en": "Okay? Or else you get Death-sensei. A-And... And Death-sensei is not a cute anime girl.",
+      "ja": "分かった？ いま死ぬとお迎えは Death-senseiだよ？ いいの？ Death-senseiは 美少女じゃないぞ？",
+      "notes": [
+        {
+          "term": "sensei",
+          "meaning": "「先生」という日本語がそのまま使われている"
+        }
+      ]
+    }
+  ]
+}

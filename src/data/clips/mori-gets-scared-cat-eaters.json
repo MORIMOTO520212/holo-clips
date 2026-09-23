@@ -1,0 +1,119 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "mori-gets-scared-cat-eaters",
+  "videoId": "Gj2tbLJ2nwU",
+  "start": 0,
+  "end": 90,
+  "title": "Mori Gets Scared: Cat Eater(s)",
+  "talent": "Mori Calliope, FUWAMOCO",
+  "lines": [
+    {
+      "start": 1.75,
+      "end": 2.82,
+      "en": "Oh my god!",
+      "ja": "オーマイガーッ！"
+    },
+    {
+      "start": 11.6,
+      "end": 13.96,
+      "en": "Lemme just... Hang on...",
+      "ja": "ちょっと待って…",
+      "notes": [
+        {
+          "term": "Lemme",
+          "meaning": "let me のくだけた発音表記"
+        }
+      ]
+    },
+    {
+      "start": 21.47,
+      "end": 27.08,
+      "en": "BAU BAU! BAU BAU! BAU BAU! BAU BAU!",
+      "ja": "（ワンワン鳴き声）"
+    },
+    {
+      "start": 32.72,
+      "end": 35.65,
+      "en": "Oh my god! I had a heart attack!",
+      "ja": "オーマイガ！心臓が止まるかと…！"
+    },
+    {
+      "start": 36.39,
+      "end": 40.82,
+      "en": "I had a freakin' heart attack. Uh, doggies. Hi.",
+      "ja": "ガチで止まりかけた… やあ…ワンコ達…"
+    },
+    {
+      "start": 40.49,
+      "end": 43.93,
+      "en": "BAU BAU! BAU BAU! Hi, Calli-senpai! Senpai!",
+      "ja": "カリ先輩！せんぱい！"
+    },
+    {
+      "start": 43.93,
+      "end": 48.8,
+      "en": "Hey, FUWAMOCO... W-Welcome to my stream. Thank you so much for dropping by.",
+      "ja": "やあFUWAMOCO… 配信にまで来てくれて ありがとうね"
+    },
+    {
+      "start": 48.8,
+      "end": 51.4,
+      "en": "I hope you guys enjoyed it. Ah! You're welcome!",
+      "ja": "楽しんでくれてる？ どういたしまして！"
+    },
+    {
+      "start": 51.94,
+      "end": 53.87,
+      "en": "Are we helping you relax?",
+      "ja": "リラックスのお手伝いできた？"
+    },
+    {
+      "start": 54.8,
+      "end": 60.58,
+      "en": "Yeah, they're here to help me relax, guys. My favorite dogs are here to help me chill. Yeah!",
+      "ja": "私をリラックスさせるために かわいいワンコ達が来てくれたよ"
+    },
+    {
+      "start": 61.98,
+      "end": 67.22,
+      "en": "We're gonna be some emotional support. Protect! Guard dogs!",
+      "ja": "先輩の心をお支えします！ 守る！番犬だから！",
+      "notes": [
+        {
+          "term": "emotional support",
+          "meaning": "精神的な支え"
+        }
+      ]
+    },
+    {
+      "start": 67.22,
+      "end": 71.92,
+      "en": "Really? You guys think that you can protect me, maybe? I don't know... F-From the—",
+      "ja": "本当？私のこと守れる？ わかんない…"
+    },
+    {
+      "start": 71.92,
+      "end": 75.33,
+      "en": "From the scary monsters in the game, please? S-Sic 'em!",
+      "ja": "ホラゲーのバケモノから守ってくれる？行け！",
+      "notes": [
+        {
+          "term": "Sic 'em",
+          "meaning": "犬に「やっつけろ！」と指示するときの掛け声"
+        }
+      ]
+    },
+    {
+      "start": 75.33,
+      "end": 79.43,
+      "en": "Sic 'em FUWAMOCO. Sic 'em! Hoeh?! Yeah... Oh my god...",
+      "ja": "やれ！FUWAMOCO！ はぇ… やー… オーマイガ…"
+    },
+    {
+      "start": 81.5,
+      "end": 84.17,
+      "en": "Wait! Wait! AAARGH!",
+      "ja": "まってまって！ あああああああ！"
+    }
+  ]
+}

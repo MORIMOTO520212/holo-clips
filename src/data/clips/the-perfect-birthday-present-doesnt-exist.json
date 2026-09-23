@@ -1,0 +1,162 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "the-perfect-birthday-present-doesnt-exist",
+  "videoId": "qqrQo3ouu4g",
+  "start": 0,
+  "end": 80,
+  "title": "The Perfect Birthday Present Doesn't Exiー",
+  "talent": "Hakos Baelz",
+  "lines": [
+    {
+      "start": 0,
+      "end": 2.09,
+      "en": "\"Hi, Bae! Thank you for always streaming in the morning.",
+      "ja": "「ベー、いつも朝配信ありがとう！」"
+    },
+    {
+      "start": 2.09,
+      "end": 4.32,
+      "en": "Your voice always makes me full of energy when I go to work.",
+      "ja": "「出勤前にベーの声で元気をもらってます」"
+    },
+    {
+      "start": 4.32,
+      "end": 5.79,
+      "en": "And... can I ask you to help me?",
+      "ja": "「ところでひとつお願いが…」"
+    },
+    {
+      "start": 5.79,
+      "end": 9.43,
+      "en": "Today is my birthday, but my birthday cake looks like needs special magic...",
+      "ja": "「今日は私の誕生日なのですが ケーキがおまじないを必要としているのです」"
+    },
+    {
+      "start": 9.43,
+      "end": 10.79,
+      "en": "Can I get your...\"",
+      "ja": "「これを読ん…」"
+    },
+    {
+      "start": 13.1,
+      "end": 15.67,
+      "en": "\"pmmhp she's just figuring out h—\"",
+      "ja": "「逃げ道探してて草」",
+      "notes": [
+        {
+          "term": "figuring out",
+          "meaning": "考えている、糸口を探している"
+        }
+      ]
+    },
+    {
+      "start": 15.67,
+      "end": 18,
+      "en": "No, that's not it. I can read it just fine.",
+      "ja": "いや読めます…ちゃんと読めますよ"
+    },
+    {
+      "start": 18,
+      "end": 19.34,
+      "en": "\"This is maid magic.\"",
+      "ja": "「メイド式おまじないだぞ」"
+    },
+    {
+      "start": 19.34,
+      "end": 20.3,
+      "en": "I, I, I—",
+      "ja": "いや…その…"
+    },
+    {
+      "start": 20.3,
+      "end": 25.27,
+      "en": "I can read it, it's just, I'm trying to seeee...",
+      "ja": "読めるんだけど…ただ…え～っ…と"
+    },
+    {
+      "start": 25.27,
+      "end": 28.75,
+      "en": "\"You gonna let his cake die?\" ...Aaargh! D'oh! *ahem*",
+      "ja": "「ケーキを台無しにする気か？」",
+      "notes": [
+        {
+          "term": "You gonna let ... die?",
+          "match": "You gonna let his cake die?",
+          "meaning": "「〜を死なせる気か？」と強く急かす煽り文句"
+        }
+      ]
+    },
+    {
+      "start": 28.75,
+      "end": 31.38,
+      "en": "\"The cake is dying, hurry!”",
+      "ja": "「急がないとケーキが！」"
+    },
+    {
+      "start": 36.75,
+      "end": 40.82,
+      "en": "Full send, full send, Bae, full send. Alright! Full send full send. OK.",
+      "ja": "全力…全力で行くんだ… 日和っちゃダメだ",
+      "notes": [
+        {
+          "term": "full send",
+          "meaning": "迷わず全力でやる、というスラング表現"
+        }
+      ]
+    },
+    {
+      "start": 40.82,
+      "end": 43.26,
+      "en": "Gotta do the hand, the hand, the hand-heart is where—",
+      "ja": "ちゃんと手でハートも作るわ"
+    },
+    {
+      "start": 43.26,
+      "end": 46.56,
+      "en": "You can't see but I'm doing the hand-heart. Full send, full send, full send...",
+      "ja": "みんなには見えてないだろうけど いくぞいくぞいくぞ"
+    },
+    {
+      "start": 46.56,
+      "end": 49.9,
+      "en": "Oh, oh, oh... Oh... Pffhaー Sorry, okay! Oh!",
+      "ja": "（チューニング）（？）ごめ…ｵ"
+    },
+    {
+      "start": 49.9,
+      "end": 51.77,
+      "en": "Pfft, I can't...",
+      "ja": "むり…！"
+    },
+    {
+      "start": 53.1,
+      "end": 57.04,
+      "en": "Sorry I'm doing it! Okay okay okay okay okay! I'm sorry okay, Here goes nothing.",
+      "ja": "ごめん行きますやるやるごめんて 行きます！",
+      "notes": [
+        {
+          "term": "Here goes nothing",
+          "meaning": "ダメ元でやってみる、というときの決まり文句"
+        }
+      ]
+    },
+    {
+      "start": 57.04,
+      "end": 62.48,
+      "en": "\"Make it yummy for your tummy! Moe moe kyuuun!\"",
+      "ja": "美味しくな～れ❤ 萌え萌えキュ～ン❤",
+      "notes": [
+        {
+          "term": "Moe moe kyuuun",
+          "meaning": "日本のアニメ由来の「萌え萌えキュン」というおまじないの決まり文句"
+        }
+      ]
+    },
+    {
+      "start": 71.42,
+      "end": 73.76,
+      "en": "...Happy birthday.",
+      "ja": "誕生日おめでとうございます"
+    }
+  ]
+}

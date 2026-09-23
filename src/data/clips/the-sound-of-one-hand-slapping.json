@@ -1,0 +1,101 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "the-sound-of-one-hand-slapping",
+  "videoId": "przSDGq_1gs",
+  "start": 0,
+  "end": 45,
+  "title": "The Sound of One Hand Slapping",
+  "talent": "Ceres Fauna, Ouro Kronii, Nanashi Mumei",
+  "lines": [
+    {
+      "start": 1.65,
+      "end": 5.29,
+      "en": "Maybe we need to trick everyone into thinking we're slapping each other.",
+      "ja": "私達がビンタし合う音声とか需要あるかも"
+    },
+    {
+      "start": 5.29,
+      "end": 7.72,
+      "en": "But we don't actually want to slap each other.",
+      "ja": "でも本当にしばき合うのはアレかなぁ"
+    },
+    {
+      "start": 7.72,
+      "end": 9.99,
+      "en": "Oh, okay. Hey, Kronii!",
+      "ja": "ほう ねぇクロニー"
+    },
+    {
+      "start": 10.36,
+      "end": 12.1,
+      "en": "OW!",
+      "ja": "あぁうッ！"
+    },
+    {
+      "start": 12.1,
+      "end": 15.37,
+      "en": "I can't believe you would do that to me!",
+      "ja": "貴様よくもやってくれたな！"
+    },
+    {
+      "start": 15.37,
+      "end": 16.07,
+      "en": "Fauna!",
+      "ja": "ファウナッ！"
+    },
+    {
+      "start": 18.27,
+      "end": 18.77,
+      "en": "Mumei!",
+      "ja": "ムメイッ！"
+    },
+    {
+      "start": 18.77,
+      "end": 19.84,
+      "en": "No, I like to watch.",
+      "ja": "私は見て愉しむ派で…"
+    },
+    {
+      "start": 19.84,
+      "end": 22.47,
+      "en": "Yeah, that's why, you bystander.",
+      "ja": "おやおや都合のいいこったなぁ！",
+      "notes": [
+        {
+          "term": "bystander",
+          "meaning": "傍観者、見ているだけの人"
+        }
+      ]
+    },
+    {
+      "start": 26.08,
+      "end": 27.68,
+      "en": "I can slap myself.",
+      "ja": "自分でやるから大丈夫"
+    },
+    {
+      "start": 29.05,
+      "end": 32.08,
+      "en": "No. Here, I'll do it for you.",
+      "ja": "ダメ しばいてあげる",
+      "notes": [
+        {
+          "term": "Here, I'll do it for you.",
+          "meaning": "「はい、代わりにやってあげる」と申し出るときの言い方"
+        }
+      ]
+    },
+    {
+      "start": 34.75,
+      "end": 35.95,
+      "en": "Thank you.",
+      "ja": "ありがとう"
+    },
+    {
+      "start": 36.42,
+      "end": 38.12,
+      "en": "\"Thank you\"?!",
+      "ja": "ありがとう…？"
+    }
+  ]
+}

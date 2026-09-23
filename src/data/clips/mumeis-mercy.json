@@ -1,0 +1,278 @@
+{
+  "$schema": "../clip.schema.json",
+  "id": "mumeis-mercy",
+  "videoId": "6vYOxfQ6vrQ",
+  "start": 0,
+  "end": 109,
+  "title": "Mumei's Mercy | S8/E4 (2024)",
+  "talent": "Nanashi Mumei",
+  "lines": [
+    {
+      "start": 0.0,
+      "end": 3.29,
+      "en": "The next thing that enrages me",
+      "ja": "続きまして…許せないもの…",
+      "notes": [
+        {
+          "term": "enrage",
+          "match": "enrages",
+          "meaning": "激怒させる"
+        }
+      ]
+    },
+    {
+      "start": 3.29,
+      "end": 10.93,
+      "en": "is people who are too lazy to return the grocery cart!",
+      "ja": "ショッピングカートを元の場所へ戻さない奴ら！"
+    },
+    {
+      "start": 10.93,
+      "end": 14.43,
+      "en": "You had the energy to go into the store,",
+      "ja": "店に入って買い物して…"
+    },
+    {
+      "start": 14.43,
+      "end": 15.97,
+      "en": "collect your groceries,",
+      "ja": "外まで運んで…"
+    },
+    {
+      "start": 15.97,
+      "end": 20.0,
+      "en": "and push it out, trolley, cart, whatever the heck you wanna call it!",
+      "ja": "そこまでは頑張れるっていうのに…",
+      "notes": [
+        {
+          "term": "whatever the heck",
+          "meaning": "「一体何と呼ぼうと」。heck は hell を和らげた口語表現"
+        }
+      ]
+    },
+    {
+      "start": 20.0,
+      "end": 23.24,
+      "en": "You had the energy, the strength, to do all that.",
+      "ja": "そこまでちゃんとする元気があるのに"
+    },
+    {
+      "start": 23.24,
+      "end": 26.81,
+      "en": "And you cannot return an empty cart?",
+      "ja": "なぜお前はカートを戻せないのか？"
+    },
+    {
+      "start": 26.81,
+      "end": 28.18,
+      "en": "Not only that, not only that!",
+      "ja": "それだけじゃない！"
+    },
+    {
+      "start": 28.18,
+      "end": 30.15,
+      "en": "Not, you know, not just leaving it to the side,",
+      "ja": "端っこやその辺に放置するとか"
+    },
+    {
+      "start": 30.15,
+      "end": 31.85,
+      "en": "leaving it in a random spot,",
+      "ja": "それならともかく"
+    },
+    {
+      "start": 31.85,
+      "end": 33.08,
+      "en": "You know, not just that!",
+      "ja": "あろうことか…"
+    },
+    {
+      "start": 33.08,
+      "end": 37.52,
+      "en": "Leaving it in a parking spot.",
+      "ja": "カートを駐車場に放置する奴もいる"
+    },
+    {
+      "start": 37.52,
+      "end": 39.12,
+      "en": "What is wrong with you?",
+      "ja": "お前どうした？"
+    },
+    {
+      "start": 39.12,
+      "end": 43.43,
+      "en": "At-At least push it to the side if you are going to be that lazy!",
+      "ja": "面倒くさくても、せめて端には寄せろ"
+    },
+    {
+      "start": 43.43,
+      "end": 46.4,
+      "en": "At least, leave it out of the way!",
+      "ja": "せめて！邪魔にならない場所に！"
+    },
+    {
+      "start": 46.4,
+      "end": 48.9,
+      "en": "But leaving it not at a parking spot—",
+      "ja": "なんと駐車場どころか…"
+    },
+    {
+      "start": 48.9,
+      "end": 51.04,
+      "en": "In the middle of the road!",
+      "ja": "道路の真ん中に放置する奴まで！"
+    },
+    {
+      "start": 51.04,
+      "end": 51.84,
+      "en": "Who the heck—",
+      "ja": "ふざけ…っ！"
+    },
+    {
+      "start": 51.84,
+      "end": 54.71,
+      "en": "OK, maybe those are just ones that were not returned,",
+      "ja": "そりゃね、ただ戻し忘れたカートが"
+    },
+    {
+      "start": 54.71,
+      "end": 57.74,
+      "en": "and, you know, ended up rolling or something?",
+      "ja": "転がってきたって可能性もあるよ？",
+      "notes": [
+        {
+          "term": "end up ...ing",
+          "match": "ended up rolling",
+          "meaning": "結局〜することになる"
+        }
+      ]
+    },
+    {
+      "start": 57.74,
+      "end": 60.04,
+      "en": "But when I— when I see them in parking spots",
+      "ja": "でも駐車場にカートを放置したら"
+    },
+    {
+      "start": 60.04,
+      "end": 61.21,
+      "en": "they're usually at the end,",
+      "ja": "最終的に…"
+    },
+    {
+      "start": 61.21,
+      "end": 64.28,
+      "en": "Like, where, you know, where would you call that?",
+      "ja": "あれ…あの…なんて言うんだ？"
+    },
+    {
+      "start": 64.28,
+      "end": 68.59,
+      "en": "I could see how they could easily end up going into the road, in the middle of the road.",
+      "ja": "すぐに道路まで転がってきちゃうわけよ"
+    },
+    {
+      "start": 68.59,
+      "end": 69.72,
+      "en": "I just don't get it.",
+      "ja": "意味分かんない"
+    },
+    {
+      "start": 69.72,
+      "end": 74.99,
+      "en": "Why is it so hard to return it, after all you did with that cart, or trolley?",
+      "ja": "買い物の後にカートを戻すのがそんなに難しい？"
+    },
+    {
+      "start": 74.99,
+      "end": 77.9,
+      "en": "After, the 10 minutes?",
+      "ja": "買い物は10分？"
+    },
+    {
+      "start": 77.9,
+      "end": 78.6,
+      "en": "20 minutes?",
+      "ja": "20分？"
+    },
+    {
+      "start": 78.6,
+      "end": 79.2,
+      "en": "30 minutes?",
+      "ja": "30分？"
+    },
+    {
+      "start": 79.2,
+      "end": 79.86,
+      "en": "40 minutes?",
+      "ja": "40分？"
+    },
+    {
+      "start": 79.86,
+      "end": 80.53,
+      "en": "Hour?",
+      "ja": "1時間？"
+    },
+    {
+      "start": 80.53,
+      "end": 85.24,
+      "en": "...You spent with that trolley/cart, getting to know it,",
+      "ja": "その時間をそのカートと過ごしカートと出会い"
+    },
+    {
+      "start": 85.24,
+      "end": 87.64,
+      "en": "and trusting it with your food.",
+      "ja": "カートに食べ物を託し"
+    },
+    {
+      "start": 87.64,
+      "end": 89.64,
+      "en": "The journey you went on, with that—",
+      "ja": "カートと旅をしたなら…"
+    },
+    {
+      "start": 89.64,
+      "end": 91.78,
+      "en": "You did not have the decency",
+      "ja": "最後は家まで送ってやるのが",
+      "notes": [
+        {
+          "term": "have the decency to do",
+          "match": "have the decency",
+          "meaning": "〜する礼儀・良識がある"
+        }
+      ]
+    },
+    {
+      "start": 91.78,
+      "end": 94.04,
+      "en": "to return it to its home,",
+      "ja": "良識ってものじゃない？"
+    },
+    {
+      "start": 94.04,
+      "end": 95.65,
+      "en": "so it could be safe?",
+      "ja": "危ないとは思わない？"
+    },
+    {
+      "start": 95.65,
+      "end": 101.32,
+      "en": "And so that others could be safe, and not hit carts?",
+      "ja": "周りの人にぶつかったらとか思わない？"
+    },
+    {
+      "start": 101.32,
+      "end": 104.19,
+      "en": "Shame. Shame...",
+      "ja": "恥を知れ"
+    },
+    {
+      "start": 105.02,
+      "end": 108.06,
+      "en": "Absolute shame!",
+      "ja": "恥を知れ！"
+    }
+  ]
+}
